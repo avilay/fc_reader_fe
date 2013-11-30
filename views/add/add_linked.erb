@@ -1,0 +1,10 @@
+<h2 class="text-primary">Feeds found the page</h2>
+
+<form role="form" action="/feeds/add_linked" method="POST">
+  <div class="form-group">
+    <% @linked_feeds.each do |linked_feed| %>
+      <input type="checkbox" name="<%= linked_feed %>"><%= linked_feed %><br/>
+    <% end %>
+  </div>
+  <input type="submit" class="btn btn-primary" value="Add Selected" />
+</form>

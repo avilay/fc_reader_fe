@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+<channel>
+	<title>Joel on Software</title> 
+	<link>http://www.joelonsoftware.com</link> 
+	<description>Painless Software Management</description> 
+
+	<language>en-us</language> 
+	<copyright>Copyright 1999-2008 Joel Spolsky.</copyright> 
+
+	<managingEditor>Joel Spolsky</managingEditor> 
+
+	<webMaster>webmaster@fogcreek.com</webMaster> 
+
+<image>
+	<title>Joel On Software</title> 
+	<url>http://www.joelonsoftware.com/RssJoelOnSoftware.jpg</url> 
+	<link>http://www.joelonsoftware.com</link> 
+	<width>144</width> 
+	<height>25</height> 
+	<description>Painless Software Management</description> 
+</image>
+
+<item>
+	<title>Victory Lap for Ask Patents</title>
+	<link>http://www.joelonsoftware.com/items/2013/07/22.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2013/07/22.html</guid>
+	<pubDate>22 Jul 2013 14:55:00 EST</pubDate>
+	<description>
+<![CDATA[
+<p>There are a lot of people complaining about lousy software patents these days. I say, stop complaining, and start killing them. It took me about fifteen minutes to stop a crappy Microsoft patent from being approved. Got fifteen minutes? You can do it too.</p>
+<p>In a minute, I’ll tell you that story. But first, a little background.</p>
+<p>Software developers don’t actually <em>invent</em> very much. The number of actually novel, non-obvious <em>inventions</em> in the software industry that <em>may</em>be, in <em>some</em> universe, deserve a government-granted monopoly is, perhaps, two. </p>
+<p>The other <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2016968">40,000-odd software patents</a> issued every year are mostly garbage that any working programmer could “invent” three times before breakfast. Most issued software patents aren’t “inventions” as most people understand that word. They’re just things that any first-year student learning Java should be able to do as a homework assignment in two hours.</p>
+<p>Nevertheless, a lot of companies large and small have figured out that patents are worth money, so they try to file as many as they possibly can. They figure they can generate a big pile of patents as an inexpensive byproduct of the R&amp;D work they’re doing anyway, just by sending some lawyers around the halls to ask programmers what they’re working on, and then attempting to patent everything. Almost everything they find is either obvious or has been done before, so it shouldn’t be patentable, but they use some sneaky tricks to get these things through the patent office. </p>
+<p>The first technique is to try to make the language of the patent as confusing and obfuscated as possible. That actually makes it harder for a patent examiner to identify prior art or evaluate if the invention is obvious. </p>
+<p>A bonus side effect of writing an incomprehensible patent is that it works better as an infringement trap. Many patent owners, especially the troll types, don’t really want you to <em>avoid</em> their patent. Often they actually want you to <em>infringe</em> their patent, and then build a big business that relies on that infringement, and <em>only then</em> do they want you to <em>find out</em> about the patent, so you are in the worst possible legal position and can be extorted successfully. The harder the patent is to read, the more likely it will be inadvertently infringed.</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/07/22invent.JPG"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/07/22invent-thumbnail.JPG" /></a></span>The second technique to getting bad software patents issued is to use a thesaurus. Often, software patent applicants make up new terms to describe things with perfectly good, existing names. A lot of examiners will search for prior art using, well, search tools. They have to; no single patent examiner can possibly be aware of more than (rounding to nearest whole number) 0% of the prior art which might have invalidated the application.</p>
+<p>Since patent examiners rely so much on keyword searches, when you submit your application, if you can change some of the keywords in your patent to be different than the words used everywhere else, you might get your patent through even when there’s blatant prior art, because by using weird, made-up words for things, you’ve made that prior art harder to find.&nbsp;</p>
+<p>Now on to the third technique. Have you ever seen a patent application that appears ridiculously broad? (“Good lord, they’re trying to patent CARS!”). Here’s why. The applicant is deliberately overreaching, that is, striving to get the broadest possible patent knowing that the worst thing that can happen is that the patent examiner whittles their claims down to what they were entitled to patent anyway.</p>
+<p>Let me illustrate that as simply as I can. At the heart of a patent is a list of claims: the things you allege to have invented that you will get a monopoly on if your patent is accepted.</p>
+<p>An example might help. Imagine a simple application with these three claims:</p>
+<p>1. A method of transportation<br />2. The method of transportation in claim 1, wherein there is an engine connected to wheels<br />3. The method of transportation in claim 2, wherein the engine runs on water</p>
+<p>Notice that claim 2 mentions claim 1, and narrows it... in other words, it claims a strict subset of things from claim 1.</p>
+<p>Now, suppose you invented the water-powered car. When you submit your patent, you might submit it this way even knowing that there’s prior art for “methods of transportation” and you can’t really claim all of them as your invention. The theory is that (a) hey, you might get lucky! and (b) even if you don’t get lucky and the first claim is rejected, the narrower claims will still stand.</p>
+<p>What you’re seeing is just a long shot lottery ticket, and you have to look deep into the narrower claims to see what they really expect to get. And you never know, the patent office might be asleep at the wheel and BOOM you get to extort everyone who makes, sells, buys, or rides transportation.</p>
+<p>So anyway, a lot of crappy software patents get issued and the more that get issued, the worse it is for software developers.</p>
+<p>The patent office got a little bit of heat about this. The America Invents Act changed the law to allow the public to submit examples of prior art while a patent application is being examined. And that’s why the USPTO asked us to set up <a href="http://askpatents.com/">Ask Patents</a>, a Stack Exchange site where software developers like you can submit examples of prior art to stop crappy software patents even before they’re issued.</p>
+<p>Sounds hard, right?</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/07/22stack.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/07/22stack-thumbnail.jpg" /></a></span>At first I honestly thought it was going to be hard. Would we even be able to find vulnerable applications? The funny thing is that when I looked at a bunch of software patent applications at random I came to realize that they were <em>all</em> bad, which makes our job much easier.</p>
+<p>Take patent application <a href="http://www.google.com/patents/us20130063492">US 20130063492 A1</a>, submitted by Microsoft. An Ask Patent user submitted <a href="http://patents.stackexchange.com/questions/3566/call-for-prior-art-microsoft-scaling-based-on-pixel-density">this call for prior art</a>&nbsp;on March 26th. </p>
+<p>I tried to find prior art for this just to see how hard it was. First I read the application. Well, to be honest, I kind of glanced at the application. In fact I skipped the abstract and the description and went straight to the claims. Dan Shapiro has great blog post called <a href="http://www.danshapiro.com/blog/2010/09/how-to-read-a-patent-in-60-second/">How to Read a Patent in 60 Seconds</a> which taught me how to do this.</p>
+<p>This patent was, typically, obfuscated, and it used terms like “pixel density” for something that every other programmer in the world would call “resolution,” either accidentally (because Microsoft’s lawyers were not programmers), or, more likely, because the obfuscation makes it that much harder to search.</p>
+<p>Without reading too deeply, I realized that this patent is basically trying to say “Sometimes you have a picture that you want to scale to different resolutions. When this happens, you might want to have multiple versions of the image available at different resolutions, so you can pick the one that’s closest and scale that.”</p>
+<p>This didn’t seem novel to me. I was pretty sure that the Win32 API already had a feature to do something like that. I remembered that it was common to provide multiple icons at different resolutions and in fact I was pretty sure that the operating system could pick one based on the resolution of the display. So I spent about a minute with Google and eventually (<em>bing!</em>) found this interesting document entitled <a href="http://www.scribd.com/doc/132533533/Writing-DPI-Aware-Applications">Writing DPI-Aware Win32 Applications [PDF]</a> written by Ryan Haveson and Ken Sykes at, what a coincidence, Microsoft. </p>
+<p>And it was written in 2008, while Microsoft’s new patent application was trying to claim that this “invention” was “invented” in 2011. Boom. Prior art found, and deployed.</p>
+<p>Total time elapsed, maybe 10 minutes. One of the participants on Ask Patents pointed out that the patent application referred to something called “scaling sets.” I wasn’t sure what that was supposed to mean but I found a specific part of the older Microsoft document that demonstrated this “invention” without using the same word, so I edited my answer a bit to point it out. <a href="http://patents.stackexchange.com/a/3569">Here’s my complete answer on AskPatents</a>.</p>
+<p>Mysteriously, whoever it was that posted the request for prior art checked the&nbsp;<em>Accepted</em> button on Stack Exchange. We thought this might be the patent examiner, but it was posted with a generic username.</p>
+<p>At that point I promptly forgot about it, until May 21 (two months later), when I got this email from Micah Siegel (Micah is our full-time patent expert):</p>
+<blockquote style="MARGIN-RIGHT: 0px" dir="ltr">
+<p><tt>The USPTO rejected Microsoft's Resizing Imaging Patent!</tt></p>
+<p><tt>The examiner referred specifically to Prior Art cited in Joel's answer ("Haveson et al").</tt></p>
+<p><tt>Here is the actual document rejecting the patent. It is a clean sweep starting on page 4 and throughout, basically citing rejecting the application as obvious in view of Haveson.</tt></p></blockquote>
+<p>Micah showed me a document from the USPTO confirming that they had rejected the patent application, and the rejection relied very heavily on the document I found. This was, in fact, the first “confirmed kill” of Ask Patents, and it was really surprisingly easy. I didn’t have to do the hard work of studying everything in the patent application and carefully proving that it was all prior art: the examiner did that for me. (It’s a pleasure to read him demolish the patent in question, all twenty claims, if that kind of schadenfreude amuses you).</p>
+<blockquote style="MARGIN-RIGHT: 0px" dir="ltr">
+<p>(If you want to see the rejection, go to <a href="http://portal.uspto.gov/pair/PublicPair">Public Pair</a> and search for publication number <strong>US 20130063492 A1</strong>. Click on <em>Image File Wrapper</em>, and look at the non-final rejection of 4-11-2013. Microsoft is, needless to say, appealing the decision, so this crappy patent may re-surface.)</p></blockquote>
+<p>There is, though, an interesting lesson here. Software patent applications are of uniformly poor quality. They are remarkably easy to find prior art for. Ask Patents can be used to block them with very little work. And this kind of individual destruction of one software patent application at a time might start to make a dent in the mountain of bad patents getting granted.</p>
+<p>My dream is that when big companies hear about how friggin’ easy it is to block a patent application, they’ll use Ask Patents to start messing with their competitors. How cool would it be if Apple, Samsung, Oracle and Google got into a Mexican Standoff on Ask Patents? If each of those companies had three or four engineers dedicating a few hours every day to picking off their competitors’ applications, the number of granted patents to those companies would grind to a halt. Wouldn’t that be something!</p>
+<p>Got 15 minutes? Go to <a href="http://patents.stackexchange.com/">Ask Patents</a> right now, and see if <a href="http://patents.stackexchange.com/questions/tagged/prior-art-request?sort=active&amp;pagesize=25">one of these RFPAs</a> covers a topic you know something about, and post any examples you can find. They’re hidden in plain view; most of the prior art you need for software patents can be found on Google. Happy hunting!</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>Free as in Fortune Cookies</title>
+	<link>http://www.joelonsoftware.com/items/2013/04/30.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2013/04/30.html</guid>
+	<pubDate>30 Apr 2013 15:42:55 EST</pubDate>
+	<description>
+<![CDATA[
+<p><!-- ohai! --><a href="http://trello.com/">Trello</a> has been out for less than two years and it’s been growing like wildfire. We recently hit 1.5 million members, of whom about 1/3 perform some action every month, and our MongoDB database now contains more than 70 million cards on 3.7 million boards.</p>
+<p>So the obvious question I get all the time is, “How exactly are you supposed to make money with that?”</p>
+<p>You may have noticed that Trello is free. Not “free trial,” not “freemium,” but just plain old free. Some people have justifiably wondered if it really makes sense to pay a dozen people, nestled in fancy offices with free lunch and espresso, to develop software that we have to pay Amazon cash money to host, while not actually charging for said software. Some have commented that this business model might actually be just a few fries short of a Happy Meal.</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/04/TrelloCookie.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/04/TrelloCookie-thumbnail.jpg" /></a></span>What we really wanted to do was make a free product that helps millions of people, and then find some way to get paid by the 1% of those people who get the most value out of it. The 1% are delighted to pay. They actually email us asking if there is some way they can pay us. A <a href="http://www.fancyfortunecookies.com/">fortune-cookie factory</a> was so pleased with Trello they sent us a crate of tasty fortune cookies. Custom, Trello-color fortune cookies, with Trello fortunes inside.  (Don’t tell the IRS, because that’s basically all we’ve made off of Trello to date, and I don’t think we declared it.)</p>
+<p>How do you identify the users who get the most value out of Trello? We thought any medium-to-large organization with lots of different Trello boards and many active Trello users must qualify. So then we tried to think of what kind of value-added stuff we could build and sell (for money) to organizations with lots of active users. Besides cookie dough.</p>
+<p>The most obvious things were features around security (permissions, backups, etc). Big organizations have people coming and going all the time, so they might benefit from tools that make it easy to add people to Trello en-masse, and tools to make sure that when people leave the organization, they're removed from any boards they should be removed from. The kind of stuff that’s helpful when tens or thousands of people inside an organization are all using Trello every day. </p>
+<p>We also added a feature called “observers,” which lets you add people to a board who might have permission to watch, vote, and comment, but who can’t add cards or move cards around. This is meant to give professional landscapers, developers, web designers, consultants, and fortune-cookie factories a way to let their paying customers peek in on the progress of their project without messing it up. It’s a classic example of a feature that is only useful when you’re in that class of Trello users who get the most value out of it, so paying should be a no-brainer.</p>
+<p>We bundled these features up and called them <a href="http://trello.com/business-class">Trello Business Class</a>. It's available today for $25 a month (per organization), or $200/year if you’d like to pay in advance. Of course, Trello itself is, and will remain, free, but starting today, we hope to actually make a little bit of walking-around money, too.</p>
+<p>In the future we'll continue to add free features to Trello (there is a lot of exciting stuff in the hopper)—anything that is a common feature, useful to anyone, will be free. We’ll also continue to develop new Business Class features that help large organizations manage Trello, and we may come up with other things to sell to people who are getting a lot of value out of Trello. In the meantime, we sure appreciate the cookies!</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>The Patent Protection Racket</title>
+	<link>http://www.joelonsoftware.com/items/2013/04/02.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2013/04/02.html</guid>
+	<pubDate>02 Apr 2013 13:31:45 EST</pubDate>
+	<description>
+<![CDATA[
+<p>The fastest growing industry in the US right now, even during this time of slow economic growth, is probably the patent troll protection racket industry. Lawsuits surrounding software patents have <a href="https://www.eff.org/deeplinks/2012/02/why-patent-system-doesnt-play">more than tripled since 1999</a>.</p>
+<p>It’s a great business model. </p>
+<p>Step one: buy a software patent. There are millions of them, and they’re all quite vague and impossible to understand.</p>
+<p>Step two: FedEx a carefully crafted letter to a few thousand small software companies, iPhone app developers, and Internet startups. This is where it gets a tiny bit tricky, because the recipients of the letter need to think that it’s a threat to sue if they don’t pay up, but in court, the letter has to look like an invitation to license some exciting new technology. In other words it has to be <em>just on this side</em> of extortion.</p>
+<p>Step three: wait patiently while a few thousand small software companies call their lawyers, and learn that it’s probably <a href="http://www.marco.org/2011/05/23/why-marco-arment-is-wrong">better</a> just to pay off the troll, because even beginning to fight the thing using the legal system is going to cost a million dollars.</p>
+<p>Step four: Profit!</p>
+<p>What does this sound like? Yes, it’s a textbook case of a <a href="http://en.wikipedia.org/wiki/Protection_racket">protection racket</a>. It is organized crime, plain and simple. It is an abuse of the legal system, an abuse of the patent system, and a moral affront.</p>
+<p>In the face of organized crime, civilized people don’t pay up. When you pay up, you’re funding the criminals, which makes you complicit in their next attacks. I know, you’re just trying to write a little app for the iPhone with in-app purchases, and you didn’t ask for this fight to be yours, but if you pay the trolls, giving them money and comfort to go after the next round of indie developers, you’re not just being “pragmatic,” you have actually gone over to the dark side. Sorry. Life is a bit hard sometimes, and sometimes you have to step up and fight fights that you never signed up for.</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/04/7samurai.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/04/7samurai-thumbnail.jpg" /></a></span>Civilized people don’t pay up. They band together, and fight, and eliminate the problem. The EFF is launching a major <a href="https://www.eff.org/patent">initiative</a> to reform the patent system. At Stack Exchange, we’re trying to help with <a href="http://patents.stackexchange.com/">Ask Patents</a>, which will hopefully block a few bad patents before they get issued.</p>
+<p>The <a href="http://appdevelopersalliance.org/">Application Developers Alliance</a>&nbsp;(of which I am currently serving as the chairman of the board) is also getting involved with a series of <a href="http://devsbuild.it/devpatentsummit">Developer Patent Summits</a>, a nationwide tour of 15 cities, which will kick off a long term program to band together to fight patent trolls. Come to the summit in your city—I’ll be at the San Francisco event on April 9th—and find out what you can do to help.</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>Town Car Version Control</title>
+	<link>http://www.joelonsoftware.com/items/2013/03/11.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2013/03/11.html</guid>
+	<pubDate>11 Mar 2013 20:34:31 EST</pubDate>
+	<description>
+<![CDATA[
+<p>
+The team at Fog Creek is releasing a major new version of <a href="http://www.fogcreek.com/kiln">Kiln</a> today. Kiln is a distributed version control system. </p>
+<p>One of the biggest new features is Kiln Harmony, which lets you operate on Kiln repositories using either Git or Mercurial. So you can push changes to a Kiln repo using Git and then pull them using Mercurial. This means that you never have to decide whether you want to use Git or Mercurial. Religious war: averted. </p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/03/11 taco.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/03/11 taco-thumbnail.jpg" /></a></span>But, I’m getting ahead of myself!</p><p>
+For those of you that have been living under a rock, the single biggest change in developers’ lives in the last decade (besides <a href="http://stackoverflow.com/">Stack Overflow</a>, natch) is&nbsp;<a href="http://www.joelonsoftware.com/items/2010/03/17.html">Distributed Version Control</a>. DVCS is such an important improvement over the previous generation of centralized version control (Subversion, CVS, etc.) that it’s a required upgrade, even though it’s honestly a bit harder to use.
+</p><p>
+
+The popular DVCS options are Git and Mercurial. Both are open source. They are very, very similar in capabilities and operation; in fact, they are so similar that Kiln Harmony hides all the differences, so you can use any Git <em>or</em> Mercurial tool to work with any Kiln repository.
+</p><p>
+
+If Git and Mercurial are open source, why are people making money selling them?
+</p><p>
+
+The short answer is that the open source tools are kind of raw. They're dune buggies. Powerful, yes, and sufficient for a college project, but as it turns out, people buy Cadillacs, not dune buggies, to drive around in, because they like to have windshield wipers, 14-way power adjustable seats, and a way to start the engine from twenty feet away. Just in case you live in a Hollywood movie and the ignition has been hooked up to a bomb.
+</p><p>
+
+<a href="http://www.fogcreek.com/">Fog Creek</a> (and others, notably <a href="https://github.com/">GitHub</a>) are making money selling version control by providing a whole bunch of features that make the overall code management experience easier and more useful. For example, we both provide professional, secure hosting, a web management and administration interface, and somebody you can call for help.
+</p><p>
+
+Where we differ is that Kiln is more focused on the corporate market, while GitHub was designed for open source projects. I think of Kiln as the corporate Lincoln Town Car, while GitHub is kind of a VW Minibus. Both are eminently better choices than using raw Git.
+</p><p>
+
+So, specifically, Kiln gives you corporate things like:</p>
+<ul>
+	<li>code reviews</li>
+	<li>access control and permissions</li>
+<li>fast code search</li>
+	<li>a news feed to follow code you care about</li></ul>
+<p>GitHub gives you things that match the sociology of open source projects:</p>
+<ul>
+	<li>public home pages</li>
+	<li>a social network, with profiles</li>
+	<li>fork and pull workflow</li>
+</ul>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/03/11-taco2.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/03/11-taco2-thumbnail.jpg" /></a></span>Since internal corporate projects have a very different sociology than open source projects, Kiln is very different than GitHub. On internal projects, almost all code that is developed is eventually used, although it needs to be reviewed, so Kiln kind of assumes that everything you do is most likely going to end up in the main code base, and we have a slick code review system.
+</p><p>
+
+On open source projects, contributions can come from volunteers all over the Internet, many of whom are happy to fork the code for their own needs. So GitHub provides a social network, emphasizes the ease of forking someone else's code (something you're unlikely to do in a closed corporate environment), and has a thing called a <a href="https://help.github.com/articles/using-pull-requests">pull request</a> that matches the way people tend to collaborate on open source projects without advance coordination.
+</p><p>
+
+ANYWAY, back to the new version of Kiln.
+</p><p>
+
+When Tyler and Ben built Kiln 1.0, they built it on Mercurial. Why? Well, Mercurial had pretty much all the same concepts as Git, but Git was historically unfriendly to Windows which is used by many of our corporate clients. We also thought that the Mercurial command line (hg) was a bit closer to Subversion (svn) which a lot of programmers were already used to.</p><p>
+
+So, long story short, we decided Mercurial was about 1% better than Git and that's the way we went. We didn't want to start a holy war, and we liked Git, but we just had a feeling that all else being equal, Mercurial was <em>marginally</em> better than Git.
+</p><p>
+
+We still think that, but in the years since Kiln first shipped, GitHub has taken the world by storm, creating an ecosystem around Git that more than makes up for its minor failings. Today Git is without a doubt more popular. So we knew we needed to add Git to Kiln.
+</p><p>
+
+<span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2013/03/11-taco3.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2013/03/11-taco3-thumbnail.jpg" /></a></span>We could have done it the lazy way: support both kinds of repositories and make you choose which one to use. Maybe add some nice conversion tools.
+</p><p>
+
+But we are not lazy. We decided to do it the <em>awesome</em>&nbsp;way.
+</p><p>
+
+We decided that the awesome way would be to make Kiln fully bilingual. It stores every repo in <em>both</em> formats. It automatically converts everything back and forth, always. The translation is 1:1, reversible, and round-trippable. Whatever you do to a Kiln repository using Git will be immediately visible to Mercurial users and vice versa.
+</p><p>
+
+Every user of every Kiln repo can choose either Mercurial or Git, and everything always works.
+</p><p>
+
+You can push in Git, and pull in Mercurial. Or vice versa. Or both.
+</p><p>
+
+A team that uses Mercurial internally (and barely understands Git) can push their code to GitHub and interact with the GitHub community.
+</p><p>
+
+If your team likes Git but you prefer Mercurial yourself, you can use a different version control system than everybody else on your team and, honestly, they don't even have to know.
+</p><p>
+
+If your team is using Mercurial today but you want to switch to Git, you can move over -- one person at a time. If Joe in Accounting refuses to move, it doesn't matter. He can keep using Mercurial.
+</p><p>
+
+Everything maps. Everything round-trips.
+</p><p>
+
+There are some other big improvements in the version of Kiln available today. Super-fast code search. SSH and IP-whitelisting for security. Project READMEs. A bunch of other improvements throughout the interface that will be a huge upgrade for anyone already using Kiln. If you’re interested, you can <a href="https://secure.fogcreek.com/kiln/try">start a free trial online</a>.</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>Software Inventory</title>
+	<link>http://www.joelonsoftware.com/items/2012/07/09.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2012/07/09.html</guid>
+	<pubDate>09 Jul 2012 10:35:16 EST</pubDate>
+	<description>
+<![CDATA[
+<p>Imagine, for a moment, that you came upon a bread factory for the first time. At first it just looks like a jumble of incomprehensible machinery with a few people buzzing around. As your eyes adjust you start to see little piles of things that you <em>do</em> understand. Buckets of sesame seeds. Big vats of dough. Little balls of dough. Baked loaves of bread.</p>
+<p>Those things are inventory. Inventory tends to pile up between machines. Next to the machine where sesame seeds are applied to hamburger buns, there’s a big vat of...sesame seeds. At the very end of the assembly line, there are boxes and boxes of bread, waiting for trucks to drive them off to customers.</p>
+<p>Keeping inventory costs money. Suppose your bakery has six 50-ton silos to store flour. Whenever they empty out, you fill them up. That means on the average day you have 150 metric tons of wheat flour in stock. At today’s prices, you’ve tied up $73,000. Forever.</p>
+<p>Inventory may have other costs too, like spoilage. Flour lasts for months, but the minute bread comes out of the oven it starts dropping in value; after 24 hours it’s nearly worthless.</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2012/07/09taco1.JPG"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2012/07/09taco1-thumbnail.JPG" /></a></span>Why keep inventory at all? Because there are costs associated with running out of things, too. If sesame seeds take two days to order, and you run out of sesame seeds, you are out of the hamburger bun business for two days. Inventory provides a buffer that prevents any part of the process from stalling. There are modern algorithms to optimize how much buffer you need at every point (read up on Toyota’s lean production system and the Theory of Constraints to get started).</p>
+<p>Why do I care about any of this? The software production process has several major “inventory” accumulation points, itself. Stuff accumulates at those points and ends up wasting a lot of time and money.</p>
+<p>“What? How is software like a factory?” you ask.</p>
+<p>Think of product ideas as the raw material. Depending on your process, product ideas may go through several assembly line points before they are delivered as finished features to the customer:</p>
+<ol>
+<li>A decision-making process (should we implement this feature?)</li>
+<li>A design process (specs, whiteboards, mockups, etc)</li>
+<li>An implementation process (writing code)</li>
+<li>A testing process (finding bugs)</li>
+<li>A debugging process (fixing bugs)</li>
+<li>A deployment process (sending code to customers, putting it on web server, etc)</li></ol>
+<p>(PS No, this is not “waterfall.” No it isn’t. Is <em>not. </em>Shut up.)</p>
+<p>In between each of these stages, inventory can pile up. For example, when a programmer finishes implementing their code (stage 3) they give it to a tester to check (stage 4). At any given time, there is a certain amount of code waiting to be tested. That code is inventory.</p>
+<p>The “cost” of code inventory is huge. It might add up to six or twelve months of work that is stuck in the assembly line and not yet in customers’ hands. This could be the difference between having a cutting-edge product (iPhone) or constantly playing catchup (Windows Phone). It’s nearly impossible to get people to buy Windows Phones, even if the iPhone is only six months better. A lot of markets have network effects, and being first has winner-take-all implications. So getting rid of inventory in the development process can make or break a product.</p>
+<p>Let’s go over the three places most inventory accumulates.</p>
+<p><strong>Feature backlogs.</strong> Every product attracts new feature ideas, and you can’t implement ideas as fast as you can think them up, so you write them down, and this list is called the feature backlog. A lot of the ideas on the backlog are bad ideas, and you merely wrote them down to avoid hurting the feelings of the people who thought them up. Backlogs make everyone feel good. </p>
+<p>The trouble is that 90% of the things in the feature backlog will never get implemented, ever. So every minute you spent writing down, designing, thinking about, or discussing features that are never going to get implemented is just time wasted. When I hear about product teams that regularly have “backlog grooming” sessions, in which they carefully waste a tiny amount of time and mental energy every day or every week thinking about every single feature which will never be implemented, I want to poke my eyes out.</p>
+<ul>
+<li>Suggestion: Do not allow more than a month or two of work to get into the feature backlog list. Once the backlog is full, do not allow new items to be added unless you remove an item. Do not spend any time speccing, designing, or talking about backlog items: the backlog, in fact, should be seen as a list of things you are not allowed to talk about or work on.</li></ul>
+<p><strong><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2012/07/09taco2.JPG"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2012/07/09taco2-thumbnail.JPG" /></a></span>The bug database</strong> is obviously a great thing to have. Bug reports should be complete, accurate, and actionable. But I have noticed that in many real-world companies, the desire never to miss any bug report leads to bug bankrupcy, where you wake up one day and discover that there are 3000 open bugs in the database, some of which are so old they may not apply any more, some of which can never be reproduced, and most of which are not even worth fixing because they’re so tiny. When you look closely you realize that months or years of work has gone into preparing those bug reports, and you ask yourself, how could we have 3000 bugs in the database while our product is delightful and customers love it and use it every day? At some point you realize that you’ve put too much work into the bug database and not quite enough work into the product.</p>
+<ul>
+<li>Suggestion: use a triage system to decide if a bug is even worth recording. </li>
+<li>Do not allow more than two weeks (in fix time) of bugs to get into the bug database. </li>
+<li>If you have more than that, stop and fix bugs until you feel like you’re fixing stupid bugs. Then close as “won’t fix” everything left in the bug database. Don’t worry, the severe bugs will come back.</li></ul>
+<p><strong>Undeployed features.</strong> There are still a lot of teams doing quarterly or annual releases, usually because their deployment process is expensive. Operating systems, or anything where software has to be installed by every user, is usually batched up. </p>
+<p>This is one of the most expensive forms of inventory: unshipped feature inventory. It could be earning you money, but it’s sitting on the shipping dock of your factory, while the guy down the street already has a product that does that exact same thing.</p>
+<p>Sometimes, perniciously, you don’t even feel the pain, because everyone on your team has been dogfooding the new version for months. I’m sure everyone at Microsoft has been happily using Windows 8 for a year now, so they don’t really feel, on a day to day basis, the pain of OEMs trying to sell Windows 7 in a Mac OS X Lion world.</p>
+<ul>
+<li>Suggestion: Don’t let completed features pile up in ways that don’t make you money. Work on your deployment process so that you can get customers features in months rather than years. If you’re already shipping monthly, figure out how to ship weekly. Keep pushing the bar on more and more frequent deployment of smaller and smaller changes.</li></ul>
+<p>So, where am I going with this? We’ve had all three kinds of inventory at Fog Creek: crazy long backlogs, overambitious bug databases, and features which got stuck for a year waiting for the next release to go out. All of these snuck up on us. I realized that we needed a system to constrain inventory so it doesn’t build up.&nbsp;</p>
+<p>My original idea was to make a product called <em>Five Things</em>. It was going to be a project manager where everybody was allowed to have five things assigned to them: two things they were actively doing, one thing that was “up next”, and a couple more that they were planning. That exact design idea didn’t go anywhere (but if you want to build it, go for it), but it did evolve into <a href="http://trello.com/">Trello</a>.</p>
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="https://trello.com/dev"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2012/07/09trelloOnTrello-thumbnail.png" /></a></span>Trello works great for a <em>reasonable</em> amount of inventory, but it intentionally starts to get klunky if you have too many cards in one list. And that’s exactly the point: it makes inventory <em>visible</em> so that you know when it’s starting to pile up. (Click on the image at the right to see the Trello team’s own development board).</p>
+<p>Every day you look at your Trello board and see that there are seventeen completed features that are totally ready to ship but which haven’t shipped for some reason, and you go find the bottleneck and eliminate it. </p>
+<p>Every time somebody suggests a crazy feature idea, you look at the Feature Backlog and realize it’s just too long, so you don’t waste any time documenting or designing that crazy idea.</p>
+<p>And hopefully, you’ll spend less effort working on things that never see the light of day. “Backlog grooming.” Sheeeesh.</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>Trello at UserVoice</title>
+	<link>http://www.joelonsoftware.com/items/2012/04/17.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2012/04/17.html</guid>
+	<pubDate>17 Apr 2012 14:57:06 EST</pubDate>
+	<description>
+<![CDATA[
+<p>The folks over at <a href="http://www.uservoice.com/">UserVoice</a> are using <a href="https://trello.com/">Trello</a> quite extensively throughout their development process. </p>
+<p><img border="0" alt="" src="http://www.joelonsoftware.com/items/2012/04/17UserVoice.PNG" /></p>
+<p><a href="http://www.uservoice.com/blog/index.php/founders/trello-google-docs-product-management/?utm_campaign=blog&amp;utm_medium=rare&amp;utm_source=joelonsoftware">Founder Richard White describes it all in detail</a>.</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+<item>
+	<title>The Founder’s Dilemmas</title>
+	<link>http://www.joelonsoftware.com/items/2012/03/27.html</link>
+	<author>Joel Spolsky</author>
+	<guid isPermaLink="true">http://www.joelonsoftware.com/items/2012/03/27.html</guid>
+	<pubDate>27 Mar 2012 14:42:43 EST</pubDate>
+	<description>
+<![CDATA[
+<p><span style="display: block; margin: 0 0 0.25ex 1em; position: relative; float: right;"><a href="http://www.joelonsoftware.com/items/2012/03/27fd.jpg"><img style="border:1px solid #666;" alt="" src="http://www.joelonsoftware.com/items/2012/03/27fd-thumbnail.jpg" /></a></span>My friend Noam Wasserman at Harvard Business School has spent years researching startups. His work is great, because he actually does real, quantitative research on the kinds of things that everybody has opinions about. Should you raise more money or maintain more control? Should you have a cofounder? Should your friends and relatives be cofounders? When and if should a founder be replaced by a “professional” manager? There are certainly a lot of blog posts about this stuff but not a lot of data... until now. Wasserman has finally put it all together in a great book called <a href="http://www.amazon.com/gp/product/0691149135/ref=as_li_ss_tl?ie=UTF8&amp;tag=joelonsoftware&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0691149135">The Founder’s Dilemmas</a>, which I highly recommend if you’re starting a company.</p>
+<p>(By the way, Wasserman will also be speaking at the <a href="http://businessofsoftware.org/">Business of Software conference</a> this fall in Boston.)</p>
+<p>Need to hire a really great programmer? Want a job that doesn't drive you crazy? Visit the <a href="http://jobs.joelonsoftware.com/">Joel on Software Job Board</a>: Great software jobs, great people.
+</p>
+]]>
+</description>
+</item>
+
+</channel>
+</rss>

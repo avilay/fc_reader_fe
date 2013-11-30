@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>GigaOM</title>
+	
+	<link>http://gigaom.com</link>
+	<description />
+	<lastBuildDate>Sat, 07 Sep 2013 18:20:01 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="gigaom.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image>
+		<url>http://0.gravatar.com/blavatar/0db8f6557d022075dbbf010c54d46d93?s=96&amp;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>GigaOM</title>
+		<link>http://gigaom.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://gigaom.com/osd.xml" title="GigaOM" />
+	
+		<feedburner:info uri="ommalik" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://gigaom.com/?pushpress=hub" /><itunes:explicit>no</itunes:explicit><itunes:subtitle></itunes:subtitle><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.gigaom.com/wp-rssfeed.php" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fwww.gigaom.com%2Fwp-rssfeed.php" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fwww.gigaom.com%2Fwp-rssfeed.php" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly><item>
+		<title>Breaking Bad fans sue Apple for cutting short Season Pass</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/dLeiN6Qe3Ks/</link>
+		<comments>http://gigaom.com/2013/09/07/breaking-bad-fans-sue-apple-for-cutting-short-season-pass/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 17:20:05 +0000</pubDate>
+		<dc:creator>Jeff John Roberts</dc:creator>
+				<category><![CDATA[AMC]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Breaking Bad]]></category>
+		<category><![CDATA[class action]]></category>
+		<category><![CDATA[false advertising]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687840</guid>
+		<description><![CDATA[Fans addicted to AMC's meth-drama, Breaking Bad, claim Apple short-changed them when it sold them a "Season Pass" for the final season, but only gave them 8 of the 16 episodes.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687840&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>An Ohio man has filed a lawsuit against Apple, claiming the company owes him and other Breaking Bad fans $22.99 for not including all 16 episodes in a &#8220;Season Pass&#8221; to the show&#8217;s final season, which was split into two parts.</p>
+<p>In a class action suit filed in San Jose, California, Noam Lazebnik says Apple engaged in false advertising by providing only 8 episodes to consumers even though its &#8220;Season Pass&#8221; page explains that viewers will get &#8220;every episode in that season.&#8221;</p>
+<p>&#8220;When a consumer buys a ticket to a football game, he does not have to leave at halftime. When a consumer buys an opera ticket, he does not get kicked out at intermission,&#8221; says the claim. It adds that Breaking Bad, which is about a high school chemistry teacher who builds a meth empire, is the most popular show in Apple&#8217;s iTunes&#8217; store.</p>
+<p>The claim also says Breaking Bad&#8217;s creators and actors have consistently described the 16 final episodes as &#8220;Season 5.&#8221; Apple did not immediately return a request for comment.</p>
+<p>The lawsuit claims that viewers are owed either $14.99 or $22.99, which are the iTunes prices for the final eight episodes in standard and high definition.</p>
+<p>The case is based on breach of contract and violation of California&#8217;s consumer protection laws. You can read it for yourself here:</p>
+<p style="margin:12px auto 6px;font-family:Helvetica, Arial, Sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;line-height:normal;font-size-adjust:none;font-stretch:normal;display:block;"><a style="text-decoration:underline;" title="View Apple Breaking Bad Suit on Scribd" href="http://www.scribd.com/doc/166297616/Apple-Breaking-Bad-Suit">Apple Breaking Bad Suit</a></p>
+<iframe id="doc_94998" src="//www.scribd.com/embeds/166297616/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687840&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=447004"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=447004" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=687840+breaking-bad-fans-sue-apple-for-cutting-short-season-pass&utm_content=jeffjohnroberts">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/2012/12/connected-consumer-2013-how-2012-laid-the-groundwork-for-change/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=687840+breaking-bad-fans-sue-apple-for-cutting-short-season-pass&utm_content=jeffjohnroberts">How consumer media will change in 2013</a></li><li><a href="http://pro.gigaom.com/2012/04/connected-consumer-q1-controversy-courtrooms-and-the-cloud/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=687840+breaking-bad-fans-sue-apple-for-cutting-short-season-pass&utm_content=jeffjohnroberts">Controversy, courtrooms and the cloud in Q1</a></li><li><a href="http://pro.gigaom.com/2012/01/connected-consumer-q4-sopa-and-the-future-of-digital-content/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=687840+breaking-bad-fans-sue-apple-for-cutting-short-season-pass&utm_content=jeffjohnroberts">Q4 Wrap-up: SOPA and the future of digital content</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=dLeiN6Qe3Ks:VW1Q8oFqAeQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/dLeiN6Qe3Ks" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/07/breaking-bad-fans-sue-apple-for-cutting-short-season-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-07-at-1-24-25-pm.png?w=92" />
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-07-at-1-24-25-pm.png?w=92" medium="image">
+			<media:title type="html">Saul Goodman Breaking Bad</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/05dfcf765f1554b08954bb9e1ee63363?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">jeffjohnroberts</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/07/breaking-bad-fans-sue-apple-for-cutting-short-season-pass/</feedburner:origLink></item>
+		<item>
+		<title>An MLB photographer shows you how to Instagram in the big leagues</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/albD4cnwwLQ/</link>
+		<comments>http://gigaom.com/2013/09/07/an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 16:00:03 +0000</pubDate>
+		<dc:creator>Chris Albrecht</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Brad Mangin]]></category>
+		<category><![CDATA[Major League Baseball]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=686945</guid>
+		<description><![CDATA[Professional sports photographers, they're just like us! Or at least Brad Mangin is. He's an avid Instagrammer, and shares his secrets for getting better pictures. <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=686945&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>With the web becoming more visual, cameras in phones getting ridiculously good, and the explosion in selfies, we&#8217;re going to explore digital photography more here at GigaOM, with an eye towards helping you take, share and appreciate good pictures. We&#8217;ll talk with experts to help you learn what a good picture is and how to take one. </p>
+<p><img src="http://gigaom2.files.wordpress.com/2013/09/mangingrams0003.jpg?w=708&#038;h=708" alt="mangingrams0003" width="708" height="708"  class="alignright size-large wp-image-686998" /></p>
+<p>Throwing out the first pitch is Brad Mangin, who regularly shoots assignments for Major League Baseball and Sports Illustrated. What makes Mangin unique, however is <a href="http://instagram.com/bmangin">his use of Instagram</a>. In addition to shooting Bay Area baseball action with his pro equipment, Mangin uses his iPhone to take pictures at the stadium and recently published <em><a href="http://www.amazon.com/Instant-Baseball-Instagrams-Brad-Mangin/dp/1937359417/ref=sr_1_1?ie=UTF8&amp;qid=1378422458&amp;sr=8-1&amp;keywords=Instant+Baseball">Instant Baseball: The Baseball Instagrams of Brad Mangin</a></em>.</p>
+<p><img src="http://gigaom2.files.wordpress.com/2013/09/mangingrams0013.jpg?w=708&#038;h=708" alt="mangingrams0013" width="708" height="708"  class="alignright size-large wp-image-686994" /></p>
+<p>I talked with Mangin recently about Instagramming and got his tips for taking better snaps. </p>
+<p>Mangin got into Instagram because of the instant sharing. &#8220;Whenever I would take a good picture with my phone, I feel like I&#8217;m on deadline,&#8221; said Mangin. Rather than waiting until the next day to see his work published, &#8220;This is happening right now,&#8221; Mangin said. &#8220;Batting practice. A portrait of a player right before a game that starts in five minutes.&#8221;<br />
+<img src="http://gigaom2.files.wordpress.com/2013/09/mangingrams0004.jpg?w=708&#038;h=708" alt="mangingrams0004" width="708" height="708"  class="alignright size-large wp-image-686997" /></p>
+<p>Mangin started Instagramming during spring training last year with his iPhone 4S; &#8220;It&#8217;s not the tool, it&#8217;s the photographer,&#8221; he said, &#8220;I don&#8217;t do cheating &#8212; taking a picture with a real camera (and importing into Instagram). It&#8217;s a challenge to take great pictures.&#8221; He also only uses three different filters: Jefe, Low-fi, and Earlybird, to give his photos a consistent look. After the San Francisco Giants won the World Series in 2012, Mangin collected his Instagrams into a 176-page book. </p>
+<p>So what advice does this professional photographer have for all those Instagrammers out there? First, don&#8217;t expect to capture any sports action next time you&#8217;re way up in the stands. &#8220;You don&#8217;t have a $12,000 lens,&#8221; said Mangin. Instead, make the most of what you have and <em>get closer</em>. </p>
+<p><img src="http://gigaom2.files.wordpress.com/2013/09/mangingrams0001.jpg?w=708&#038;h=708" alt="mangingrams0001" width="708" height="708"  class="alignright size-large wp-image-686999" /></p>
+<p>&#8220;People who are not photographers are too far away. The family in front of the Eiffel Tower are little tiny people in the bottom of the frame,&#8221; said Mangin. &#8220;Just get closer. To me one of the joys of photography is seeing people&#8217;s faces and expressions. I do these portaits of baseball players in the dugout. Do a nice portrait. Make it black and white. Have fun with it. It&#8217;s a wonderful camera in there.&#8221;</p>
+<div id="attachment_686993" class="wp-caption alignright" style="width: 718px"><img src="http://gigaom2.files.wordpress.com/2013/09/mangingrams0015.jpg?w=708&#038;h=708" alt="Photo by: Brad Mangin" width="708" height="708"  class="size-large wp-image-686993" /><p class="wp-caption-text">Photo by: Brad Mangin</p></div>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=686945&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=811504"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=811504" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=686945+an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues&utm_content=calbrecht">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/report/survey-how-apps-can-solve-photo-management/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=686945+an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues&utm_content=calbrecht">Survey: How apps can solve photo management</a></li><li><a href="http://pro.gigaom.com/2012/04/connected-consumer-q1-controversy-courtrooms-and-the-cloud/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=686945+an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues&utm_content=calbrecht">Controversy, courtrooms and the cloud in Q1</a></li><li><a href="http://pro.gigaom.com/2012/01/12-tech-leaders-resolutions-for-2012/?utm_source=tech&utm_medium=editorial&utm_campaign=auto3&utm_term=686945+an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues&utm_content=calbrecht">12 tech leaders’ resolutions for 2012</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=albD4cnwwLQ:rKwpWkNegmc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/albD4cnwwLQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/07/an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/ibbcoverfinal1-e1378421528143.jpg?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/ibbcoverfinal1-e1378421528143.jpg?w=150" medium="image">
+			<media:title type="html">ibbcoverfinal</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/60c7c37000ea6c9d210b7b1992b607ca?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">Chris Albrecht</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/mangingrams0003.jpg?w=708" medium="image">
+			<media:title type="html">mangingrams0003</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/mangingrams0013.jpg?w=708" medium="image">
+			<media:title type="html">mangingrams0013</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/mangingrams0004.jpg?w=708" medium="image">
+			<media:title type="html">mangingrams0004</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/mangingrams0001.jpg?w=708" medium="image">
+			<media:title type="html">mangingrams0001</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/mangingrams0015.jpg?w=708" medium="image">
+			<media:title type="html">Photo by: Brad Mangin</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/07/an-mlb-photographer-shows-you-how-to-instagram-in-the-big-leagues/</feedburner:origLink></item>
+		<item>
+		<title>From the founder of Aptera, tiny (and stackable) ultra-efficient organic farms</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/6x-FNelAdfs/</link>
+		<comments>http://gigaom.com/2013/09/07/from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 15:00:48 +0000</pubDate>
+		<dc:creator>Katie Fehrenbacher</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aptera]]></category>
+		<category><![CDATA[Famgro Farms]]></category>
+		<category><![CDATA[Steve Fambro]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687514</guid>
+		<description><![CDATA[The founder of electric car company Aptera is back with a new company and a new plan to disrupt urban organic farming.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687514&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.linkedin.com/pub/steve-fambro/5/b51/184">Steve Fambro</a>, the founder and former CEO of electric car startup Aptera, isn&#8217;t one to sugarcoat a story. He told me that shortly after <a href="http://www.wired.com/autopia/2009/11/aptera-founders-ousted-in-boardroom-showdown/">he was fired</a> from Aptera in late 2009, he was standing in the checkout line of a local natural food grocery store with a handful of organic produce, thinking about how expensive his purchases were &#8212; particularly for someone newly unemployed.</p>
+<p><a href="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-03-46-pm.png"><img  alt="Famgro" src="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-03-46-pm.png?w=259&#038;h=300" width="259" height="300" class="alignleft size-medium wp-image-687538" /></a>That painful memory was the nugget for Fambro&#8217;s new venture, <a href="https://www.facebook.com/FamgroFarms">Famgro Farms</a>, which he&#8217;s spent the last couple of years building, and which aims to grow organic produce more efficiently, more quickly, with no pesticides, and within urban areas. Famgro Farms makes farm units that are each about the size of a Prius, are stackable, and use cutting edge, custom tech to maximize growing conditions. The company also operates the farms and sells the produce &#8212; like sweet kale and microgreens &#8212; at retailers like Whole Foods.</p>
+<p>Fambro seems to be obsessed with efficiency no matter what sector he&#8217;s hunkered down in. <a href="http://gigaom.com/2008/07/25/aptera-raises-24m-for-electric-car-production/">Aptera&#8217;s original electric vehicle design focused</a> on the ultimate in auto efficiency and back in an interview I did with <a href="http://gigaom.com/2007/12/06/aptera-founder-steve-fambro-mainstream-vehicles-in-the-pipeline/">him in late 2007</a>, he told me he was designing the car to have &#8220;zero drag.&#8221;</p>
+<p>Port that extreme focus on efficiency over to farming and the startup&#8217;s farm pods are the natural result. The units use ultra-efficient LEDs to deliver the exact amount of light needed for the plants to hit a hypergrowth stage. &#8220;Every photon is expensive,&#8221; said Fambro, explaining all of the photons are captured in the controlled environment of the farm and none are lost.</p>
+<p>The Famgro team actually spent two years designing and figuring out how to make the thin, wide, flat LEDs the company uses in its units. The LEDs had to produce the right light wavelengths to optimize the crops, but they had to be robust enough to work <a href="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-04-28-pm.png"><img  alt="Screen Shot 2013-09-06 at 1.04.28 PM" src="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-04-28-pm.png?w=300&#038;h=297" width="300" height="297" class="alignright size-medium wp-image-687539" /></a>under moist growing conditions. In addition, Famgro had to figure out how to cool the lights in an efficient manner, which is a tricky problem for all LED developers.</p>
+<p>While making custom tech can be more expensive than buying off-the-shelf parts, Fambro said the move builds the company&#8217;s intellectual property and value: Think Tesla rather than Fisker, he said. And because the company&#8217;s needs were so specific it was actually cheaper in the end to make the custom tech versus buying off the shelf parts, said Fambro.</p>
+<p>The farm units&#8217; hydroponics do the same thing as the lighting system does, but with water: enable the delivery of the exact amount needed for quick growth in a small space. There are also automation tools inside the units that harvest the crops in a few seconds, and replace the need for laborers to spend time farming the crops.</p>
+<p>Famgro has 12 of these farm units built that are producing crops in Southern California. Fambro has ambitions to raise more funding and build more farms to bring his dream of these urban efficient farms to the rest of the world.</p>
+<p>To be sure, it&#8217;s still early days for the company. Famgro sells the produce for about the same market price as the expensive organic goods that originally spurred Fambro to innovate around organics. And its easy to say being vertically integrated is the best strategy, but it&#8217;s hard for a startup to manage so many moving parts &#8212; make the tech, operate the tech, market the produce, build the brand. In addition, selling such tech to bigger farm companies would be a more low cost way to enter the market.</p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687514&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=591945"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=591945" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=cleantech&utm_medium=editorial&utm_campaign=auto3&utm_term=687514+from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms&utm_content=katiefehren">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/2012/02/why-teslas-model-x-could-make-the-electric-suv-a-mainstream-hit/?utm_source=cleantech&utm_medium=editorial&utm_campaign=auto3&utm_term=687514+from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms&utm_content=katiefehren">Tesla&#8217;s Model X could make the electric SUV a hit</a></li><li><a href="http://pro.gigaom.com/2011/12/waiting-for-the-ev-market-to-materialize/?utm_source=cleantech&utm_medium=editorial&utm_campaign=auto3&utm_term=687514+from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms&utm_content=katiefehren">Waiting for the EV market to materialize</a></li><li><a href="http://pro.gigaom.com/report/flash-analysis-the-fisker-debacle-and-its-implications-on-investing-innovation-and-government-incentives/?utm_source=cleantech&utm_medium=editorial&utm_campaign=auto3&utm_term=687514+from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms&utm_content=katiefehren">Flash analysis: the Fisker debacle and its implications on investing, innovation, and government incentives</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=6x-FNelAdfs:x9i3g6v-Vqs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/6x-FNelAdfs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/07/from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-02-16-pm.png?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-02-16-pm.png?w=150" medium="image">
+			<media:title type="html">Famgro</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/0c61eb5d3c638c5b371fc84afd2831b4?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">katiefehren</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-03-46-pm.png?w=259" medium="image">
+			<media:title type="html">Famgro</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/screen-shot-2013-09-06-at-1-04-28-pm.png?w=300" medium="image">
+			<media:title type="html">Screen Shot 2013-09-06 at 1.04.28 PM</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/07/from-the-founder-of-aptera-tiny-and-stackable-ultra-efficient-organic-farms/</feedburner:origLink></item>
+		<item>
+		<title>4 reasons why it’s such a great — and crazy — time to be in the IT business</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/Sol_DRI846Y/</link>
+		<comments>http://gigaom.com/2013/09/07/4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 14:10:53 +0000</pubDate>
+		<dc:creator>Derrick Harris</dc:creator>
+				<category><![CDATA[Aaron Levie]]></category>
+		<category><![CDATA[Box]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Storage]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[saas]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687827</guid>
+		<description><![CDATA[Box Founder and CEO Aaron Levie has a lot to say about just about everything in the world of IT. Here's a sampling of his thoughts about cloud computing, mobile software, the Microsoft-Nokia deal and finding time for Twitter.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687827&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Box Co-Founder and CEO Aaron Levie is only 27 years old, but he&#8217;s remarkably insightful when it comes to assessing the business of information technology. He&#8217;s also remarkably witty. Both traits are on display in <a href="http://gigaom.com/2013/09/05/boxs-aaron-levie-on-mobilizing-conspiracy-theorists-and-who-writes-his-tweets/">our recent interview with him</a> on the Structure Show podcast.</p>
+<p>Here is a collection of quotes from Levie that highlight why it&#8217;s such a unique &#8212; and great &#8212; time to be in the IT business. But there&#8217;s a whole lot more insight and whole lot more laughs, so you&#8217;ll want to listen to the whole thing. (There&#8217;s also a ticket giveaway to Box&#8217;s <a href="http://www.boxworks2013.com/">BoxWorks conference</a>, which is Sept. 15-17 and features a performance by Blink-182.)</p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108859085%253Fsecret_token%253Ds-mEZ4D"></iframe>
+<p><strong>The cloud is a wide open, and potentially very lucrative, space: </strong>&#8220;We will grow over 100 percent this year; we grew over 150 percent last year,&#8221; Levie said, noting how Box is riding the wave of momentum for a new &#8220;cloud stack&#8221; of applications for workloads like ERP, CRM, BI and collaboration. &#8220;&#8230; We see a couple-of-year window of opportunity where the defining companies in the cloud are going to be created, and we&#8217;re obviously working very aggressively to try to build one of those companies.&#8221;</p>
+<p><strong>The mobile market opportunity is huge, and just becoming clear: </strong>&#8220;We&#8217;ve been around for eight and a half years, which means that, by definition, we were not a mobile-first company,&#8221; Levie said. &#8220;We had mobile in our business plan &#8212; at that point it was a Palm Treo, may that rest in peace &#8212; but that was what mobile meant to us.&#8221;</p>
+<div id="attachment_687832" class="wp-caption alignleft" style="width: 208px"><a href="http://gigaom2.files.wordpress.com/2013/09/aaron-levie_headshot2.jpg"><img  alt="Aaron Levie" src="http://gigaom2.files.wordpress.com/2013/09/aaron-levie_headshot2.jpg?w=198&#038;h=300" width="198" height="300" class="size-medium wp-image-687832" /></a><p class="wp-caption-text">Aaron Levie</p></div>
+<p>The true opportunity for mobile didn&#8217;t really materialize until the iPhone reached significant penetration and tablets emerged in 2010, he added. Now, there&#8217;s a whole new class of business-software users who don&#8217;t just sit behind desks, but are out in the field doing hands-on work.</p>
+<p>&#8220;All of a sudden, you have a 2 to 3x gain the the addressable market for enterprise software, which is totally unfathomable and just a massive discontinuous change from what Oracle or Microsoft of SAP could have done 5 or 10 years ago,&#8221; Levie said.</p>
+<p><strong>Multi-billion-dollar companies can still surprise you with seemingly crazy moves: </strong>&#8220;I just love this industry for those kind of moves,&#8221; Levie said. &#8220;You&#8217;re sitting around Sunday night catching up on email, and you see a couple tweets that say &#8216;Microsoft buys Nokia&#8217; and you think that it&#8217;s like The Onion at first. And then &#8212; boom! &#8212; it&#8217;s like, &#8216;Holy s***, it really happened.&#8217;&#8221;</p>
+<p><strong></strong>Surprising? Yes. But Levie isn&#8217;t sold on how a company like Microsoft, now trying to balance a vertically integrated approach with a third-party software platform approach, will succeed.  &#8221;We&#8217;ve never really seen that approach,&#8221; he said, &#8220;and, in fact, the only time we did, which was sort of Apple in the &#8217;90s, it didn&#8217;t really work out.&#8221;</p>
+<p><strong>A CEO can find an audience on Twitter:</strong> &#8220;Maybe it&#8217;s commentary that I have a little too much time on my hands,&#8221; Levie said about who writes for his prolific and often very funny Twitter account, &#8220;but for now those tweets are mine, unfortunately.&#8221;</p>
+<p><a href="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3">Download this episode</a></p>
+<p><a href="https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2">Subscribe in iTunes</a></p>
+<p><a href="feed://gigaom.com/tag/structure-show/feed/">The Structure Show RSS Feed</a></p>
+<p><strong>PREVIOUS EPISODES:</strong></p>
+<p><a href="http://gigaom.com/2013/08/29/structure-show-openstack-guru-chris-kemp-on-cloud-challenges-and-space-camp/">OpenStack guru Chris Kemp on cloud challenges and Space Camp!</a></p>
+<p><a href="http://gigaom.com/2013/08/22/the-structure-show-big-data-is-still-a-big-deal-and-google-storages-4-trillion-transactions/">Big data is still a big deal and Google storage&#8217;s 4 trillion transactions</a></p>
+<p><a href="http://gigaom.com/2013/08/15/the-structure-show-who-will-win-in-cloud-and-whether-sdn-is-for-real/">Who will win in cloud and whether SDN is for real</a></p>
+<p><a href="http://gigaom.com/2013/08/08/the-structure-show-parsing-hortonworks-ibm-and-all-of-facebooks-data/">Parsing Hortonworks, IBM and all of Facebook&#8217;s data</a></p>
+<p><a href="http://gigaom.com/2013/08/01/meet-the-structure-show-gigaoms-new-cloud-and-data-podcast/">Meet the Structure Show!</a></p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687827&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=699096"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=699096" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687827+4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business&utm_content=dharrisstructure">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/report/cloud-security-market-landscape-2013-2017/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687827+4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business&utm_content=dharrisstructure">Cloud security market landscape, 2013–2017</a></li><li><a href="http://pro.gigaom.com/2012/12/why-converged-infrastructure-is-crucial-to-the-data-center/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687827+4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business&utm_content=dharrisstructure">The role of converged infrastructure in the data center</a></li><li><a href="http://pro.gigaom.com/2012/12/cloud-computing-2013-how-to-navigate-without-a-map/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687827+4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business&utm_content=dharrisstructure">Cloud computing 2013: how to navigate without a map</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=Sol_DRI846Y:ljI6yLXnN-E:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/Sol_DRI846Y" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/07/4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" />
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/aaron-levie_headshot1-e1378562521704.jpg?w=150" />
+		<media:content url="http://feedproxy.google.com/~r/OmMalik/~5/0QxFAFmJJV8/STRUCTURE_EPISODE_6.mp3" medium="image">
+			<media:title type="html">Aaron Levie_Headshot</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/9e48ffa0913f65c577727457dd63023f?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">dharrisstructure</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/aaron-levie_headshot2.jpg?w=198" medium="image">
+			<media:title type="html">Aaron Levie</media:title>
+		</media:content>
+	<itunes:explicit>no</itunes:explicit><itunes:subtitle>Box Founder and CEO Aaron Levie has a lot to say about just about everything in the world of IT. Here's a sampling of his thoughts about cloud computing, mobile software, the Microsoft-Nokia deal and finding time for Twitter.</itunes:subtitle><itunes:summary>Box Founder and CEO Aaron Levie has a lot to say about just about everything in the world of IT. Here's a sampling of his thoughts about cloud computing, mobile software, the Microsoft-Nokia deal and finding time for Twitter.</itunes:summary><itunes:keywords>Aaron Levie, Box, Cloud Computing, Cloud Storage, Collaboration, saas</itunes:keywords><feedburner:origLink>http://gigaom.com/2013/09/07/4-reasons-why-its-such-a-great-and-crazy-time-to-be-in-the-it-business/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/OmMalik/~5/0QxFAFmJJV8/STRUCTURE_EPISODE_6.mp3" length="25565645" type="audio/mpeg" /><feedburner:origEnclosureLink>http://traffic.libsyn.com/gigaom/STRUCTURE_EPISODE_6.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Android this week: Nexus 5 teased; Android tab runs Windows; Galaxy Note 3 and Galaxy Gear here</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/jLRLJRJgpXI/</link>
+		<comments>http://gigaom.com/2013/09/07/android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 13:00:53 +0000</pubDate>
+		<dc:creator>Kevin C. Tofel</dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Galaxy Gear]]></category>
+		<category><![CDATA[Galaxy Note 3]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[smartwatches]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687821</guid>
+		<description><![CDATA[They're finally here! All of the rumored devices from the past few months broke cover this week, including Samsung's Galaxy Note 3 and Galaxy Gear smartwatch. The Nexus 5 is still just a unicorn but one we might have seen twice this week.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687821&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>This week saw not one, but two possible sightings of <a href="http://gigaom.com/2013/09/03/whoops-was-that-the-nexus-5-in-googles-own-promotional-video/">what appears to be Google&#8217;s Nexus 5</a>. There&#8217;s no official word from Google just yet though; that will likely coincide with the launch of Android 4.4 KitKat. A Google YouTube video first showed a new phone with Nexus branding in landscape early in the week. That video was quickly pulled down, which is telling.</p>
+<p><a href="http://gigaom2.files.wordpress.com/2013/09/lg-nexus-5.png"><img  alt="LG Nexus 5" src="http://gigaom2.files.wordpress.com/2013/09/lg-nexus-5.png?w=708"   class="aligncenter size-full wp-image-686472" /></a></p>
+<p>Then, just a few days later, <a href="http://gigaom.com/2013/09/06/looks-like-lg-is-building-a-5-inch-nexus-5-with-snapdragon-800-chip/">FCC filings showed an LG-built phone with a very similar form factor to what was seen in the video</a>. The overall phone shape in the filing looks identical to the handset in the video and the both case cutouts for the camera sensor and flash are in the same spot. Based on the FCC documents the phone has support for 7 different LTE bands, some of which cover AT&amp;T, T-Mobile and even Sprint.</p>
+<p>Until Google makes an announcement, there effectively is no Nexus 5, but the facts do appear to be lining up to indicate this is the real deal. We&#8217;ll see in the next two to three months.</p>
+<p>We won&#8217;t have to wait that long to see Samsung&#8217;s newest devices though. This week, the company finally proved the rumors true by <a href="http://gigaom.com/2013/09/04/samsung-introduces-the-thinner-lighter-leather-galaxy-note-3/">introducing its Galaxy Note 3</a> and Galaxy Gear smartwatch, as well as a 2014 edition of its Galaxy Note 10.1 with high-resolution screen.</p>
+<p style="text-align:center;"><a href="http://gigaom2.files.wordpress.com/2013/09/img_0425.jpg"><img  alt="Galaxy Note 3 back" src="http://gigaom2.files.wordpress.com/2013/09/img_0425.jpg?w=637&#038;h=425" width="637" height="425" class="aligncenter  wp-image-686950" /></a></p>
+<p>The Note 3 is exactly what we all expected: An upgrade from the prior model with a larger screen but the same width. The 5.7-inch1080p display looks crisp to my eyes and Samsung did away with the boring old plastic backing. Instead, it uses a leather-looking plastic for texture. The phone&#8217;s 3GB of memory and 2.3 GHz quad-core processor bring plenty of performance but <a href="http://gigaom.com/2013/09/04/with-the-galaxy-note-3-samsung-shows-the-pen-is-mightier-than-the-phone/">the star of the show is the S-Pen and new software</a>. It truly boosts the productivity factor of the Note 3.</p>
+<p style="text-align:center;"><a href="http://gigaom2.files.wordpress.com/2013/09/img_0423-e1378326323124.jpg"><img  alt="Galaxy Note 3 and Galaxy Gear" src="http://gigaom2.files.wordpress.com/2013/09/img_0423-e1378326323124.jpg?w=637&#038;h=425" width="637" height="425" class="aligncenter  wp-image-686907" /></a></p>
+<p>And if you buy that device, you can also use the $299 Galaxy Gear. At launch, just the Note 3 and new Note 10.1 work with Samsung&#8217;s smartwatch. <a href="http://gigaom.com/2013/09/04/samsung-galaxy-gear-impressions-not-bad-if-you-have-a-galaxy-device/">I found the watch more impressive than expected</a>: A bright, vivid touchscreen with both a camera and microphone / speaker combo built into the watch band.</p>
+<p style="text-align:center;"><a href="http://gigaom2.files.wordpress.com/2013/09/galaxy-gear-camera.jpg"><img  alt="Galaxy Gear camera" src="http://gigaom2.files.wordpress.com/2013/09/galaxy-gear-camera.jpg?w=637&#038;h=425" width="637" height="425" class="aligncenter  wp-image-686837" /></a></p>
+<p>I don&#8217;t really see this as a step forward for smartwatches though. The feature set is basically the same as any number of others on the market. And I&#8217;m not thrilled that it only works with Samsung devices. The company says it will bring compatibility to other Androids eventually, <a href="http://gigaom.com/2013/09/05/samsungs-galaxy-gear-will-work-with-non-samsung-phones-or-will-it/">but I&#8217;m highly skeptical</a>.</p>
+<p>One device that has intrigued me, however, is<a href="http://gigaom.com/2013/09/05/this-asus-transformer-is-both-an-android-tablet-and-a-windows-pc/"> the Asus Transformer Book Trio introduced in Berlin this week</a>. Or rather, re-introduced: it was shown off in June at the Computex show. This looks like a traditional Asus Transformer, complete with an 11.6-inch touchscreen display that docks with a keyboard. The unique feature is a pair of chips: One in the display and one in the dock.</p>
+<p style="text-align:center;"><a href="http://gigaom2.files.wordpress.com/2013/09/asus-transformer-trio-e1378410354978.jpg"><img  alt="asus transformer trio" src="http://gigaom2.files.wordpress.com/2013/09/asus-transformer-trio-e1378410354978.jpg?w=637&#038;h=425" width="637" height="425" class="aligncenter  wp-image-687331" /></a></p>
+<p>The keyboard dock is actually a full Windows 8 PC, complete with an Intel Haswell chip inside. It connects to an external monitor or you simply dock the display. The display hides its own Intel Atom chip, however. So at the press of a button, you can switch between Windows 8 and Android, effectively making this a three-in-one device. Asus hasn&#8217;t set a price yet and I suspect it won&#8217;t be less than $750. Still, for those who like both platforms, this could be a smart choice.</p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687821&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=741597"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=741597" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687821+android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here&utm_content=kevintofel">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/2012/04/is-android-broken-and-if-so-will-google-fix-it/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687821+android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here&utm_content=kevintofel">Is Android broken and if so, will Google fix it?</a></li><li><a href="http://pro.gigaom.com/2012/02/forecasting-the-tablet-market-over-366-million-units-by-2016/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687821+android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here&utm_content=kevintofel">Tablet market to hit over 377 million units by 2016</a></li><li><a href="http://pro.gigaom.com/2011/08/what-the-google-motorola-deal-means-for-android-microsoft-and-the-mobile-industry/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687821+android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here&utm_content=kevintofel">What the Google-Motorola deal means for Android, Microsoft and the mobile industry</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=jLRLJRJgpXI:wKEBM9Hcqis:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/jLRLJRJgpXI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/07/android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2011/05/android-this-week.jpeg?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2011/05/android-this-week.jpeg?w=150" medium="image">
+			<media:title type="html">android-this-week</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6cbb45abac59965c2626e40155358d1b?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">Kevin C. Tofel</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/lg-nexus-5.png" medium="image">
+			<media:title type="html">LG Nexus 5</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/img_0425.jpg?w=708" medium="image">
+			<media:title type="html">Galaxy Note 3 back</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/img_0423-e1378326323124.jpg?w=708" medium="image">
+			<media:title type="html">Galaxy Note 3 and Galaxy Gear</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/galaxy-gear-camera.jpg?w=708" medium="image">
+			<media:title type="html">Galaxy Gear camera</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/asus-transformer-trio-e1378410354978.jpg?w=708" medium="image">
+			<media:title type="html">asus transformer trio</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/07/android-this-week-nexus-5-teased-android-tab-runs-windows-galaxy-note-3-and-galaxy-gear-here/</feedburner:origLink></item>
+		<item>
+		<title>Don’t let the lack of press fool you: Europe has a lot of big-time cloud users</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/nw_fZTghYJ8/</link>
+		<comments>http://gigaom.com/2013/09/06/dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 23:34:21 +0000</pubDate>
+		<dc:creator>Derrick Harris</dc:creator>
+				<category><![CDATA[Amazon Web Services]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Events 2013]]></category>
+		<category><![CDATA[iaas]]></category>
+		<category><![CDATA[Structure:Europe]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687791</guid>
+		<description><![CDATA[It's not just U.S. companies such as Pinterest, Netflix and every SaaS startup under the sun that are running on cloud infrastructure. There are a lot of major European companies and organizations using cloud computing, too. Many of them will be at Structure: Europe.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687791&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Read enough of technology news and blog sites, and you might come away thinking that only <a href="http://gigaom.com/2012/12/02/pinterest-flipboard-and-yelp-tell-how-to-save-big-bucks-in-the-cloud/">popular U.S. startups</a> and <a href="http://gigaom.com/2013/08/20/amazon-stikes-back-at-cia-gao-over-reopening-of-cia-cloud-contract/">the Central Intelligence Agency</a> use the cloud. But you’d be wrong.</p>
+<p>GigaOM <a href="http://event.gigaom.com/structureeurope/archives/structureeurope-2012/?utm_source=cloud&amp;utm_medium=editorial&amp;utm_campaign=intext&amp;utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&amp;utm_content=dharrisstructure">held its inaugural Structure: Europe conference</a> in Amsterdam last year and, <a href="http://www.allthingsdistributed.com/2013/09/dutch-enterprise-and-the-cloud.html">based on a Friday blog post by Amazon CTO Werner Vogels</a>, we could have populated a good portion of the schedule just with Dutch companies using Amazon Web Services. The cloud is about a lot more than AWS, of course, but it is a bellweather company and where it has users, one has to assume cloud computing is alive and well. And it seems there are a lot of users in Europe.</p>
+<p>So which European companies are using AWS? Vogels’s list is long, impressive and, admittedly, focused on Holland: Nokia Siemens; Kempinski; News International; Royal Dutch Shell; Unilever; Essent; Tom Tom; and Ohpen.</p>
+<p>When it comes to cloud users of all sorts, though, those companies — some of which are household names (for better or worse) — are just the tip of the iceberg. As Vogels notes, there are plenty other large companies using AWS, and even more startups.</p>
+<p><a href="http://gigaom2.files.wordpress.com/2013/07/structure-europe-in-article-square.png"><img alt="Structure Europe in article square" src="http://gigaom2.files.wordpress.com/2013/07/structure-europe-in-article-square.png?w=708"   class="alignright size-full wp-image-670242"></a>However, there are other cloud providers and there is private cloud software, too. There are AWS users that Vogels didn’t note. This year, <a href="http://event.gigaom.com/structureeurope/?utm_source=cloud&amp;utm_medium=editorial&amp;utm_campaign=intext&amp;utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&amp;utm_content=dharrisstructure">we’re hosting Structure: Europe in London</a> — less than two weeks away, on Sept. 18 and 19 — and we have an impressive lineup of companies and organizations using both. Among them:</p>
+<ul><li>BMW</li>
+<li>CERN</li>
+<li>Spotify</li>
+<li>European Space Agency</li>
+<li>The U.K. government</li>
+</ul><p>There’s also a burgeoning industry for cloud providers in Europe (which will perhaps see a spike in interest after all the NSA revelations in the past few months). We have number of them, including CloudSigma, ElasticHosts, Flexiant, OnApp, ProfitBricks and UpCloud.</p>
+<p>U.S. providers with a presence in Europe (aside from AWS) include Google, Microsoft, Rackspace and VMware. We’ll have all of them, too. Global companies, such as Facebook and Netflix, that know a thing about running cloud applications will also take the stage.</p>
+<p>So if you’re in the vicinity of London on Sept. 18 and 19, and you’re interested in how European companies are using the array of cloud computing technologies around, there are worse places to be than Structure: Europe.</p>
+<p><em>Feature image courtesy of <a href="http://www.shutterstock.com/gallery-734065p1.html">Shutterstock user Markus Pfaff</a>.</em></p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687791&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=244726"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=244726" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&utm_content=dharrisstructure">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/report/cloud-security-market-landscape-2013-2017/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&utm_content=dharrisstructure">Cloud security market landscape, 2013–2017</a></li><li><a href="http://pro.gigaom.com/2013/01/cloud-and-data-fourth-quarter-2012-analysis/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&utm_content=dharrisstructure">The fourth quarter of 2012 in cloud</a></li><li><a href="http://pro.gigaom.com/2012/12/how-direct-access-solutions-can-speed-up-cloud-adoption/?utm_source=cloud&utm_medium=editorial&utm_campaign=auto3&utm_term=687791+dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users&utm_content=dharrisstructure">How direct-access solutions can speed up cloud adoption</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=nw_fZTghYJ8:VjmWQd2nCh8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/nw_fZTghYJ8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/06/dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/shutterstock_102617819.jpg?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/shutterstock_102617819.jpg?w=150" medium="image">
+			<media:title type="html">european flags</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/9e48ffa0913f65c577727457dd63023f?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">dharrisstructure</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2013/07/structure-europe-in-article-square.png" medium="image">
+			<media:title type="html">Structure Europe in article square</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/06/dont-let-the-lack-of-press-fool-you-europe-has-a-lot-of-big-time-cloud-users/</feedburner:origLink></item>
+		<item>
+		<title>When aggregators attack: Techmeme’s headline-rewriting is just part of a larger shift</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/HU79hlrI1zI/</link>
+		<comments>http://paidcontent.org/2013/09/06/when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 22:57:18 +0000</pubDate>
+		<dc:creator>Mathew Ingram</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aggregators]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Click bait]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[techmeme]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://paidcontent.org/?p=232998</guid>
+		<description><![CDATA[Techmeme founder Gabe Rivera has announced that the technology-news aggregator will begin rewriting headlines on the links it posts -- a small change, but one that also illustrates how much the balance of power in media is shifting.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687808&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Techmeme, the technology-news aggregator run by Gabe Rivera, doesn&#8217;t announce changes to its editorial process that often, but when it does they are usually interesting &#8212; like the time the site launched &#8220;native advertising,&#8221; long before it became a topic of conversation in the media-sphere, or when Rivera announced that <a href="http://news.techmeme.com/081203/automated">human editors are as important as algorithms</a> (which, for those who don&#8217;t know him, is quite an admission). Now, the site has said it is going to start <a href="http://news.techmeme.com/130906/headlines">rewriting headlines</a> for the posts that it aggregates.</p>
+<p>As with most of his other announcements, this one is interesting in part because of what Rivera says, but also because of what he doesn&#8217;t say. What he does say is that <a href="http://news.techmeme.com/130906/headlines">many of the headlines that publishers put</a> on their content don&#8217;t suit the site&#8217;s purpose, which is to communicate as much useful information as possible, as quickly and efficiently as possible &#8212; and so he and his team of editors are going to rewrite them in order to fix that problem.</p>
+<h2 id="techmeme-is-getting-an-editori">Techmeme is getting an editorial voice</h2>
+<p>But if you continue beyond just the critique of modern headline writing &#8212; which is well worth a read, because it has a lot of truth to it &#8212; you get to one of the more interesting parts of the change, which is that Techmeme isn&#8217;t going to just rewrite headlines to make them clearer or more explanatory, but is also going to inject some editorializing as well. <a href="http://news.techmeme.com/130906/headlines">As Rivera puts it</a>:</p>
+<blockquote id="quote-while-most-of-the-he"><p>&#8220;While most of the headlines we write will elevate details present in the story, we may on occasion even use a headline we write to challenge, correct, refute, or even undermine what we&#8217;re linking to, if we feel that gets our readers closer to the truth as we see it.&#8221;</p></blockquote>
+<p>Although Rivera downplays it somewhat in his post, this is actually a fairly significant change. Previously, critics of the site have muttered to themselves about Techmeme&#8217;s biases and how it allegedly preferred certain sites or writers over others, but all they had were unspoken signals like the placement of stories, which they had to read like tea leaves. Now, Techmeme will be making it obvious which headlines it either agrees with or wants to question &#8212; in other words, it will have an editorial voice, however small.</p>
+<h2 id="the-balance-of-power-continues">The balance of power continues to shift</h2>
+<p><a href="http://gigaompaidcontent.files.wordpress.com/2013/09/matt-drudge-o.jpg"><img src="http://gigaompaidcontent.files.wordpress.com/2013/09/matt-drudge-o.jpg?w=708" alt="matt-drudge-o"    class="alignleft size-full wp-image-233002" /></a></p>
+<p>As Rivera notes, rewriting headlines isn&#8217;t unheard of for an aggregator: the venerable <a href="http://www.drudgereport.com">Drudge Report</a> has been doing much the same thing for years (although it also routinely gets criticized for doing so). But for me at least, this is just a small part of a much larger ongoing transformation in the way the media industry works, something we and others have been writing about for some time &#8212; namely, <a href="http://www.washingtonpost.com/blogs/erik-wemple/wp/2013/09/04/jeff-bezos-and-the-internets-aggregational-appetites/">the rise of aggregators and middlemen</a>, and the shifting balance of power between them and content creators.</p>
+<p>To take just one example, <a href="http://gigaom.com/2012/03/19/if-you-have-news-it-will-be-aggregated-andor-curated/">a recent Pew study found that</a> a large proportion of news consumers now get their information from third-party sites like Google News and other aggregators &#8212; and in many cases readers <em>don&#8217;t even remember</em> what the name or affiliation of the site was where the content originated. And it isn&#8217;t just traditional news aggregators that are contributing to this phenomenon, but also services like Twitter and Facebook, where a recommendation or a link with 140 characters of commentary can send a flood of traffic.</p>
+<p>Rivera <a href="http://news.techmeme.com/130906/headlines">notes in his post that</a> he is only going to rewrite headlines, and has no intention of writing his own stories as well &#8212; but even the fact that he has to say that shows how much the ground has shifted already. And in many ways, Techmeme still has a lot of power when it comes to influencing where people go for their news, and all it has to do is write a few words. Welcome to the new media landscape, and good luck with your headlines.</p>
+<p><em>Post and thumbnail photos courtesy of Flickr user <a href="http://www.flickr.com/photos/abysim/4594861303/">Abysmim</a> and AP Images</em></p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687808&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=254768"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=254768" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=media&utm_medium=editorial&utm_campaign=auto3&utm_term=687808+when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift&utm_content=mathewingram">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/report/frenemy-mine-the-pros-and-cons-of-social-partnerships-for-online-media-companies/?utm_source=media&utm_medium=editorial&utm_campaign=auto3&utm_term=687808+when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift&utm_content=mathewingram">Frenemy mine: The pros and cons of social partnerships for online media companies</a></li><li><a href="http://pro.gigaom.com/2012/01/newnet-q4-platform-mania-and-social-commerce-shakeout/?utm_source=media&utm_medium=editorial&utm_campaign=auto3&utm_term=687808+when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift&utm_content=mathewingram">NewNet Q4: Platform mania and social commerce shakeout</a></li><li><a href="http://pro.gigaom.com/2012/01/newnet-q4-platform-mania-and-social-commerce-shakeout/?utm_source=media&utm_medium=editorial&utm_campaign=auto3&utm_term=687808+when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift&utm_content=mathewingram">NewNet Q4: Platform mania and social commerce shakeout</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=HU79hlrI1zI:aB_N0PdupNg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/HU79hlrI1zI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://paidcontent.org/2013/09/06/when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2011/02/4594861303_b0c4570710_z.png?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2011/02/4594861303_b0c4570710_z.png?w=150" medium="image">
+			<media:title type="html">Tigers attack</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/0bdf7ab171ade0708a11fa3378e6d8cb?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">Mathew</media:title>
+		</media:content>
+
+		<media:content url="http://gigaompaidcontent.files.wordpress.com/2013/09/matt-drudge-o.jpg" medium="image">
+			<media:title type="html">matt-drudge-o</media:title>
+		</media:content>
+	<feedburner:origLink>http://paidcontent.org/2013/09/06/when-aggregators-attack-techmemes-headline-rewriting-is-just-part-of-a-larger-shift/</feedburner:origLink></item>
+		<item>
+		<title>Apple won’t launch a new Apple TV next Tuesday</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/04D0or0e4DI/</link>
+		<comments>http://gigaom.com/2013/09/06/apple-wont-launch-a-new-apple-tv-next-tuesday/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 22:30:32 +0000</pubDate>
+		<dc:creator>Janko Roettgers</dc:creator>
+		
+		<guid isPermaLink="false">http://gigaom.com/?p=687804</guid>
+		<description><![CDATA[Apple isn&#8217;t quite ready to launch a new version of its Apple TV device at its press event next Tuesday, says AllThingsD&#8217;s Peter Kafka. Instead, it will just tweak the software of the existing Apple TV to make video sharing easier. That report comes after shipping [&#8230;]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687804&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Apple isn&#8217;t quite ready to launch a new version of its Apple TV device at its press event next Tuesday, <a href="http://allthingsd.com/20130906/apple-wont-introduce-new-apple-tv-box-next-week-will-upgrade-software/">says AllThingsD&#8217;s Peter Kafka</a>. Instead, it will just tweak the software of the existing Apple TV to make video sharing easier. That report comes <a href="http://gigaom.com/2013/09/03/apple-tv-likely-on-its-way-for-a-september-10-launch/">after shipping logs indicated</a> that Apple may be getting ready to sell new TV hardware &#8212; I guess we&#8217;ll have to wait a few more days to see for ourselves.</p>
+<p>Story posted at: <a href="http://www.allthingsd.com/20130906/apple-wont-introduce-new-apple-tv-box-next-week-will-upgrade-software/">allthingsd.com</a></p>
+<p>To leave a comment or share, visit: <a href="http://gigaom.com/2013/09/06/apple-wont-launch-a-new-apple-tv-next-tuesday/" title="Apple won&#8217;t launch a new Apple TV next Tuesday">Apple won&#8217;t launch a new Apple TV next Tuesday</a></p><br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687804&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=854817"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=854817" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=apple&utm_medium=editorial&utm_campaign=auto3&utm_term=687804+apple-wont-launch-a-new-apple-tv-next-tuesday&utm_content=jroettgers">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/2011/10/access-vs-ownership-why-ultraviolet-has-already-lost/?utm_source=apple&utm_medium=editorial&utm_campaign=auto3&utm_term=687804+apple-wont-launch-a-new-apple-tv-next-tuesday&utm_content=jroettgers">Access vs. ownership: Why UltraViolet has already lost</a></li><li><a href="http://pro.gigaom.com/2010/07/apples-path-to-the-living-room/?utm_source=apple&utm_medium=editorial&utm_campaign=auto3&utm_term=687804+apple-wont-launch-a-new-apple-tv-next-tuesday&utm_content=jroettgers">Apple&#8217;s Path to the Living Room</a></li><li><a href="http://pro.gigaom.com/2010/05/tv-apps-evolution-from-novelty-to-mainstream/?utm_source=apple&utm_medium=editorial&utm_campaign=auto3&utm_term=687804+apple-wont-launch-a-new-apple-tv-next-tuesday&utm_content=jroettgers">TV Apps: Evolution from Novelty to Mainstream</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=04D0or0e4DI:ShcttbMZ038:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/04D0or0e4DI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/06/apple-wont-launch-a-new-apple-tv-next-tuesday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/08bc62ecf138202f06b74dfa01376e74?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">jroettgers</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/06/apple-wont-launch-a-new-apple-tv-next-tuesday/</feedburner:origLink></item>
+		<item>
+		<title>Is Amazon working on a free smartphone?</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/cDoDbuiitpQ/</link>
+		<comments>http://gigaom.com/2013/09/06/is-amazon-working-on-a-free-smartphone/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 21:06:41 +0000</pubDate>
+		<dc:creator>Alex Colon</dc:creator>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=687771</guid>
+		<description><![CDATA[According to a report, Amazon wants to get into the smartphone market so badly it might offer its phones for free.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687771&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Rumors of a smartphone from Amazon are <a href="http://gigaom.com/2012/09/05/with-rumored-phone-amazon-wants-to-be-on-all-screens/">nothing new</a>. They have been floating around since before the inception of the original Kindle Fire. But a new report from Amir Efrati and Jessica E. Lessin (formerly of the <i>Wall Street Journal</i>) suggests that not only is Amazon working on a smartphone, but that it might <a href="http://jessicalessin.com/2013/09/06/exclusive-amazon-wants-to-offer-its-smartphone-for-free-who-will-follow/">offer it for free</a>.</p>
+<p>Yes, free. And not just free with a carrier subsidy. According to the report, “Amazon wants the device to be free whether or not people sign up for a new wireless plan at the same time.” Of course, Amazon wouldn’t just give its phones away if it expected nothing in return.</p>
+<p>It is unclear, for instance, if Amazon will require customers to sign up for a subscription-based service like Amazon Prime. But this would make the most sense to me. In fact, this strategy actually sounds a lot like how wireless carriers work when you think about it. Carriers aren’t making much money off of device sales – they would never subsidize the price of phones so greatly if that were the case. Instead, carriers make money by requiring you to pay for their service every month. The same could hold true for Amazon if it requires customers to sign up for Prime, or some other completely new service, in order to use its otherwise-free phone.</p>
+<p>And aside from the revenue generated by some sort of subscription-based service, offering its phone for free would allow Amazon to gain some else that’s just as valuable: marketshare. Apple and Samsung have proven to have quite a lot of control over the smartphone market, so it is possible that Amazon could attempt something drastic in order to shake things up.</p>
+<p>An Amazon phone will likely be running a “forked” version of Google’s Android operating system, much like the Kindle Fire tablets do. This means that a phone will use the open-source Android OS as the basis of its system, but it won’t won’t incorporate any of Google’s own apps or services. This would allow Amazon to include its own existing app store, and nurture the development of its own app ecosystem, which could mean another large stream of revenue.</p>
+<p style="text-align:center;"><a href="http://gigaom2.files.wordpress.com/2011/05/amazon-appstore-featured.jpg"><img  alt="amazon-appstore-featured" src="http://gigaom2.files.wordpress.com/2011/05/amazon-appstore-featured.jpg?w=637&#038;h=425" width="637" height="425" class="aligncenter  wp-image-341557" /></a></p>
+<p>But considering it takes around $200 to produce a smartphone on average, Amazon will have to think long and hard before deciding to go all-in with such an aggressive plan. Or it can take a page out of Xiaomi’s playbook, also mentioned in the report. The Chinese smartphone manufacturer is essentially selling its phones at cost in an effort to undercut it competitors, and plans to recoup the difference through software and services.</p>
+<p>Most recently, Amazon has been said to have been working on <a href="http://online.wsj.com/article_email/SB10001424127887324744104578473081373377170-lMyQjAxMTAzMDAwOTEwNDkyWj.html">two different smartphones</a>, including one with a glasses-free 3D display, along with a lower-end model. It is unclear if these devices are still in the works, and if they are the ones being referred to in this report. Either way, it’ll be interesting to see Amazon enter the smartphone space, no matter the device and strategy.</p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=687771&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=824748"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=824748" /></a></p><p><strong>Related research and analysis from GigaOM Pro:</strong><br />Subscriber content. <a href="http://pro.gigaom.com/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687771+is-amazon-working-on-a-free-smartphone&utm_content=alexandergcolon">Sign up for a free trial</a>.</p><ul><li><a href="http://pro.gigaom.com/2012/07/the-wearable-computing-market-a-global-analysis/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687771+is-amazon-working-on-a-free-smartphone&utm_content=alexandergcolon">Analyzing the wearable computing market</a></li><li><a href="http://pro.gigaom.com/2009/09/report-how-mobile-cloud-computing-will-change-tech/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687771+is-amazon-working-on-a-free-smartphone&utm_content=alexandergcolon">Report: How Mobile Cloud Computing Will Change Tech</a></li><li><a href="http://pro.gigaom.com/2012/12/what-to-watch-in-mobile-in-2013/?utm_source=mobile&utm_medium=editorial&utm_campaign=auto3&utm_term=687771+is-amazon-working-on-a-free-smartphone&utm_content=alexandergcolon">What to watch in mobile in 2013</a></li></ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=cDoDbuiitpQ:ZzWcdFSu2zw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/cDoDbuiitpQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/06/is-amazon-working-on-a-free-smartphone/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	
+		<media:thumbnail url="http://gigaom2.files.wordpress.com/2013/09/amazon-logo1.png?w=150" />
+		<media:content url="http://gigaom2.files.wordpress.com/2013/09/amazon-logo1.png?w=150" medium="image">
+			<media:title type="html">Amazon Logo</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/279a3692b65b222a0cfc3f581b4e3547?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">alexandergcolon</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2011/05/amazon-appstore-featured.jpg?w=708" medium="image">
+			<media:title type="html">amazon-appstore-featured</media:title>
+		</media:content>
+	<feedburner:origLink>http://gigaom.com/2013/09/06/is-amazon-working-on-a-free-smartphone/</feedburner:origLink></item>
+		<item>
+		<title>Sponsored post: Great things come in micro packages</title>
+		<link>http://feedproxy.google.com/~r/OmMalik/~3/d2g6HynY_RQ/</link>
+		<comments>http://gigaom.com/2013/09/06/great-things-come-in-micro-packages/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 20:55:27 +0000</pubDate>
+		<dc:creator>GigaOM</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=686670</guid>
+		<description><![CDATA[Dell Data Center Solutions’ Executive Director, Drew Schulke, describes the journey his organization has taken in addressing the critical needs of web- and cloud-based customers, especially in the emerging workload referred to as “cold storage.” The DCS 1300 is built to address those unique customer requirements. <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=686670&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>For the better part of five years, I’ve been fortunate to have a front-row seat as the concept of microservers gained traction in the industry. In Dell’s <a href="http://www.dell.com/content/topics/global.aspx/sitelets/solutions/cluster_grid/dcs_landingpage?c=us&amp;l=en" rel="nofollow">Data Center Solutions (DCS) organization</a>, we’ve had countless customer conversations on the workloads that drive today’s web- and cloud-based business models, including the critical, emerging workload known as “cold storage.”</p>
+<p>The business need for cold storage is relatively straightforward: Web-based businesses produce huge volumes of data every day, but over time the frequency with which such data is accessed decreases rapidly &#8212; yet the data itself cannot be destroyed. To justify keeping access to such “cold” data, one needs an extremely cost-effective and flexible solution, balancing reasonable response time with minimal space and power consumption while also providing a seamless transition from an application and architectural perspective, all at the lowest possible cost-per-gigabyte.</p>
+<p>That brings us to today’s announcement of our DCS 1300 platform, built specifically for the needs of cold storage workloads.  Featuring the just-announced Intel Atom C2000 product family, this solution is the next leap forward in the microserver journey we began five years ago.</p>
+<p>&#8211;Drew Schulke, executive director of Dell Data Center Solutions</p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=gigaom.com&#038;blog=14960843&#038;post=686670&#038;subd=gigaom2&#038;ref=&#038;feed=1" width="1" height="1" /><p><a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=273195"><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1008864/GigaOM_RSS_300x250&#038;sz=300x250&#038;c=273195" /></a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/OmMalik?a=d2g6HynY_RQ:ZtOxTfg-f2s:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/OmMalik?d=yIl2AUoC8zA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/OmMalik/~4/d2g6HynY_RQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2013/09/06/great-things-come-in-micro-packages/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/4286d92b867f9a8085800edd1d9c9b7f?s=96&amp;d=retro&amp;r=PG" medium="image">
+			<media:title type="html">kathyosweiler</media:title>
+		</media:content>
+	<category domain="http://rss.financialcontent.com/stocksymbol">DCS</category><feedburner:origLink>http://gigaom.com/2013/09/06/great-things-come-in-micro-packages/</feedburner:origLink></item>
+	<media:rating>nonadult</media:rating></channel>
+</rss>

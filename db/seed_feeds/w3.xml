@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.w3.org/blog/news/wp-atom.php"
+   >
+	<title type="text">W3C News</title>
+	<subtitle type="text">Leading the Web to its Full Potential</subtitle>
+
+	<updated>2013-11-08T19:16:54Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news" />
+	<id>http://www.w3.org/blog/news/feed/atom</id>
+	<link rel="self" type="application/atom+xml" href="http://www.w3.org/blog/news/feed/atom" />
+
+	<generator uri="http://wordpress.org/" version="3.7.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[MBUI Abstract User Interface Models Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3421" />
+		<id>http://www.w3.org/blog/news/?p=3421</id>
+		<updated>2013-11-08T19:16:54Z</updated>
+		<published>2013-11-08T19:16:54Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" />		<summary type="html"><![CDATA[The Model-Based User Interfaces Working Group has published a Working Draft of MBUI &#8211; Abstract User Interface Models. Model-Based User Interface Design facilitates interchange of designs through a layered approach that separates out different levels of abstraction in user interface design. This document covers the specification of Abstract User Interface Models, by defining its semantics [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3421"><![CDATA[<p>The <a href="http://www.w3.org/2011/mbui/">Model-Based User Interfaces Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2013/WD-abstract-ui-20131105/">MBUI &#8211; Abstract User Interface Models</a>. Model-Based User Interface Design facilitates interchange of designs through a layered approach that separates out different levels of abstraction in user interface design. This document covers the specification of Abstract User Interface Models, by defining its semantics through a meta-model, and an interchange syntax (expressed as XML Schema) for exchanging Abstract User Interface Models between different user interface development environments. Learn more about the <a href="http://www.w3.org/2007/uwa/">Ubiquitous Web Applications Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3421#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3421/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[CSS Style Attributes is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3417" />
+		<id>http://www.w3.org/blog/news/?p=3417</id>
+		<updated>2013-11-07T21:30:07Z</updated>
+		<published>2013-11-07T21:30:07Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Top Story" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group has published a W3C Recommendation of CSS Style Attributes. Markup languages such as HTML and SVG provide a style attribute on most elements, to hold inline style information that applies to those elements. This draft describes the syntax and interpretation of the CSS fragment that can be used [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3417"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2013/REC-css-style-attr-20131107/">CSS Style Attributes</a>. Markup languages such as HTML and SVG provide a style attribute on most elements, to hold inline style information that applies to those elements. This draft describes the syntax and interpretation of the CSS fragment that can be used in such style attributes. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3417#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3417/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[W3C DOM4 Draft, and Use Cases and Requirements for Standardizing Responsive Images Note]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3414" />
+		<id>http://www.w3.org/blog/news/?p=3414</id>
+		<updated>2013-11-07T21:16:46Z</updated>
+		<published>2013-11-07T21:16:46Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The HTML Working Group has published two Working Drafts today: W3C DOM4, which defines a platform-neutral model for events, promises, and document nodes. Use Cases and Requirements for Standardizing Responsive Images, which captures the use cases and requirements for standardizing a solution for responsive images. The use cases and requirements were gathered with consultation with [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3414"><![CDATA[<p>The <a href="http://www.w3.org/html/wg/">HTML Working Group</a> has published two Working Drafts today:</p>
+<ul class="show_items">
+<li><a href="http://www.w3.org/TR/2013/WD-dom-20131107/">W3C DOM4</a>, which defines a platform-neutral model for events, promises, and document nodes.</li>
+<li><a href="http://www.w3.org/TR/2013/NOTE-respimg-usecases-20131107/">Use Cases and Requirements for Standardizing Responsive Images</a>, which captures the use cases and requirements for standardizing a solution for responsive images. The use cases and requirements were gathered with consultation with the HTML Working Group and WHATWG participants, Responsive Images Community Group members, and the general public.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/MarkUp/Activity">HTML Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3414#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3414/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[W3C Invites Implementations of Authoring Tool Accessibility Guidelines (ATAG) 2.0]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3412" />
+		<id>http://www.w3.org/blog/news/?p=3412</id>
+		<updated>2013-11-07T21:03:52Z</updated>
+		<published>2013-11-07T20:58:25Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Authoring Tool Accessibility Guidelines Working Group (AUWG) invites implementations of the Candidate Recommendation Authoring Tool Accessibility Guidelines (ATAG) 2.0, and comments on a Working Draft of the Note Implementing ATAG 2.0. ATAG defines how authoring tools should help developers produce accessible web content that conforms to Web Content Accessibility Guidelines (WCAG) 2.0, and defines [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3412"><![CDATA[<p>The <a href="http://www.w3.org/WAI/AU">Authoring Tool Accessibility Guidelines Working Group (AUWG)</a> invites implementations of the Candidate Recommendation <a href="http://www.w3.org/TR/2013/CR-ATAG20-20131107/">Authoring Tool Accessibility Guidelines (ATAG) 2.0</a>, and comments on a Working Draft of the Note <a href="http://www.w3.org/TR/2013/WD-IMPLEMENTING-ATAG20-20131107/">Implementing ATAG 2.0</a>. ATAG defines how authoring tools should help developers produce accessible web content that conforms to Web Content Accessibility Guidelines (WCAG) 2.0, and defines how to make authoring tools accessible so that people with disabilities can use them. ATAG is introduced in the <a href="http://www.w3.org/WAI/intro/atag">ATAG Overview</a> and <a href="http://www.w3.org/WAI/intro/atag-glance">ATAG at a Glance</a>. Authoring tools include content management systems (CMS), learning management systems (LMS), HTML editors, blogs, wikis, social media, and development environments. AUWG invites developers of authoring tools who might be interested in sharing your ATAG implementation experience to <a href="mailto:public-atag2-comments@w3.org">contact AUWG</a> by 7 December 2013. Learn more about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3412#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3412/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[User Agent Accessibility Guidelines (UAAG) 2.0 Last Call and Implementing UAAG 2.0 Working Drafts Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3408" />
+		<id>http://www.w3.org/blog/news/?p=3408</id>
+		<updated>2013-11-07T20:41:08Z</updated>
+		<published>2013-11-07T20:41:08Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The User Agent Accessibility Guidelines Working Group (UAWG) today published the Last Call Working Draft of User Agent Accessibility Guidelines (UAAG) 2.0 and a Working Draft of Implementing UAAG 2.0. UAAG defines how browsers, media players, and other &#34;user agents&#34; should support accessibility for people with disabilities and work with assistive technologies. UAWG particularly requests [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3408"><![CDATA[<p>The User Agent Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/UA/">UAWG</a>) today published the Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-UAAG20-20131107/">User Agent Accessibility Guidelines (UAAG) 2.0</a> and a Working Draft of <a href="http://www.w3.org/TR/2013/WD-IMPLEMENTING-UAAG20-20131107/">Implementing UAAG 2.0</a>. UAAG  defines how browsers, media players, and other &quot;user agents&quot; should support accessibility for people with disabilities and work with assistive technologies. UAWG particularly requests that developers of browsers, media players, and web applications review and comment on these guidelines by 16 December 2013. Learn more in the <a href="http://www.w3.org/WAI/intro/uaag">UAAG Overview</a> and read about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3408#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3408/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[MBUI Task Models Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3406" />
+		<id>http://www.w3.org/blog/news/?p=3406</id>
+		<updated>2013-11-07T17:02:12Z</updated>
+		<published>2013-11-07T16:58:33Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" />		<summary type="html"><![CDATA[The Model-Based User Interfaces Working Group has published the First Public Working Draft of MBUI &#8211; Task Models. Task models are useful when designing and developing interactive systems. They describe the logical activities that have to be carried out in order to reach the user&#8217;s goals. This document covers the specification of Task Models, with [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3406"><![CDATA[<p>The <a href="http://www.w3.org/2011/mbui/">Model-Based User Interfaces Working Group</a> has published the First Public Working Draft of <a href="http://www.w3.org/TR/2013/WD-task-models-20131107/">MBUI &#8211; Task Models</a>. Task models are useful when designing and developing interactive systems. They describe the logical activities that have to be carried out in order to reach the user&#8217;s goals. This document covers the specification of Task Models, with a meta-model expressed in UML, and an XML Schema that can be used as the basis for interchange of Task Models between different user interface development tools. Learn more about the <a href="http://www.w3.org/2007/uwa/">Ubiquitous Web Applications Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3406#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3406/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[RDF 1.1 JSON Alternate Serialization (RDF/JSON) Note Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3404" />
+		<id>http://www.w3.org/blog/news/?p=3404</id>
+		<updated>2013-11-07T16:52:22Z</updated>
+		<published>2013-11-07T16:52:22Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Semantic Web" />		<summary type="html"><![CDATA[The RDF Working Group has published a Group Note of RDF 1.1 JSON Alternate Serialization (RDF/JSON). The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines a textual syntax for RDF called RDF/JSON that allows an RDF graph to be completely written in a form compatible with the [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3404"><![CDATA[<p>The <a href="http://www.w3.org/2011/rdf-wg/">RDF Working Group</a> has published a Group Note of <a href="http://www.w3.org/TR/2013/NOTE-rdf-json-20131107/">RDF 1.1 JSON Alternate Serialization (RDF/JSON)</a>. The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines a textual syntax for RDF called RDF/JSON that allows an RDF graph to be completely written in a form compatible with the JavaScript Object Notation (JSON) and alternative to the one recommended in JSON-LD. The syntax defined in this document should not be used unless there is a specific reason to do so. Use of JSON-LD is recommended. Learn more about the <a href="http://www.w3.org/2001/sw/">Semantic Web Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3404#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3404/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Web Applications Working Group updated Streams API, Quota Management API, DOM Level 3 Events Specification, and UI Events]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3385" />
+		<id>http://www.w3.org/blog/news/?p=3385</id>
+		<updated>2013-11-07T21:31:26Z</updated>
+		<published>2013-11-06T16:32:06Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications Working Group has published four Working Drafts: Streams API. This specification provides an API for representing binary data and string data in web applications as a Stream object, as well as programmatically building and reading its contents. This includes a Stream, a StreamConsumeResult and a StreamReadType interfaces, extensions to XMLHttpRequest and to [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3385"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has published four Working Drafts:</p>
+<ul class="show_items">
+<li><a href="http://www.w3.org/TR/2013/WD-streams-api-20131105/">Streams API</a>. This specification provides an API for representing binary data and string data in web applications as a Stream object, as well as programmatically building and reading its contents. This includes a Stream, a StreamConsumeResult and a StreamReadType interfaces, extensions to XMLHttpRequest and to URL.createObjectURL and URL.revokeObjectURL. This API is designed to be used in conjunction with other APIs and elements on the web platform, notably: File, XMLHttpRequest, postMessage, and Web Workers.</li>
+<li><a href="http://www.w3.org/TR/2013/WD-quota-api-20131105/">Quota Management API</a>. This specification defines an API to manage usage and availability of local storage resources, and defines a means by which a user agent (UA) may grant Web applications permission to use more local space, temporarily or persistently, via various different storage APIs.</li>
+<li><a href="http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/">Document Object Model (DOM) Level 3 Events Specification</a>. This specification defines the Document Object Model Events Level 3, a generic platform- and language-neutral event system which allows registration of event handlers, describes event flow through a tree structure, and provides basic contextual information for each event. The Document Object Model Events Level 3 builds on the Document Object Model Events Level 2.</li>
+<li><a href="http://www.w3.org/TR/2013/WD-uievents-20131105/">UI Events</a>. This specification extends the events and features defined in DOM Events Level 3.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3385#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3385/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: WAI-ARIA User Agent Implementation Guide]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3383" />
+		<id>http://www.w3.org/blog/news/?p=3383</id>
+		<updated>2013-11-07T21:21:14Z</updated>
+		<published>2013-11-05T22:43:36Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Protocols and Formats Working Group (PFWG) today published the updated Last Call Working Draft of WAI-ARIA 1.0 User Agent Implementation Guide, which describes how browsers and other user agents should support WAI-ARIA (the Accessible Rich Internet Applications specification); specifically, how to expose WAI-ARIA features to platform accessibility APIs. Comments are welcome through 6 December. [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3383"><![CDATA[<p>The <a href="http://www.w3.org/WAI/PF/">Protocols and Formats Working Group (PFWG)</a> today published the updated Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-wai-aria-implementation-20131105/">WAI-ARIA 1.0 User Agent Implementation Guide</a>, which describes how browsers and other user agents should support <a href="http://www.w3.org/WAI/intro/aria">WAI-ARIA</a> (the Accessible Rich Internet Applications specification); specifically, how to expose WAI-ARIA features to platform accessibility <abbr title="application programming interface">API</abbr>s. Comments are welcome through 6 December. Learn more in the <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2013OctDec/0063.html">call for review e-mail</a> and read about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3383#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3383/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: CSS Syntax Module Level 3]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3381" />
+		<id>http://www.w3.org/blog/news/?p=3381</id>
+		<updated>2013-11-07T20:41:00Z</updated>
+		<published>2013-11-05T22:33:30Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group has published a Last Call Working Draft of CSS Syntax Module Level 3. This module describes, in general terms, the basic structure and syntax of CSS stylesheets. It defines, in detail, the syntax and parsing of CSS &#8211; how to turn a stream of bytes into a meaningful [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3381"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> has published a Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-css-syntax-3-20131105/">CSS Syntax Module Level 3</a>. This module describes, in general terms, the basic structure and syntax of CSS stylesheets. It defines, in detail, the syntax and parsing of CSS &#8211; how to turn a stream of bytes into a meaningful stylesheet. CSS is a language for describing the rendering of structured documents (such as HTML and XML) on screen, on paper, in speech, etc. Comments are welcome through 17 December. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3381#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3381/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[XProc V2.0 Requirements Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3379" />
+		<id>http://www.w3.org/blog/news/?p=3379</id>
+		<updated>2013-11-07T17:05:45Z</updated>
+		<published>2013-11-05T22:24:52Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="XML Core Technologies" />		<summary type="html"><![CDATA[The XML Processing Model Working Group has published a Working Draft of XProc V2.0 Requirements. This is the usability improvement requirements document for XProc V2.0, based on user and implementor experience with XProc. Learn more about the Extensible Markup Language (XML) Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3379"><![CDATA[<p>The <a href="http://www.w3.org/XML/Processing/">XML Processing Model Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2013/WD-xproc-v2-req-20131105/">XProc V2.0 Requirements</a>. This is the usability improvement requirements document for XProc V2.0, based on user and implementor experience with XProc. Learn more about the <a href="http://www.w3.org/XML/">Extensible Markup Language (XML) Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3379#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3379/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[W3C Invites Implementations of five Candidate Recommendations for version 1.1 of the Resource Description Framework (RDF)]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3389" />
+		<id>http://www.w3.org/blog/news/?p=3389</id>
+		<updated>2013-11-07T17:05:53Z</updated>
+		<published>2013-11-05T17:27:05Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Semantic Web" />		<summary type="html"><![CDATA[The RDF Working Group today published five Candidate Recommendations for version 1.1 of the Resource Description Framework (RDF), a widespread and stable technology for data interoperability: RDF 1.1 Concepts and Abstract Syntax defines the basics which underly all RDF syntaxes and systems. It provides for general data interoperability. RDF 1.1 Semantics defines the precise semantics [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3389"><![CDATA[<p>The <a href="http://www.w3.org/2011/rdf-wg/">RDF Working Group</a> today published five Candidate Recommendations for version 1.1 of the Resource Description Framework (RDF), a widespread and stable technology for data interoperability:</p>
+<ul class="show_items">
+<li><a href="http://www.w3.org/TR/2013/CR-rdf11-concepts-20131105/">RDF 1.1 Concepts and Abstract Syntax</a> defines the basics which underly all RDF syntaxes and systems. It provides for general data interoperability. </li>
+<li><a href="http://www.w3.org/TR/2013/CR-rdf11-mt-20131105/">RDF 1.1 Semantics</a> defines the precise semantics of RDF data, supporting use with a wide range of &#8220;semantic&#8221; or &#8220;knowledge&#8221; technologies.</li>
+<li><a href="http://www.w3.org/TR/2013/CR-n-triples-20131105/">RDF 1.1 N-Triples</a> defines a simple line-oriented syntax for serializing RDF data. N-Triples is a minimalist subset of <a href="http://www.w3.org/TR/turtle/">Turtle</a>.</li>
+<li><a href="http://www.w3.org/TR/2013/CR-trig-20131105/">RDF 1.1 TriG</a> defines an extension to <a href="http://www.w3.org/TR/turtle/">Turtle</a> (aligned with <a href="http://www.w3.org/TR/sparql11-overview/">SPARQL</a>) for handling multiple RDF Graphs in a single document.</li>
+<li><a href="http://www.w3.org/TR/2013/CR-n-quads-20131105/">RDF 1.1 N-Quads</a> defines an extension to N-Triples for handling multiple RDF Graphs in a single document.</li>
+</ul>
+<p>All of these technologies are now stable and ready to be widely implemented. Each specification (except Concepts) has an associated Test Suite and includes a link to an Implementation Report showing how various software currently fares on the tests. If you maintain RDF software, please review these specifications, update your software if necessary, and (if relevant) send in test results as explained in the Implementation Report.</p>
+<p>RDF 1.1 is a refinement to the 2004 RDF specifications, designed to simplify and improve RDF without breaking existing deployments.</p>
+<p>Learn more about the <a href="http://www.w3.org/2001/sw/">Semantic Web Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3389#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3389/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[W3C Invites Implementations of Data Catalog Vocabulary (DCAT)]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3393" />
+		<id>http://www.w3.org/blog/news/?p=3393</id>
+		<updated>2013-11-07T17:00:13Z</updated>
+		<published>2013-11-05T17:26:56Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Semantic Web" />		<summary type="html"><![CDATA[The Government Linked Data (GLD) Working Group today published the Data Catalog Vocabulary (DCAT) as a Candidate Recommendation. DCAT allows governmental and non-governmental data catalogs to publish their entries in a standard machine-readable format so they can be managed, aggregated, and presented in other catalogs. Originally developed at DERI, DCAT has evolved with input from [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3393"><![CDATA[<p>The <a href="http://www.w3.org/2011/gld/">Government Linked Data (GLD) Working Group</a> today published <a href="http://www.w3.org/TR/2013/CR-vocab-dcat-20131105/">the Data Catalog Vocabulary (DCAT)</a> as a Candidate Recommendation. DCAT allows governmental and non-governmental data catalogs to publish their entries in a standard machine-readable format so they can be managed, aggregated, and presented in other catalogs.</p>
+<p>Originally developed at DERI, DCAT has evolved with input from a variety of stakeholders and is now stable and ready for widespread use. If you have a collection of data sources, please consider publishing DCAT metadata for it, and if you run a data catalog or portal, please consider making use of DCAT metadata you find. The Working Group is eager to receive comments reports of use at public-gld-comments@w3.org and is maintaining an <a href="http://www.w3.org/2011/gld/wiki/DCAT_Implementations">Implementation Report</a>.</p>
+<p>Learn more about the <a href="http://www.w3.org/2007/eGov/">eGovernment Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3393#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3393/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Call for Review: JSON-LD 1.0, and JSON-LD 1.0 Processing Algorithms and API]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3391" />
+		<id>http://www.w3.org/blog/news/?p=3391</id>
+		<updated>2013-11-07T16:59:47Z</updated>
+		<published>2013-11-05T17:26:26Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Semantic Web" />		<summary type="html"><![CDATA[The RDF Working Group has published two Proposed Recommendations today: JSON-LD 1.0. JSON is a useful data serialization and messaging format. This specification defines JSON-LD, a JSON-based format to serialize Linked Data. The syntax is designed to easily integrate into deployed systems that already use JSON, and provides a smooth upgrade path from JSON to [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3391"><![CDATA[<p>The <a href="http://www.w3.org/2011/rdf-wg/">RDF Working Group</a> has published two Proposed Recommendations today:</p>
+<ul class="show_items">
+<li><a href="http://www.w3.org/TR/2013/PR-json-ld-20131105/">JSON-LD 1.0</a>. JSON is a useful data serialization and messaging format. This specification defines JSON-LD, a JSON-based format to serialize Linked Data. The syntax is designed to easily integrate into deployed systems that already use JSON, and provides a smooth upgrade path from JSON to JSON-LD. It is primarily intended to be a way to use Linked Data in Web-based programming environments, to build interoperable Web services, and to store Linked Data in JSON-based storage engines. Comments are welcome through 05 December.</li>
+<li><a href="http://www.w3.org/TR/2013/PR-json-ld-api-20131105/">JSON-LD 1.0 Processing Algorithms and API</a>. This specification defines a set of algorithms for programmatic transformations of JSON-LD documents. Restructuring data according to the defined transformations often dramatically simplifies its usage. Furthermore, this document proposes an Application Programming Interface (API) for developers implementing the specified algorithms. Comments are welcome through 05 December.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/2001/sw/">Semantic Web Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3391#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3391/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Widget Interface is a W3C Recommendation; Last Call: Pointer Lock]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3374" />
+		<id>http://www.w3.org/blog/news/?p=3374</id>
+		<updated>2013-11-07T21:31:00Z</updated>
+		<published>2013-10-31T16:55:37Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications Working Group has published a W3C Recommendation of Widget Interface. This specification defines an application programming interface (API) for widgets that provides, amongst other things, functionality for accessing a widget&#8217;s metadata and persistently storing data. The Web Applications Working Group has also published a Last Call Working Draft of Pointer Lock. This [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3374"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2013/REC-widgets-apis-20131031/">Widget Interface</a>. This specification defines an application programming interface (API) for widgets that provides, amongst other things, functionality for accessing a widget&#8217;s metadata and persistently storing data.</p>
+<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has also published a Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-pointerlock-20131031/">Pointer Lock</a>. This specification defines an API that provides scripted access to raw mouse movement data while locking the target of mouse events to a single element and removing the cursor from view. This is an essential input mode for certain classes of applications, especially first person perspective 3D applications and 3D modelling software. Comments are welcome through 28 November.</p>
+<p>Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3374#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3374/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[The Web Performance Working Group calls for review of User Timing and Performance Timeline, calls for implementations of Timing control for script-based animations]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3371" />
+		<id>http://www.w3.org/blog/news/?p=3371</id>
+		<updated>2013-11-05T22:34:56Z</updated>
+		<published>2013-10-31T16:39:23Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Performance Working Group has published two Proposed Recommendations and invites implementation of the Candidate Recommendation today: A Proposed Recommendations of User Timing, which defines an interface to help Web developers measure the performance of their applications by giving them access to high precision timestamps. Comments are welcome through 28 November. A Proposed Recommendation [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3371"><![CDATA[<p>The <a href="http://www.w3.org/2010/webperf/">Web Performance Working Group</a> has published two Proposed Recommendations and invites implementation of the Candidate Recommendation today:</p>
+<ul class="show_items">
+<li>A Proposed Recommendations of <a href="http://www.w3.org/TR/2013/PR-user-timing-20131031/">User Timing</a>, which defines an interface to help Web developers measure the performance of their applications by giving them access to high precision timestamps. Comments are welcome through 28 November.</li>
+<li>A Proposed Recommendation of <a href="http://www.w3.org/TR/2013/PR-performance-timeline-20131031/">Performance Timeline</a>. This specification defines an unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces. Comments are welcome through 28 November.</li>
+<li>A Candidate Recommendation of <a href="http://www.w3.org/TR/2013/CR-animation-timing-20131031/">Timing control for script-based animations</a>. This document defines an API web page authors can use to write script-based animations where the user agent is in control of limiting the update rate of the animation. The user agent is in a better position to determine the ideal animation rate based on whether the page is currently in a foreground or background tab, what the current load on the CPU is, and so on. Using this API should therefore result in more appropriate utilization of the CPU by the browser.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3371#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3371/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Touch Events Extensions Note Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3369" />
+		<id>http://www.w3.org/blog/news/?p=3369</id>
+		<updated>2013-11-05T17:27:47Z</updated>
+		<published>2013-10-31T16:11:12Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Events Working Group has published a Group Note of Touch Events Extensions. This document defines extensions to the Touch Events specification that have been implemented by one or more browsers. This document is no longer being developed. Learn more about the Rich Web Client Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3369"><![CDATA[<p>The <a href="http://www.w3.org/2010/webevents/">Web Events Working Group</a> has published a Group Note of <a href="http://www.w3.org/TR/2013/NOTE-touch-events-extensions-20131031/">Touch Events Extensions</a>. This document defines extensions to the Touch Events specification that have been implemented by one or more browsers. This document is no longer being developed. Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3369#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3369/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Linked Data Platform Use Cases and Requirements Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3367" />
+		<id>http://www.w3.org/blog/news/?p=3367</id>
+		<updated>2013-11-05T17:27:34Z</updated>
+		<published>2013-10-31T15:44:35Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Semantic Web" />		<summary type="html"><![CDATA[The Linked Data Platform (LDP) Working Group has published a Working Draft of Linked Data Platform Use Cases and Requirements. To foster the development of the Linked Data Platform specification, this document includes a set of user stories, use cases, scenarios and requirements that motivate a simple read-write Linked Data architecture, based on HTTP access [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3367"><![CDATA[<p>The <a href="http://www.w3.org/2012/ldp/">Linked Data Platform (LDP) Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2013/WD-ldp-ucr-20131031/">Linked Data Platform Use Cases and Requirements</a>. To foster the development of the Linked Data Platform specification, this document includes a set of user stories, use cases, scenarios and requirements that motivate a simple read-write Linked Data architecture, based on HTTP access to web resources that describe their state using RDF. The starting point for the development of these use cases is a collection of user stories that provide realistic examples describing how people may use read-write Linked Data. The use cases themselves are captured in a narrative style that describes a behavior, or set of behaviors based on, and using scenarios from, these user stories. The aim throughout has been to avoid details of protocol (specifically the HTTP protocol), and use of any specific vocabulary that might be introduced by the LDP specification. Learn more about the <a href="http://www.w3.org/2001/sw/">Semantic Web Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3367#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3367/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[HTML Working Group updated HTML 5.1, HTML Canvas 2D Context, Level 2, and HTML Microdata]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3365" />
+		<id>http://www.w3.org/blog/news/?p=3365</id>
+		<updated>2013-11-05T17:27:25Z</updated>
+		<published>2013-10-31T15:28:49Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The HTML Working Group has update two Working Drafts and a Working Group Note today: A Working Draft of HTML 5.1, which defines the 5th major version, first minor revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new features continue to be introduced to help [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3365"><![CDATA[<p>The <a href="http://www.w3.org/html/wg/">HTML Working Group</a> has update two Working Drafts and a Working Group Note today:</p>
+<ul class="show_items">
+<li>A Working Draft of <a href="http://www.w3.org/TR/2013/WD-html51-20131029/">HTML 5.1</a>, which defines the 5th major version, first minor revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new features continue to be introduced to help Web application authors, new elements continue to be introduced based on research into prevailing authoring practices, and special attention continues to be given to defining clear conformance criteria for user agents in an effort to improve interoperability.</li>
+<li>A Working Draft of <a href="http://www.w3.org/TR/2013/WD-2dcontext2-20131029/">HTML Canvas 2D Context, Level 2</a>. This specification defines the 2D Context for the HTML canvas element. The 2D Context provides objects, methods, and properties to draw and manipulate graphics on a canvas drawing surface.</li>
+<li>A Group Note of <a href="http://www.w3.org/TR/2013/NOTE-microdata-20131029/">HTML Microdata</a>, which defines the HTML microdata mechanism. This mechanism allows machine-readable data to be embedded in HTML documents in an easy-to-write manner, with an unambiguous parsing model. It is compatible with numerous other data formats including RDF and JSON.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/MarkUp/Activity">HTML Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3365#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3365/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Internationalization Tag Set (ITS) Version 2.0 is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3353" />
+		<id>http://www.w3.org/blog/news/?p=3353</id>
+		<updated>2013-10-31T16:45:51Z</updated>
+		<published>2013-10-29T16:05:56Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The MultilingualWeb-LT Working Group has published a W3C Recommendation of Internationalization Tag Set (ITS) Version 2.0. ITS 2.0 provides a foundation for integrating automated processing of human language into core Web technologies. ITS 2.0 bears many commonalities with its predecessor, ITS 1.0, but provides additional concepts that are designed to foster the automated creation and [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3353"><![CDATA[<p>The <a href="http://www.w3.org/International/multilingualweb/lt/">MultilingualWeb-LT Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2013/REC-its20-20131029/">Internationalization Tag Set (ITS) Version 2.0</a>. ITS 2.0 provides a foundation for integrating automated processing of human language into core Web technologies. ITS 2.0 bears many commonalities with its predecessor, ITS 1.0, but provides additional concepts that are designed to foster the automated creation and processing of multilingual Web content. Work on application scenarios for ITS 2.0 and gathering of usage and implementation experience will now take place in the <a href="http://www.w3.org/International/its/wiki/Main_Page">ITS Interest Group</a>. Learn more about the <a href="http://www.w3.org/International/">Internationalization Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3353#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3353/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Page Visibility (Second Edition) is a W3C Recommendation, Beacon and Resource Priorities First Public Working Drafts]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3351" />
+		<id>http://www.w3.org/blog/news/?p=3351</id>
+		<updated>2013-10-31T16:46:09Z</updated>
+		<published>2013-10-29T15:42:23Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Performance Working Group has published a W3C Recommendation and two First Public Working Drafts today: A W3C Recommendation of Page Visibility (Second Edition). This specification defines a means for site developers to programmatically determine the current visibility state of the page in order to develop power and CPU efficient web applications. A First [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3351"><![CDATA[<p>The <a href="http://www.w3.org/2010/webperf/">Web Performance Working Group</a> has published a W3C Recommendation and two First Public Working Drafts today:</p>
+<ul class="show_items">
+<li>A W3C Recommendation of <a href="http://www.w3.org/TR/2013/REC-page-visibility-20131029/">Page Visibility (Second Edition)</a>. This specification defines a means for site developers to programmatically determine the current visibility state of the page in order to develop power and CPU efficient web applications.</li>
+<li>A First Public Working Draft of <a href="http://www.w3.org/TR/2013/WD-beacon-20131029/">Beacon</a>. This specification defines an interoperable means for site developers to asynchronously transfer data from the user agent to a web server, with the user agent taking the responsibility to eventually send the data.</li>
+<li>A First Public Working Draft of <a href="http://www.w3.org/TR/2013/WD-resource-priorities-20131029/">Resource Priorities</a>. This specification defines a means for site developers to programmatically give the User Agent hints on the download priority of a resource. This will allow User Agents to more efficiently manage the order in which resources are downloaded.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3351#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3351/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: CSS Masking Module Level 1]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3349" />
+		<id>http://www.w3.org/blog/news/?p=3349</id>
+		<updated>2013-10-31T16:39:12Z</updated>
+		<published>2013-10-29T15:23:33Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group and the SVG Working Group have published a Last Call Working Draft of CSS Masking Module Level 1. CSS Masking provides two means for partially or fully hiding portions of visual elements: masking and clipping. Masking describes how to use another graphical element or image as a luminance [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3349"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> and the <a href="http://www.w3.org/Graphics/SVG/">SVG Working Group</a> have published a Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-css-masking-1-20131029/">CSS Masking Module Level 1</a>. CSS Masking provides two means for partially or fully hiding portions of visual elements: masking and clipping. Masking describes how to use another graphical element or image as a luminance or alpha mask. Clipping describes the visible region of visual elements. Comments are welcome through 10 December. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a> and the <a href="http://www.w3.org/Graphics/">Graphics Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3349#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3349/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Geolocation API Specification is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3347" />
+		<id>http://www.w3.org/blog/news/?p=3347</id>
+		<updated>2013-10-31T16:55:31Z</updated>
+		<published>2013-10-24T15:48:14Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Geolocation Working Group has published a W3C Recommendation of Geolocation API Specification. This specification defines an API that provides scripted access to geographical location information associated with the hosting device. Learn more about the Ubiquitous Web Applications Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3347"><![CDATA[<p>The <a href="http://www.w3.org/2008/geolocation/">Geolocation Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2013/REC-geolocation-API-20131024/">Geolocation API Specification</a>. This specification defines an API that provides scripted access to geographical location information associated with the hosting device. Learn more about the <a href="http://www.w3.org/2007/uwa/">Ubiquitous Web Applications Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3347#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3347/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[CSS Writing Modes Level 3 Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3345" />
+		<id>http://www.w3.org/blog/news/?p=3345</id>
+		<updated>2013-10-31T15:28:29Z</updated>
+		<published>2013-10-24T15:46:53Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group has published a Working Draft of CSS Writing Modes Level 3. CSS Writing Modes Level 3 defines CSS support for various international writing modes, such as left-to-right (e.g. Latin or Indic), right-to-left (e.g. Hebrew or Arabic), bidirectional (e.g. mixed Latin and Arabic) and vertical (e.g. Asian scripts). Inherently [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3345"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2013/WD-css-writing-modes-3-20131024/">CSS Writing Modes Level 3</a>. CSS Writing Modes Level 3 defines CSS support for various international writing modes, such as left-to-right (e.g. Latin or Indic), right-to-left (e.g. Hebrew or Arabic), bidirectional (e.g. mixed Latin and Arabic) and vertical (e.g. Asian scripts). Inherently bottom-to-top scripts are not handled in this version. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3345#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3345/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: Custom Elements]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3343" />
+		<id>http://www.w3.org/blog/news/?p=3343</id>
+		<updated>2013-10-31T15:28:03Z</updated>
+		<published>2013-10-24T15:45:04Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications Working Group has published a Last Call Working Draft of Custom Elements. This specification describes the method for enabling the author to define and use new types of DOM elements in a document. Comments are welcome through 21 November. Learn more about the Rich Web Client Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3343"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has published a Last Call Working Draft of <a href="http://www.w3.org/TR/2013/WD-custom-elements-20131024/">Custom Elements</a>. This specification describes the method for enabling the author to define and use new types of DOM elements in a document. Comments are welcome through 21 November. Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3343#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3343/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Virtuous Code</title>
+	<atom:link href="http://devblog.avdi.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://devblog.avdi.org</link>
+	<description>&#34;The three virtues of a programmer: laziness, impatience, and hubris&#34; -- Larry Wall</description>
+	<lastBuildDate>Wed, 23 Oct 2013 13:49:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=</generator>
+		<item>
+		<title>RubyTapas Freebie &#8211; Gem-Love Part 3</title>
+		<link>http://devblog.avdi.org/2013/10/23/rubytapas-freebie-gem-love-part-3/</link>
+		<comments>http://devblog.avdi.org/2013/10/23/rubytapas-freebie-gem-love-part-3/#comments</comments>
+		<pubDate>Wed, 23 Oct 2013 13:41:06 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[RubyTapas Samples]]></category>
+		<category><![CDATA[Screencasts]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[http]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tdd]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[webmock]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7798</guid>
+		<description><![CDATA[Sometimes on RubyTapas I serialize larger projects into bite-sized pieces. In this episode, you can see a slice of the outside-in TDD process I use as I develop part of my gem-love project. You&#8217;ll see me thinking about messages before &#8230; <a href="http://devblog.avdi.org/2013/10/23/rubytapas-freebie-gem-love-part-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: left;">Sometimes on <a href="http://rubytapas.com">RubyTapas</a> I serialize larger projects into bite-sized pieces. In this episode, you can see a slice of the outside-in TDD process I use as I develop part of my gem-love project. You&#8217;ll see me thinking about messages before objects, a la <a href="http://www.amazon.com/gp/product/0321721330/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321721330&amp;linkCode=as2&amp;tag=thlafa-20">POODR</a>, and using <a href="https://github.com/bblimke/webmock">WebMock</a> to fake out a not-yet-existent server.</p>
+<p style="text-align: center;">
+<a href="http://fast.wistia.net/embed/iframe/8jb13nkybf?popover=true" class="wistia-popover[height=568,playerColor=707070,width=960]"><img alt="" src="http://embed.wistia.com/deliveries/e3b2802d6e24fdfb68ea15d3dee6ba854719b2e9.jpg?image_play_button=true&amp;image_play_button_color=707070e0&amp;image_crop_resized=460x259" /></a>
+</p>
+<p style="text-align: center;"><div class="boilerplate">
+Like what you see? This is just a taste of <a href="http://rubytapas.com/?utm_source=devblog&utm_medium=article&utm_campaign=sample">RubyTapas</a>! Sign up today to get two videos a week, along with full source code and transcripts.
+<div class="cta ">
+<p class="small"><a href="https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&amp;plan_term_id=17&utm_source=devblog&utm_medium=article&utm_campaign=sample">Subscribe Now!</a></p>
+</div>
+Or <a href="http://rubytapas.com">click here to learn more</a>.
+</div></p>
+<p style="text-align: center;">
+<script charset="ISO-8859-1" src="http://fast.wistia.com/assets/external/popover-v1.js" type="text/javascript"></script></p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/10/23/rubytapas-freebie-gem-love-part-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sorting Lines in 5 Languages</title>
+		<link>http://devblog.avdi.org/2013/10/16/sorting-lines-in-5-languages/</link>
+		<comments>http://devblog.avdi.org/2013/10/16/sorting-lines-in-5-languages/#comments</comments>
+		<pubDate>Wed, 16 Oct 2013 14:10:00 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[c++]]></category>
+		<category><![CDATA[Perl]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tcl]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7783</guid>
+		<description><![CDATA[Implementing a simple scripting task in various languages. <a href="http://devblog.avdi.org/2013/10/16/sorting-lines-in-5-languages/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p> Jussi Pakkanen writes that <a href="http://voices.canonical.com/jussi.pakkanen/2013/10/15/c-has-become-a-scripting-language/">C++ has become a scripting language</a>. As evidence, he presents the following 19-line program in idiomatic C++11 which reads lines from the first command-line argument, sorts the lines, and writes them to the second argument. </p>
+<div class="org-src-container">
+<pre class="src src-c++"><span class="org-preprocessor">#include</span><span class="org-string">&lt;string&gt;</span>
+<span class="org-preprocessor">#include</span><span class="org-string">&lt;vector&gt;</span>
+<span class="org-preprocessor">#include</span><span class="org-string">&lt;algorithm&gt;</span>
+<span class="org-preprocessor">#include</span><span class="org-string">&lt;fstream&gt;</span>
+
+<span class="org-keyword">using</span> <span class="org-keyword">namespace</span> <span class="org-constant">std</span>;
+
+<span class="org-type">int</span> <span class="org-function-name">main</span>(<span class="org-type">int</span> <span class="org-variable-name">argc</span>, <span class="org-type">char</span> **<span class="org-variable-name">argv</span>) {
+  <span class="org-type">ifstream</span> <span class="org-variable-name">ifile</span>(<span class="org-type">argv</span>[1]);
+  <span class="org-type">ofstream</span> <span class="org-variable-name">ofile</span>(<span class="org-type">argv</span>[2]);
+  <span class="org-type">string</span> <span class="org-variable-name">line</span>;
+  <span class="org-type">vector</span>&lt;<span class="org-type">string</span>&gt; <span class="org-variable-name">data</span>;
+  <span class="org-keyword">while</span>(getline(ifile, line)) {
+    data.push_back(line);
+  }
+  sort(data.begin(), data.end());
+  <span class="org-keyword">for</span>(<span class="org-keyword">const</span> <span class="org-keyword">auto</span> &amp;i : data) {
+    ofile &lt;&lt; i &lt;&lt; <span class="org-constant">std</span>::endl;
+  }
+  <span class="org-keyword">return</span> 0;
+}
+</pre>
+</p></div>
+<p> I&#8217;m an incorrigible fan of C++ from days of old; I still prefer it to straight C for most low-level systems programming tasks. And I have to admit that this is admirably concise for a C++ program. </p>
+<p> However, I thought it might be fun to see what this program looks like in other &#8220;scripting&#8221; languages. I used a file containing the following lines to test my implementations. </p>
+<pre class="example">
+D is for Durian
+B is for Breadfruit
+C is for Clementine
+A is for Apple
+</pre>
+<p> Starting with Ruby, since it&#8217;s what I spend most of my time in these days (this example has been updated with <a href="https://twitter.com/JoelVanderWerf/status/390625945872109569">feedback from Joel VanderWerf</a>): </p>
+<div class="org-src-container">
+<pre class="src src-ruby"><span class="org-type">File</span>.write(<span class="org-type">ARGV</span>.pop, <span class="org-type">ARGF</span>.sort.join)
+</pre>
+</p></div>
+<p> This example is notable for using <code>File.write</code>, introduced in either 1.9.3 or 2.0, I can&#8217;t remember. It also uses <code>ARGF</code> to refer to &#8220;the concatenation of all files supplied on the command line&#8221;. At the point this is evaluated, the output file has already been <code>pop</code>&#8216;ed off of the <code>ARGV</code> array. </p>
+<p> Next, a Perl version. </p>
+<div class="org-src-container">
+<pre class="src src-perl">open OUT, <span class="org-string">"&gt;"</span>, pop(@<span class="org-variable-name"><span class="org-underline">ARGV</span></span>);
+print OUT sort(&lt;&gt;);
+</pre>
+</p></div>
+<p> This being Perl, and my Perl being incredibly rusty, I&#8217;m sure it could be golfed down to a one-liner by a pro. In this code, the empty line-reading  operator (<code>&lt;&gt;</code>) serves the same purpose as <code>ARGF.each_line</code> above. </p>
+<p> Now, how about an example using the grandparent of all scripting languages, TCL. </p>
+<div class="org-src-container">
+<pre class="src src-tcl"><span class="org-builtin">set</span> <span class="org-variable-name">in</span>  [<span class="org-builtin">open</span> [<span class="org-builtin">lindex</span> $<span class="org-variable-name">argv</span> 0]]
+<span class="org-builtin">set</span> <span class="org-variable-name">out</span> [<span class="org-builtin">open</span> [<span class="org-builtin">lindex</span> $<span class="org-variable-name">argv</span> 1] w]
+<span class="org-keyword">while</span> {[<span class="org-builtin">gets</span> $<span class="org-variable-name">in</span> line] &gt; 0} {
+    <span class="org-builtin">lappend</span> lines $<span class="org-variable-name">line</span>
+}
+<span class="org-builtin">set</span> <span class="org-variable-name">lines</span> [<span class="org-builtin">lsort</span> $<span class="org-variable-name">lines</span>]
+<span class="org-keyword">foreach</span> line $<span class="org-variable-name">lines</span> {
+    <span class="org-builtin">puts</span> $<span class="org-variable-name">out</span> $<span class="org-variable-name">line</span>
+}
+</pre>
+</p></div>
+<p> As you can see, TCL does not put the same premium on succinctness as some of the later scripting languages. Still, 9 lines ain&#8217;t bad. </p>
+<p> Of course no comparison of scripting languages would be complete without an example in Bourne Shell: </p>
+<div class="org-src-container">
+<pre class="src src-sh">cat $<span class="org-variable-name">1</span> | sort &gt; $<span class="org-variable-name">2</span>
+</pre>
+</p></div>
+<p> EDIT: Stephen Ball points out that this is a superfluous use of <code>cat</code>. It should be: </p>
+<div class="org-src-container">
+<pre class="src src-sh">sort $<span class="org-variable-name">1</span> &gt; $<span class="org-variable-name">2</span>
+</pre>
+</p></div>
+<p> To sum up, the C++ version is twice as long as the longest of my scripting language implementations. So while C++11 has made advances, I don&#8217;t think I&#8217;ll be using it for everyday scripting tasks anytime soon. </p>
+<p> Thank you to <a href="http://voices.canonical.com/jussi.pakkanen/author/jpakkane/">Jussi Pakkanen</a> for giving me an excuse to dust off my Perl and TCL skills. Writing these was an entertaining diversion. </p>
+<p> UPDATE: Here are some more versions people have kindly contributed. </p>
+<p> A Go version, <a href="https://gist.github.com/llimllib/e55c0614d3859bc51d19">from Bill Mill</a>: </p>
+<div class="org-src-container">
+<pre class="src src-go"><span class="org-keyword">package</span> main
+
+<span class="org-keyword">import</span> ( <span class="org-string">"io/ioutil"</span>; <span class="org-string">"os"</span>; <span class="org-string">"strings"</span>; <span class="org-string">"sort"</span> )
+
+<span class="org-keyword">func</span> <span class="org-function-name">main</span>() {
+        content, _ := ioutil.<span class="org-function-name">ReadFile</span>(os.Args[1])
+        lines := strings.<span class="org-function-name">Split</span>(strings.<span class="org-function-name">TrimSpace</span>(<span class="org-function-name">string</span>(content)), <span class="org-string">"\n"</span>)
+        sort.<span class="org-function-name">Strings</span>(lines)
+        ioutil.<span class="org-function-name">WriteFile</span>(os.Args[2], []<span class="org-function-name">byte</span>(strings.<span class="org-function-name">Join</span>(lines, <span class="org-string">"\n"</span>)), 0666)
+}
+</pre>
+</p></div>
+<p> A Python version, <a href="https://gist.github.com/llimllib/0d0a0887df841b1b598b">also from Bill Mill</a>, and incorporating feedback from commenter Keith: </p>
+<div class="org-src-container">
+<pre class="src src-python"><span class="org-keyword">import</span> sys
+<span class="org-builtin">open</span>(sys.argv[2], <span class="org-string">'w'</span>).writelines(<span class="org-builtin">sorted</span>(<span class="org-builtin">open</span>(sys.argv[1])))
+</pre>
+</p></div>
+<p> Here it is in Elixir, <a href="https://gist.github.com/edmz/e850f0e1b66614487177">from Eduardo Krustofski</a>: </p>
+<div class="org-src-container">
+<pre class="src src-elixir">[input, output] = <span class="org-type">System</span>.argv
+<span class="org-type">File</span>.write!(output, <span class="org-type">File</span>.stream!(input) |&gt; <span class="org-type">Enum</span>.sort |&gt; <span class="org-type">Enum</span>.join(<span class="org-string">""</span>))
+</pre>
+</p></div>
+<p> And here&#8217;s Clojure, <a href="https://gist.github.com/locks/7009956">from Ricardo Mendes</a>: </p>
+<div class="org-src-container">
+<pre class="src src-clj">(<span class="org-keyword">-&gt;&gt;</span> (<span class="org-builtin">slurp</span> (<span class="org-builtin">nth</span> <span class="org-clj-builtin">*command-line-args*</span> 1))
+     clojure.string/split-lines
+     sort
+     (clojure.string/<span class="org-type">join</span> <span class="org-string">"\n"</span>)
+     (<span class="org-builtin">spit</span> (<span class="org-builtin">nth</span> <span class="org-clj-builtin">*command-line-args*</span> 2)))
+</pre>
+</p></div>
+<p> A Rust version, <a href="https://gist.github.com/ajuckel/7018861">from ajuckel</a>: </p>
+<div class="org-src-container">
+<pre class="src src-rust">extern mod extra;
+use std::*;
+use extra::*;
+fn main() {
+    let reader = io::file_reader(&amp;Path(os::args()[1])).unwrap();
+    let writer = io::file_writer(&amp;Path(os::args()[2]), 
+                                 [io::Append, io::Create]).unwrap();
+    let mut lines = reader.read_lines();
+    sort::quick_sort3(lines);
+    for l in lines.iter() {
+        writer.write_line(*l)
+    }
+}
+</pre>
+</p></div>
+<p> Haskell, <a href="https://gist.github.com/MichaelXavier/7015022">from Michael Xavier</a>: </p>
+<div class="org-src-container">
+<pre class="src src-haskell"><span class="org-keyword">import</span> <span class="org-type">Data.List</span> (sort)
+<span class="org-keyword">import</span> <span class="org-type">System.Environment</span> (getArgs)
+
+<span class="org-function-name">main</span> <span class="org-variable-name">=</span> <span class="org-keyword">do</span> (inFile<span class="org-type">:</span>outFile<span class="org-type">:</span><span class="org-keyword">_</span>) <span class="org-variable-name">&lt;-</span> getArgs
+          writeFile outFile <span class="org-variable-name">.</span> unlines <span class="org-variable-name">.</span> sort <span class="org-variable-name">.</span> lines <span class="org-variable-name">=&lt;&lt;</span> readFile inFile
+</pre>
+</p></div>
+<p> Lua, <a href="https://gist.github.com/telemachus/7024577">from Peter Aronoff</a>: </p>
+<div class="org-src-container">
+<pre class="src src-lua">io.input(arg[1])
+io.open(arg[2], <span class="org-string">'w'</span>)
+io.output(arg[2])
+lines = {}
+<span class="org-keyword">for</span> line <span class="org-keyword">in</span> io.lines() <span class="org-keyword">do</span> lines[#lines+1] = line <span class="org-keyword">end</span>
+table.sort(lines)
+<span class="org-keyword">for</span> _, line <span class="org-keyword">in</span> ipairs(lines) <span class="org-keyword">do</span> io.write(line, <span class="org-string">"\n"</span>) <span class="org-keyword">end</span>
+</pre>
+</p></div>
+<p> PHP, <a href="https://gist.github.com/joonty/7022866">from joonty</a>: </p>
+<div class="org-src-container">
+<pre class="src src-php"><span class="org-preprocessor">&lt;?php</span>
+$<span class="org-variable-name">input</span> = <span class="org-default">file(</span><span class="org-string">"php://stdin"</span>);
+<span class="org-default">sort(</span>$<span class="org-variable-name">input</span>);
+<span class="org-default">file_put_contents(end(</span>$<span class="org-variable-name">argv</span>), <span class="org-default">join(</span>$<span class="org-variable-name">input</span>));
+</pre>
+</p></div>
+<p> Caius Durling contributed <a href="https://gist.github.com/caius/7023161">an AppleScript version</a>, but since AppleScript has no built-in sort function it&#8217;s a bit long to include inline. </p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/10/16/sorting-lines-in-5-languages/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>RubyTapas Freebie: Enumerator</title>
+		<link>http://devblog.avdi.org/2013/09/10/rubytapas-freebie-enumerator/</link>
+		<comments>http://devblog.avdi.org/2013/09/10/rubytapas-freebie-enumerator/#comments</comments>
+		<pubDate>Tue, 10 Sep 2013 15:43:39 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[RubyTapas Samples]]></category>
+		<category><![CDATA[Screencasts]]></category>
+		<category><![CDATA[enumeration]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7771</guid>
+		<description><![CDATA[It&#8217;s been a while since I posted a freebie. Today&#8217;s is episode 59. It covers one of the most interesting (to me) classes in the Ruby core libraries: Enumerator.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been a while since I posted a freebie. Today&#8217;s is episode 59. It covers one of the most interesting (to me) classes in the Ruby core libraries: Enumerator.</p>
+<a href="http://fast.wistia.net/embed/iframe/ex3xtyj1yl?popover=true" class="wistia-popover[height=540,playerColor=7b796a,width=960]"><img alt="" src="http://embed.wistia.com/deliveries/c72af71abea51ba3b0a29818f25ae23c4f6bf7e5.jpg?image_play_button=true&amp;image_play_button_color=7b796ae0&amp;image_crop_resized=460x259" /></a>
+<script charset="ISO-8859-1" src="http://fast.wistia.com/static/popover-v1.js" type="text/javascript"></script>
+<div class="boilerplate">
+Like what you see? This is just a taste of <a href="http://rubytapas.com/?utm_source=devblog&utm_medium=article&utm_campaign=sample">RubyTapas</a>! Sign up today to get two videos a week, along with full source code and transcripts.
+<div class="cta ">
+<p class="small"><a href="https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&amp;plan_term_id=17&utm_source=devblog&utm_medium=article&utm_campaign=sample">Subscribe Now!</a></p>
+</div>
+Or <a href="http://rubytapas.com">click here to learn more</a>.
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/09/10/rubytapas-freebie-enumerator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bounded Queue in Ruby</title>
+		<link>http://devblog.avdi.org/2013/09/04/bounded-queue-in-ruby/</link>
+		<comments>http://devblog.avdi.org/2013/09/04/bounded-queue-in-ruby/#comments</comments>
+		<pubDate>Wed, 04 Sep 2013 21:05:35 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[concurrent]]></category>
+		<category><![CDATA[multithreaded]]></category>
+		<category><![CDATA[threads]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7764</guid>
+		<description><![CDATA[I don&#8217;t post code on here nearly as often as I should. Here&#8217;s some code I just finished for a future RubyTapas episode. It implements a thread-safe, optionally bounded, timeout-enabled queue class suitable for communication between threads. Please throw rocks &#8230; <a href="http://devblog.avdi.org/2013/09/04/bounded-queue-in-ruby/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>I don&#8217;t post code on here nearly as often as I should. Here&#8217;s some code I just finished for a future RubyTapas episode. It implements a thread-safe, optionally bounded, timeout-enabled queue class suitable for communication between threads. Please throw rocks at it and tell me what I got wrong. It&#8217;s a Gist, so feel free to submit alternatives via forks.</p>
+<p>Thanks!</p>
+<script src="https://gist.github.com/6442810.js"></script><noscript><pre><code class="language-ruby ruby">require &quot;thread&quot;
+
+class BoundedQueue
+  def initialize(max_size = :infinite)
+    @lock  = Mutex.new
+    @items = []
+    @item_available = ConditionVariable.new
+    @max_size = max_size
+    @space_available = ConditionVariable.new
+  end
+
+  def push(obj, timeout=:never, &amp;timeout_policy)
+    timeout_policy ||= -&gt; do
+      raise &quot;Push timed out&quot;
+    end
+    wait_for_condition(
+      @space_available,
+      -&gt;{!full?},
+      timeout,
+      timeout_policy) do
+
+      @items.push(obj)
+      @item_available.signal
+    end
+  end
+
+  def pop(timeout = :never, &amp;timeout_policy)
+    timeout_policy ||= -&gt;{nil}
+    wait_for_condition(
+      @item_available,
+      -&gt;{@items.any?},
+      timeout,
+      timeout_policy) do 
+      
+      @items.shift 
+    end
+  end
+
+  private
+
+  def full?
+    return false if @max_size == :infinite
+    @max_size &lt;= @items.size
+  end
+
+  def wait_for_condition(
+      cv, condition_predicate, timeout=:never, timeout_policy=-&gt;{nil})
+    deadline = timeout == :never ? :never : Time.now + timeout
+    @lock.synchronize do
+      loop do
+        cv_timeout = timeout == :never ? nil : deadline - Time.now
+        if !condition_predicate.call &amp;&amp; cv_timeout.to_f &gt;= 0
+          cv.wait(@lock, cv_timeout) 
+        end
+        if condition_predicate.call
+          return yield
+        elsif deadline == :never || deadline &gt; Time.now
+          next
+        else
+          return timeout_policy.call
+        end
+      end
+    end
+  end
+end
+</code></pre></noscript>
+<p>EDIT: Eric Hodel has pointed out one issue already, via Twitter: I&#8217;d forgotten to signal @space_available after popping an item off of the queue!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/09/04/bounded-queue-in-ruby/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Complete &#8220;Making of Cowsays.com&#8221; video now available from Tekpub</title>
+		<link>http://devblog.avdi.org/2013/08/28/complete-making-of-cowsays-com-video-now-available-from-tekpub/</link>
+		<comments>http://devblog.avdi.org/2013/08/28/complete-making-of-cowsays-com-video-now-available-from-tekpub/#comments</comments>
+		<pubDate>Wed, 28 Aug 2013 13:00:08 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Rails]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7756</guid>
+		<description><![CDATA[A long while back I gave myself a challenge: I was going to code up and launch a web app in a weekend. And I was going to narrate and record the whole process for later release as a screencast &#8230; <a href="http://devblog.avdi.org/2013/08/28/complete-making-of-cowsays-com-video-now-available-from-tekpub/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>A long while back I gave myself a challenge: I was going to code up and launch a web app in a weekend. And I was going to narrate and record the whole process for later release as a screencast series.</p>
+<p>I did just that, and created <a href="http://www.cowsays.com">cowsays.com</a>. I later edited and released two parts of the recording, but I never found the time to release any more parts of the series. This left the people who bought those videos hanging, for which I feel bad.</p>
+<p>That was where things stood for a year or so. But now I&#8217;m happy to say that <a href="http://tekpub.com/">Tekpub</a> has taken my original footage edited it down, and <a href="http://tekpub.com/products/cowsays">released it as a one hour and twenty minute screencast</a>!</p>
+<p>They&#8217;ve done a stunning job on it too. The editing is tight and fast-paced; they&#8217;ve added explanatory text when I use a library or gem without explaining what it is; and they&#8217;ve added snazzy pan-and-zoom so you that the &#8220;camera&#8221; is always focused on what&#8217;s important. I was absolutely floored when I first saw the finished product. Here&#8217;s a preview:</p>
+<p><iframe width="400" height="300" src="//player.vimeo.com/video/72441258" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></p>
+<p>If you&#8217;ve ever wanted to watch &#8220;over my shoulder&#8221; as I think my way through an application, this is the video for you. I cover a ton of ground in this video, from basic REST API stuff to using less-common libraries like DataMapper and Erector. Here&#8217;s the list (from Tekpub&#8217;s site) of all the topics covered:</p>
+<ul>
+<li>Start with nothing but a failing integration test.</li>
+<li>Use IO.popen to call out to Perl from Ruby.</li>
+<li>Set up Guard to automate tests and Bundler updates.</li>
+<li>Use Hub and Magit to simplify working with Git and GitHub.</li>
+<li>TDD a simple Sinatra service using RSpec and rack-test.</li>
+<li>Create a Heroku app.</li>
+<li>Create a Rackup file and deploy to Heroku.</li>
+<li>Refactoring the Sinatra app from a “classic” app to a “modular” style app.</li>
+<li>Switching to Unit Tests as method logic increases in complexity.</li>
+<li>Migrate from a Sinatra app to a Rails app that mounts the Sinatra app as a service.</li>
+<li>Use Datamapper for persistence.</li>
+<li>Use Erector for object-oriented views.</li>
+<li>Use Coffeescript and jQuery to liven up the UI.</li>
+</ul>
+<p>If that sounds like something you&#8217;d be into, <a href="http://tekpub.com/products/cowsays">check it out on Tekpub</a>.</p>
+<p><strong>NOTE! If you already bought one or more of the &#8220;cowsays&#8221; videos from me</strong>: please check your inbox; you should have an email with a coupon code which will get you a steep discount.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/08/28/complete-making-of-cowsays-com-video-now-available-from-tekpub/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Confident Ruby is Finished!</title>
+		<link>http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/</link>
+		<comments>http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/#comments</comments>
+		<pubDate>Mon, 26 Aug 2013 13:00:09 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[books]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7722</guid>
+		<description><![CDATA[I am thrilled to announce that my book Confident Ruby is now finished. I even hit my target of releasing by September 1st&#8230; if by &#8220;September 1st&#8221; I had meant &#8220;of the following year&#8221;. So what is this book and why &#8230; <a href="http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://devblog.avdi.org/wp-content/uploads/2013/05/paperbackbookstanding.png"><img class=" wp-image-7625 alignright product" alt="Confident Ruby 3D" src="http://devblog.avdi.org/wp-content/uploads/2013/05/paperbackbookstanding.png" width="163" height="216" /></a>I am thrilled to announce that my book <em>Confident Ruby</em> is now finished. I even hit <a href="http://devblog.avdi.org/2012/06/05/confident-ruby-beta/">my target of releasing by September 1st</a>&#8230; if by &#8220;September 1st&#8221; I had meant &#8220;of the following year&#8221;.</p>
+<p>So what is this book and why should you buy it? <em>Confident Ruby</em> is, first and foremost, a book about joy. It&#8217;s about the joy I found when I first discovered how elegantly and succinctly I could state problems in Ruby code. It&#8217;s about the joy I gradually lost as the &#8220;real world&#8221; snuck in and gradually cluttered my code with distracting edge case scenarios, error handling, and checks for <code>nil</code>. And it&#8217;s about how I came to recapture that joy, by employing small patterns and stylistic choices to make each method tell a  coherent story.</p>
+<p>The structure of the book is that of a patterns catalog. But these are not the large, heavy-weight architectural patterns of a <em>Design Patterns</em> or a <em>Patterns of Enterprise Application Architecture</em>. These patterns are small, most of them taking place at the level of an individual method or even a single line of code. They are related by a single organizing principle: removing the uncertainty that leads to code that is riddled with conditionals, and constantly second-guesses itself; and replacing it with a confident, clear focus on the task at hand.</p>
+<p>In these pages you&#8217;ll find:</p>
+<ul>
+<li>32 patterns for writing confident code.</li>
+<li>How to avoid the &#8220;MacGyver method&#8221;&#8211;a step-by-step guide to thinking about methods in terms of the story they tell rather than the building blocks that happen to be lying around.</li>
+<li>The most comprehensive coverage anywhere of Ruby&#8217;s conversion methods and protocols. You&#8217;ll learn not just how to convert built-in objects from one to another, and when to use <code>#to_a</code> vs. <code>#to_ary</code> vs. <code>Array()</code>; but also how to adopt Ruby&#8217;s conversion conventions to make your own objects powerfully extensible.</li>
+<li>How to streamline your code and eliminate repetitive conditionals with the Special Case and Null Object patterns&#8230; and how to avoid the gotchas that can come with naive implementations of these patterns.</li>
+<li>Simple habits to eliminate the dreaded &#8220;NoMethodError for NilClass&#8221; exception.</li>
+<li>How to make your methods more flexible by passing in behavior instead of data.</li>
+<li>How to helpfully deliver results from your methods when the possible outcomes are more nuanced than &#8220;success&#8221; or &#8220;failure&#8221;.</li>
+<li>An applied demonstration of refactoring two Open-Source Ruby projects using patterns from the book.</li>
+<li>And much, much more&#8230; nearly 300 pages of material and hundreds of code listings.</li>
+</ul>
+<p>Want a taste of the book? <a href="http://devblog.avdi.org/wp-content/uploads/2013/08/confident-ruby-sample.pdf">Click here for a PDF sample, containing the introduction and three patterns</a>.</p>
+<p>Confident Ruby is is available in three different editions.</p>
+<div class="cta "><p class="medium"><a href="https://shiprise.dpdcart.com/cart/add?product_id=67241&amp;method_id=69387">Buy Confident Ruby Gold Label Edition ($55)</a></p></div>
+<p>The<strong> Gold Label edition </strong>comes with:</p>
+<ul>
+<li><strong>Confident Ruby</strong> in PDF, EPUB, and Kindle formats.</li>
+<li><a href="http://devblog.avdi.org/wp-content/uploads/2013/08/naught-boxshot.png"><img class="wp-image-7725 product alignright" alt="naught-boxshot" src="http://devblog.avdi.org/wp-content/uploads/2013/08/naught-boxshot.png" width="94" height="94" /></a>A <strong>30 minute Confident Ruby companion screencast</strong>, in which you can watch &#8220;over my shoulder&#8221; as I apply concepts and patterns from the book to the Discourse codebase.</li>
+<li><a href="http://devblog.avdi.org/2013/07/05/new-book-and-a-huge-birthday-sale/"><strong>Much Ado About Naught: An Adventure in Metaprogramming</strong></a>.  This ebook follows the step-by-step, test-driven development of the &#8220;Naught&#8221; gem for constructing Null Object classes. <a href="http://devblog.avdi.org/2013/07/05/new-book-and-a-huge-birthday-sale/"><strong style="line-height: 24px;"><img class="alignright product" style="line-height: 24px; font-weight: normal;" alt="Much Ado About Naught Cover" src="http://devblog.avdi.org/wp-content/uploads/2013/07/thinpaperback.png" width="74" height="94" /></strong></a>It covers most of the metaprogramming techniques, tricks, and gotchas I&#8217;ve picked up over the years, and comes complete with whimsical Paintbrush illustrations by Lauren Shepard! (aka my mom)</li>
+</ul>
+<div class="cta "><p class="medium"><a href="https://shiprise.dpdcart.com/cart/add?product_id=67243&amp;method_id=69389">Buy Confident Ruby Black Label Edition ($45)</a></p></div>
+<p>The <strong>Black Label edition</strong> comes with:</p>
+<ul>
+<li><strong>Confident Ruby</strong> in PDF, EPUB, and Kindle formats.</li>
+<li>The <strong>Confident Ruby companion screencast</strong>.</li>
+</ul>
+<div class="cta "><p class="medium"><a href="https://shiprise.dpdcart.com/cart/add?product_id=67244&amp;method_id=69390">Buy Confident Ruby Red Label Edition ($35)</a></p></div>
+<p>The <strong>Red Label edition</strong> comes with:</p>
+<ul>
+<li><strong>Confident Ruby</strong> in PDF, EPUB, and Kindle formats.</li>
+</ul>
+<p>Finally, as always if you don&#8217;t have the scratch for any of these editions, you can still <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=contact@shiprise.net&amp;su=Confident%20Ruby%20Postcard%20Offer">send me a postcard</a>!</p>
+<p>(Beta buyers: keep an eye on your inbox for a way to get the Gold Label extras at a special discount.)</p>
+<p>Oh yeah, one more thing. One of the things that held up the release of this book was that I wrote a completely new publishing toolchain called <a href="http://github.com/avdi/quarto">Quarto</a>. It&#8217;s still early days, but it already has a number of unique capabilities. It&#8217;s written in Ruby and is open source, so if you&#8217;re a Ruby programmer and interested in publishing ebooks, feel free to <a href="http://github.com/avdi/quarto">check it out</a> and start hacking on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+		<item>
+		<title>Steal my business model!</title>
+		<link>http://devblog.avdi.org/2013/08/07/steal-my-business-model/</link>
+		<comments>http://devblog.avdi.org/2013/08/07/steal-my-business-model/#comments</comments>
+		<pubDate>Wed, 07 Aug 2013 17:50:54 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Business]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7718</guid>
+		<description><![CDATA[Paid screencast subscriptions are not new, but RubyTapas was one of the first, if not the first, &#8220;pro&#8221; screencast series to specifically embrace a sub-five-minute format and a very fast (multiple times a week) release schedule. It was a bit &#8230; <a href="http://devblog.avdi.org/2013/08/07/steal-my-business-model/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Paid screencast subscriptions are not new, but RubyTapas was one of the first, if not the first, &#8220;pro&#8221; screencast series to specifically embrace a sub-five-minute format and a very fast (multiple times a week) release schedule. It was a bit of a risk, asking people to pay for such short videos. I  wasn&#8217;t sure how well it would go over.</p>
+<p>As it turns out, the format struck a chord with many, many viewers. I&#8217;ve heard from countless people how much they like watching a RubyTapas episode with their coffee in the morning, or while taking a short break from work. A lot of people find them easier to digest than longer-form videos. The fact I now make my living from RubyTapas is the ultimate testament to the success of this model.</p>
+<p>As RubyTapas has grown, I&#8217;ve noticed a trend of other nascent screencasters being inspired by it and and starting their own series of bite-sized, frequently released videos. I want to be very clear on how I feel about this:</p>
+<p><strong>I wholeheartedly support this trend!</strong> If I&#8217;ve inspired others to make frequent, focused, to-the-point technical screencasts, then that&#8217;s GREAT!  I think it&#8217;s a terrific model, and there&#8217;s room for many, many more screencasters demonstrating their own beloved tools &amp; technologies this way, whether for pay or gratis.</p>
+<p>Not only that, but <strong>I&#8217;m happy to help</strong>. I&#8217;ve <a href="http://devblog.avdi.org/2013/01/21/my-screencasting-process/">posted about my workflow</a> and <a href="https://github.com/avdi/Xcast">made my custom tools available</a>. I do my best to <a href="http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/">bring visibility to other programming screencasts</a> when I come across them.  But beyond all that, I also make a point of answering any questions people have about my tools, process, business model, or anything else related. If there&#8217;s something you want to know, <a href="http://devblog.avdi.org/contact/">just ask</a>!</p>
+<p>I do have one request, though: <strong>please come up with your own name! </strong>I&#8217;ve put a lot of time and energy into building and promoting the RubyTapas brand. When people think programming videos and &#8220;tapas&#8221;, if they have any association between those words at all then they think of me. RubyTapas is my first &#8220;Tapas&#8221; offering, but it is unlikely to be my last (and that&#8217;s all I&#8217;ll say about that for now). And yes, I will be pursuing trademark protection for it, which I suppose means I am now The Man.</p>
+<p>Be creative instead! BashBites, Haskel hors d&#8217;oevres, Clojure Carnitas&#8230; there are an endless number of delightful naming opportunities for short screencasts. In fact, if you&#8217;re stumped, email me and I&#8217;ll help you think up a name. I love naming things, it&#8217;s one of my favorite parts of programming!</p>
+<p>Anyway, that said the main point is still this: If you like RubyTapas and want to make something like it for another language or technology: jump on in, the water&#8217;s fine! And let me know how I can help.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/08/07/steal-my-business-model/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Study Notes: Conway&#8217;s Game of Life in Elixir</title>
+		<link>http://devblog.avdi.org/2013/07/10/study-notes-conways-game-of-life-in-elixer/</link>
+		<comments>http://devblog.avdi.org/2013/07/10/study-notes-conways-game-of-life-in-elixer/#comments</comments>
+		<pubDate>Wed, 10 Jul 2013 13:00:19 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Elixir]]></category>
+		<category><![CDATA[Study Notes]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7715</guid>
+		<description><![CDATA[This is a first take on Game of Life. It only exploits the most basic Elixir features like functions, lambdas, and pattern matching.]]></description>
+				<content:encoded><![CDATA[<p>This is a first take on Game of Life. It only exploits the most basic Elixir features like functions, lambdas, and pattern matching.</p>
+<script src="https://gist.github.com/5963465.js"></script><noscript><pre><code class="language-elixir elixir">defmodule Life do
+  def run(board) when is_binary(board) do
+    board |&gt; parse_board |&gt; run
+  end
+
+  def run(board) do
+    IO.write(&quot;\e[H\e[2J&quot;)
+    Life.print_board board    
+    :timer.sleep 1000
+    board = next_board(board)
+    run(board)
+  end
+
+  def parse_board(board) do
+    rows = Regex.scan(%r/^[.o]+$/m, board)
+    Enum.map rows, String.graphemes(&amp;1)
+  end
+
+  def print_board(board) do
+    Enum.each board, fn row -&gt;
+      IO.puts(Enum.join(row))
+    end
+  end
+
+  def next_board(board) do
+    Enum.map board, fn row, y -&gt;
+      Enum.map row, fn _, x -&gt;
+        next_state(board, x, y)
+      end
+    end
+  end
+
+  def next_state(board, x, y) do
+    cell = cell_at(board, x, y)
+    live_count = live_neighbors(board, x, y)
+    next_state(cell, live_count)
+  end
+
+  def next_state(&quot;o&quot;, live_count) when live_count in 2..3, do: &quot;o&quot;
+
+  def next_state(&quot;o&quot;, _), do: &quot;.&quot;
+
+  def next_state(&quot;.&quot;, live_count) when live_count === 3, do: &quot;o&quot;
+
+  def next_state(&quot;.&quot;, _) do: &quot;.&quot;
+
+  def cell_at(_, x, y) when (x &lt; 0 or y &lt; 0), do:  &quot;.&quot;
+
+  def cell_at(board, x, y) do
+    case Enum.at(board, y) do
+      nil -&gt; &quot;.&quot;
+      row -&gt; Enum.at(row, x, &quot;.&quot;)
+    end
+  end
+
+  def live_neighbors(board, x, y) do
+    Enum.count(neighbors(board, x, y), &amp;1 === &quot;o&quot;)
+  end
+
+  def neighbors(board, x, y) do
+    coords = neighbor_coords(x, y)
+    Enum.map coords, fn [x,y] -&gt; cell_at(board, x,y) end
+  end
+
+  def neighbor_coords(x, y) do
+    [[x-1, y-1], [x, y-1], [x+1, y-1],
+     [x-1, y],             [x+1, y],
+     [x-1, y+1], [x, y+1], [x+1, y+1]]
+  end
+end
+
+board = &quot;&quot;&quot;
+.o......
+..o.....
+ooo.....
+........
+........
+........
+........
+........
+&quot;&quot;&quot;
+Life.run(board)
+</code></pre></noscript>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/07/10/study-notes-conways-game-of-life-in-elixer/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Fixing a doc bug in Ruby</title>
+		<link>http://devblog.avdi.org/2013/07/07/fixing-a-doc-bug-in-ruby/</link>
+		<comments>http://devblog.avdi.org/2013/07/07/fixing-a-doc-bug-in-ruby/#comments</comments>
+		<pubDate>Sun, 07 Jul 2013 17:24:15 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Howto]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Screencasts]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7710</guid>
+		<description><![CDATA[I recently had reason to submit a one-character documentation fix to Ruby. I know submitting a patch to a high-profile project can feel intimidating, so I recorded the process to show just how straightforward it is. http://www.youtube.com/watch?v=0UkZVN7EL1k]]></description>
+				<content:encoded><![CDATA[<p>I recently had reason to submit a one-character documentation fix to Ruby. I know submitting a patch to a high-profile project can feel intimidating, so I recorded the process to show just how straightforward it is.</p>
+<p><a href="http://www.youtube.com/watch?v=0UkZVN7EL1k">http://www.youtube.com/watch?v=0UkZVN7EL1k</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/07/07/fixing-a-doc-bug-in-ruby/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Installing Elixir on Ubuntu 13.04</title>
+		<link>http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/</link>
+		<comments>http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/#comments</comments>
+		<pubDate>Fri, 05 Jul 2013 22:58:34 +0000</pubDate>
+		<dc:creator>Avdi Grimm</dc:creator>
+				<category><![CDATA[Elixir]]></category>
+		<category><![CDATA[Howto]]></category>
+		<category><![CDATA[elixir]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">http://devblog.avdi.org/?p=7708</guid>
+		<description><![CDATA[I just installed Elixir and there were one or two non-obvious points. Elixir requires Erlang OTP 16, and the Ubuntu package repos contain release 15. So the Ubuntu Erlang packages won&#8217;t cut it. Instead, install Erlang from the Erlang Solutions &#8230; <a href="http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>I just installed Elixir and there were one or two non-obvious points.</p>
+<p>Elixir requires Erlang OTP 16, and the Ubuntu package repos contain release 15. So the Ubuntu Erlang packages won&#8217;t cut it.</p>
+<p>Instead, install Erlang from the Erlang Solutions repository. Add this to your /etc/apt/sources.list (GUI: from the Ubuntu Software Center: Edit-&gt;Software Sources-&gt;Other Software-&gt;Add&#8230;).</p>
+<p><code><br />
+deb http://binaries.erlang-solutions.com/debian raring contrib<br />
+</code></p>
+<p>The <a href="https://www.erlang-solutions.com/downloads/download-erlang-otp">Erlang Solutions page only lists</a> sources up to &#8220;quantal&#8221;, but I tried &#8220;raring&#8221; and it works fine.</p>
+<p>Also add the relevant public key:</p>
+<p><code><br />
+wget -O - http://binaries.erlang-solutions.com/debian/erlang_solutions.asc \<br />
+| sudo apt-key add -<br />
+</code></p>
+<p>(That&#8217;s copied directly from the Erlang Solutions site)</p>
+<p>Then update and install. Be sure to install <code>esl-erlang</code> rather than the <code>erlang</code> package provided by Ubuntu.</p>
+<p><code><br />
+sudo apt-get update<br />
+sudo apt-get install esl-erlang<br />
+</code></p>
+<p>After that you can just follow the <a href="http://elixir-lang.org/getting_started/1.html">instructions for compiling</a> on the Elixir home page.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.577 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-11-09 19:00:48 -->
+
+<!-- Compression = gzip -->

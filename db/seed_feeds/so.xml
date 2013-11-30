@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">Recent Questions - Stack Overflow</title>
+    <link rel="self" href="http://stackoverflow.com/feeds" type="application/atom+xml" />
+    <link rel="alternate" href="http://stackoverflow.com/questions" type="text/html" />
+    <subtitle>most recent 30 from stackoverflow.com</subtitle>
+    <updated>2013-11-10T01:38:33Z</updated>
+    <id>http://stackoverflow.com/feeds</id>
+    <creativeCommons:license>http://www.creativecommons.org/licenses/by-sa/3.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>http://stackoverflow.com/q/19885293</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Android 4.3 Eclipse Android Device Chooser states version unknown</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="android"/><category scheme="http://stackoverflow.com/feeds/tags" term="eclipse"/><category scheme="http://stackoverflow.com/feeds/tags" term="adt"/><category scheme="http://stackoverflow.com/feeds/tags" term="android-device-chooser"/>
+        <author>
+            <name>PearsonArtPhoto</name>
+            <uri>http://stackoverflow.com/users/544198</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885293/android-4-3-eclipse-android-device-chooser-states-version-unknown" />
+        <published>2013-11-10T01:38:09Z</published>
+        <updated>2013-11-10T01:38:09Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I recently upgraded my Samsung Galaxy Nexus via an OTA update to 4.3. After doing the update, I am unable to install new debug software, because the &quot;Target&quot; is set to UNKNOWN. I have tried the following tricks that have been shown to work:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Reboot phone&lt;/li&gt;
+&lt;li&gt;Turn on/off debugging on phone&lt;/li&gt;
+&lt;li&gt;Restart Eclipse&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I never had this problem when I was with 4.2, so I suspect is has something to do with the upgrade, but I&#39;m not sure. Any thoughts?&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885292</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Given an XML representation of a graph how to apply it DFS algorithm?</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="java"/><category scheme="http://stackoverflow.com/feeds/tags" term="xml"/><category scheme="http://stackoverflow.com/feeds/tags" term="algorithm"/><category scheme="http://stackoverflow.com/feeds/tags" term="graph"/>
+        <author>
+            <name>winston smith</name>
+            <uri>http://stackoverflow.com/users/2863581</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885292/given-an-xml-representation-of-a-graph-how-to-apply-it-dfs-algorithm" />
+        <published>2013-11-10T01:37:38Z</published>
+        <updated>2013-11-10T01:37:38Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Given the followin XML which is a directed graph:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;iso-8859-1&quot; ?&amp;gt;
+&amp;lt;!DOCTYPE graph PUBLIC &quot;-//FC//DTD red//EN&quot; &quot;../dtd/graph.dtd&quot;&amp;gt;
+
+&amp;lt;graph direct=&quot;1&quot;&amp;gt;
+
+    &amp;lt;vertex label=&quot;V0&quot;/&amp;gt;
+    &amp;lt;vertex label=&quot;V1&quot;/&amp;gt;
+    &amp;lt;vertex label=&quot;V2&quot;/&amp;gt;
+    &amp;lt;vertex label=&quot;V3&quot;/&amp;gt;
+    &amp;lt;vertex label=&quot;V4&quot;/&amp;gt;
+    &amp;lt;vertex label=&quot;V5&quot;/&amp;gt;
+
+    &amp;lt;edge source=&quot;V0&quot; target=&quot;V1&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V0&quot; target=&quot;V4&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V5&quot; target=&quot;V2&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V5&quot; target=&quot;V4&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V1&quot; target=&quot;V2&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V1&quot; target=&quot;V3&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V1&quot; target=&quot;V4&quot; weight=&quot;1&quot;/&amp;gt;
+    &amp;lt;edge source=&quot;V2&quot; target=&quot;V3&quot; weight=&quot;1&quot;/&amp;gt;
+
+&amp;lt;/graph&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With this classes i parsed the graph and give it an adjacency list representation:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import java.io.IOException;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import practica3.util.Disc;
+
+public class ParsingXML {
+
+    public static void main(String[] args) {
+        try {
+            // TODO code application logic here
+            Collection&amp;lt;Vertex&amp;gt; sources = new HashSet&amp;lt;Vertex&amp;gt;();
+            LinkedList&amp;lt;String&amp;gt; lines = Disc.readFile(&quot;xml/directed.xml&quot;);
+
+            for (String lin : lines) {
+                int i = Disc.find(lin, &quot;source=\&quot;&quot;);
+                String data = &quot;&quot;;
+
+                if (i &amp;gt; 0 &amp;amp;&amp;amp; i &amp;lt; lin.length()) {
+                    while (lin.charAt(i + 1) != &#39;&quot;&#39;) {
+                        data += lin.charAt(i + 1);
+                        i++;
+                    }
+                    Vertex v = new Vertex();
+                    v.setName(data);
+                    v.setAdy(new HashSet&amp;lt;Vertex&amp;gt;());
+                    sources.add(v);
+
+                }
+
+            }
+
+
+
+            Iterator it = sources.iterator();
+
+            while (it.hasNext()) {
+                Vertex ver = (Vertex) it.next();
+                Collection&amp;lt;Vertex&amp;gt; adyacencias = ver.getAdy();
+                LinkedList&amp;lt;String&amp;gt; ls = Disc.readFile(&quot;xml/graphs.xml&quot;);
+
+
+                for (String lin : ls) {
+                    int i = Disc.find(lin, &quot;target=\&quot;&quot;);
+                    String data = &quot;&quot;;
+
+                    if (lin.contains(&quot;source=\&quot;&quot;+ver.getName())) {
+                        Vertex v = new Vertex();
+                        if (i &amp;gt; 0 &amp;amp;&amp;amp; i &amp;lt; lin.length()) {
+                            while (lin.charAt(i + 1) != &#39;&quot;&#39;) {
+                                data += lin.charAt(i + 1);
+                                i++;
+                            }
+                            v.setName(data);
+                        }
+
+                        i = Disc.find(lin, &quot;weight=\&quot;&quot;);
+                        data = &quot;&quot;;
+
+                        if (i &amp;gt; 0 &amp;amp;&amp;amp; i &amp;lt; lin.length()) {
+                            while (lin.charAt(i + 1) != &#39;&quot;&#39;) {
+                                data += lin.charAt(i + 1);
+                                i++;
+                            }
+                            v.setWeight(Integer.parseInt(data));
+                        }
+                        if (v.getName() != null) {
+                            adyacencias.add(v);
+                        }
+                    }
+                }
+            }
+
+
+            for (Vertex vert : sources) {
+                System.out.println(vert);
+                System.out.println(&quot;adyacencias: &quot; + vert.getAdy());
+            }
+
+        } catch (IOException ex) {
+            Logger.getLogger(ParsingXML.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is another class:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import java.util.Collection;
+import java.util.Objects;
+
+public class Vertex {
+
+    private String name;
+    private int weight;
+    private Collection ady;
+
+    public Collection getAdy() {
+        return ady;
+    }
+
+    public void setAdy(Collection adyacencias) {
+        this.ady = adyacencias;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String nombre) {
+        this.name = nombre;
+    }
+
+    public int getWeight() {
+        return weight;
+    }
+
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 43 * hash + Objects.hashCode(this.name);
+        hash = 43 * hash + this.weight;
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Vertex other = (Vertex) obj;
+        if (!Objects.equals(this.name, other.name)) {
+            return false;
+        }
+        if (this.weight != other.weight) {
+            return false;
+        }
+        return true;
+    }
+
+    @Override
+    public String toString() {
+        return &quot;Vertice{&quot; + &quot;name=&quot; + name + &quot;, weight=&quot; + weight + &#39;}&#39;;
+    }
+
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And finally:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/**
+ *
+ * @author user
+ */
+
+/* -*-jde-*- */
+/* &amp;lt;Disc.java&amp;gt; Contains the main argument*/
+
+import java.io.*;
+import java.util.LinkedList;
+
+
+/**
+ * Lectura y escritura de archivos en listas de cadenas
+ * Ideal para el uso de las clases para gr&#225;ficas.
+ *
+ * @author Peralta Santa Anna Victor Miguel
+ * @since  Julio 2011
+ */
+public class Disc {
+
+    /**
+     * Metodo para lectura de un archivo
+     *
+     * @param fileName archivo que se va a leer
+     * @return El archivo en representacion de lista de cadenas
+     */
+    public static LinkedList&amp;lt;String&amp;gt; readFile(String fileName) throws IOException {
+
+        BufferedReader file = new BufferedReader(new FileReader(fileName));
+        LinkedList&amp;lt;String&amp;gt; textlist = new LinkedList&amp;lt;String&amp;gt;();
+
+        while (file.ready()) {
+            textlist.add(file.readLine().trim());
+        }
+
+        file.close();
+                /*
+                for(String linea:textlist){
+                    if(linea.contains(&quot;source&quot;)){
+                        //String generado = linea.replaceAll(&quot;&amp;lt;\\w+\\s+\&quot;&quot;, &quot;&quot;);                        
+                        //System.out.println(generado);
+                    }
+                }*/
+        return textlist;
+
+    }//readFile
+
+
+        public static int find(String linea,String palabra){            
+            int i,j;
+            boolean found = false;
+            for(i=0,j=0;i&amp;lt;linea.length();i++){                
+                if(linea.charAt(i)==palabra.charAt(j)){
+                    j++;
+                    if(j==palabra.length()){
+                        found = true;                        
+                        return i;                      
+                    }
+                }else{
+                    continue;
+                }                
+            }
+            if(!found){
+                i= -1;
+            }
+
+            return i;                        
+        }
+
+    /**
+     * Metodo para la escritura de un archivo
+     *
+     * @param fileName archivo que se va a escribir
+     * @param tofile la lista de cadenas que quedaran en el archivo
+     * @param append el bit que dira si se anexa el contenido o se empieza de cero
+     */
+    public static void writeFile(String fileName, LinkedList&amp;lt;String&amp;gt; tofile, boolean append) throws IOException {
+
+        FileWriter file = new FileWriter(fileName, append);
+
+        for (int i = 0; i &amp;lt; tofile.size(); i++) {
+            file.write(tofile.get(i) + &quot;\n&quot;);
+        }
+
+        file.close();
+    }//writeFile
+
+    /**
+     * Metodo para escritura de un archivo
+     * @param msg archivo que se va a escribir
+     * @param tofile la cadena que quedaran en el archivo
+     * @param append el bit que dira si se anexa el contenido o se empieza de cero
+     */
+    public static void writeFile(String msg, String tofile, boolean append) throws IOException {
+        FileWriter file = new FileWriter(msg, append);
+        file.write(tofile);
+        file.close();
+    }//writeFile
+
+}// 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I&#39;m stuck on what can be the best way to given an adjacency list representation apply it DFS algorithm. Any idea of how to aproach it.&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885290</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Code First Departing from Convention</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="entity-framework"/><category scheme="http://stackoverflow.com/feeds/tags" term="ef-code-first"/>
+        <author>
+            <name>onefootswill</name>
+            <uri>http://stackoverflow.com/users/540156</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885290/code-first-departing-from-convention" />
+        <published>2013-11-10T01:37:35Z</published>
+        <updated>2013-11-10T01:37:35Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I&#39;m running into some problems departing from convention using Entity Framework 6, Code First Fluent API.&lt;/p&gt;
+
+&lt;p&gt;A classic example is that I have an entity called Software. I don&#39;t want the db table to be called Softwares. It should be called Software. But there are a few other departures as well.&lt;/p&gt;
+
+&lt;p&gt;The problem is, 2 columns are being created for a foreign key where only 1 should be. For example, in my domain, the is a 1:m relationship between SoftwareFiles and Software. (The logic being that there may be more than 1 file relevent to a piece of software e.g. Windows XP would have more than 1 ISO associated with it, due to the service packs).&lt;/p&gt;
+
+&lt;p&gt;The files:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public class Software
+{
+    public string Description { get; set; }
+    public int Id { get; set; }
+    public SoftwareType Type { get; set; }
+    public int TypeId { get; set; }
+
+    public virtual ICollection&amp;lt;SoftwareFile&amp;gt; SoftwareFiles { get; set; }
+}
+
+public class SoftwareFile
+{
+    public int Id { get; set; }
+    public string FileName { get; set; }
+    public FileTypes FileType { get; set; }
+    public string Name { get; set; }
+    public Software Software { get; set; }
+    public int SoftwareId { get; set; }
+}
+
+    protected override void OnModelCreating(DbModelBuilder modelBuilder)
+    {
+        //  Set up the SoftwareFile table
+        modelBuilder.Entity&amp;lt;SoftwareFile&amp;gt;().Property(s =&amp;gt; s.FileName).HasMaxLength(250).IsRequired().IsVariableLength();
+        modelBuilder.Entity&amp;lt;SoftwareFile&amp;gt;().Property(s =&amp;gt; s.FileType).IsRequired();
+        modelBuilder.Entity&amp;lt;SoftwareFile&amp;gt;().HasRequired(s =&amp;gt; s.Software).WithMany().HasForeignKey(s =&amp;gt; s.SoftwareId);
+
+        modelBuilder.Entity&amp;lt;Software&amp;gt;().ToTable(&quot;Software&quot;);
+        modelBuilder.Entity&amp;lt;Software&amp;gt;().Property(s =&amp;gt; s.Description).HasMaxLength(250).IsOptional().IsVariableLength();
+        modelBuilder.Entity&amp;lt;Software&amp;gt;().HasRequired(s =&amp;gt; s.Type).WithMany().HasForeignKey(t =&amp;gt; t.TypeId);
+
+
+        base.OnModelCreating(modelBuilder);
+    }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That is creating both a &lt;strong&gt;SoftwareId&lt;/strong&gt; column and a &lt;strong&gt;Software_Id&lt;/strong&gt; column in the sdf database. &lt;/p&gt;
+
+&lt;p&gt;Does anyone know how I can depart from convention in this way?&lt;/p&gt;
+
+&lt;p&gt;Cheers&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885288</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">PHP Warning: ssh2_scp_send(): Failed copying file</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="php"/><category scheme="http://stackoverflow.com/feeds/tags" term="linux"/>
+        <author>
+            <name>user1717735</name>
+            <uri>http://stackoverflow.com/users/1717735</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885288/php-warning-ssh2-scp-send-failed-copying-file" />
+        <published>2013-11-10T01:37:19Z</published>
+        <updated>2013-11-10T01:37:19Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;When trying to transfer some file (≈ 190mb) with ssh2_scp_send, I sometimes get  :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;PHP Warning:  ssh2_scp_send(): Failed copying file
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and my file is partially transferred (≈ 150mb).&lt;/p&gt;
+
+&lt;p&gt;Here&#39;s how I proceed : 
+I open a connection, transfer some files, then close the connection.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# open connection
+$connection = ssh2_connect(my_address, 22, array(&#39;hostkey&#39;=&amp;gt;&#39;ssh-rsa&#39;));       
+ssh2_auth_pubkey_file($connection, &#39;target_name&#39;, &#39;/home/local_name/.ssh/id_rsa.pub&#39;, &#39;/home/local_name/.ssh/id_rsa&#39;);
+
+# transfer some files
+ssh2_scp_send($connection, &#39;/home/local_name/local_path/myfile&#39;, &#39;/home/target_name/dest_path/myfile);
+
+… transfer 2
+… transfer 3
+… transfer n
+
+# close the connection 
+ssh2_exec($connection, &#39;exit&#39;);
+unset($connection);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The file which fails to transfer isn&#39;t the first one to be transferred (there&#39;re some small files which are transferred first (≈ 300kb). And I noticed that the transfer succeed if I don&#39;t transfer anything else before. &lt;/p&gt;
+
+&lt;p&gt;Thus, do I have to close the connection and reopen it after each transfer ? Yet, that seems really less efficient to me… &lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885277</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">GDI double buffering strangely slow</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c"/><category scheme="http://stackoverflow.com/feeds/tags" term="winapi"/><category scheme="http://stackoverflow.com/feeds/tags" term="gdi"/>
+        <author>
+            <name>David Given</name>
+            <uri>http://stackoverflow.com/users/404568</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885277/gdi-double-buffering-strangely-slow" />
+        <published>2013-11-10T01:34:30Z</published>
+        <updated>2013-11-10T01:34:30Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;So I have an old-fashioned GDI app written in C. It redraws by rendering directly onto the screen, touching each pixel exactly once. Everything works fine.&lt;/p&gt;
+
+&lt;p&gt;I now need to upgrade it to use a more complex rendering system, where I can&#39;t guarantee that each pixel is touched once --- the rendering algorithm requires a black background. If I render directly onto the screen, however, I get flicker. So I need to double buffer.&lt;/p&gt;
+
+&lt;p&gt;My problem is that after adding double buffering, it&#39;s painfully slow, and I don&#39;t understand why.&lt;/p&gt;
+
+&lt;p&gt;In WM_SIZE, I create an off-screen surface:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;case WM_SIZE:
+{
+    RECT rect;
+    GetClientRect(window, &amp;amp;rect);
+
+    HDC dc = GetDC(window);
+    /* omitting freeing cachedc and cachebitmap for brevity */
+    cachedc = CreateCompatibleDC(dc);
+    cachebitmap = CreateCompatibleBitmap(dc, rect.right, rect.bottom);
+    ReleaseDC(window, dc);
+    break;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(Note that the call to &lt;code&gt;CreateCompatibleBitmap()&lt;/code&gt; uses &lt;code&gt;dc&lt;/code&gt; not &lt;code&gt;cachedc&lt;/code&gt;. I know about that gotcha.)&lt;/p&gt;
+
+&lt;p&gt;Then in WM_PAINT I do the draw:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;case WM_ERASEBKGND:
+    return 1;
+
+case WM_PAINT:
+{
+    PAINTSTRUCT ps;
+    BeginPaint(window, &amp;amp;ps);
+
+    FillRect(cachedc, &amp;amp;ps.rcPaint, GetStockObject(BLACK_BRUSH));
+    paint_cb(window, &amp;amp;ps, cachedc);
+
+    BitBlt(ps.hdc,
+        ps.rcPaint.left, ps.rcPaint.top,
+        ps.rcPaint.right, ps.rcPaint.bottom,
+        cachedc,
+        ps.rcPaint.left, ps.rcPaint.top,
+        SRCCOPY);
+
+    EndPaint(window, &amp;amp;ps);
+    break;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&#39;s the slow code. If, however, I change WM_PAINT to do this, then it runs quickly (although with flicker):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;case WM_PAINT:
+{
+    PAINTSTRUCT ps;
+    BeginPaint(window, &amp;amp;ps);
+
+    FillRect(ps.hdc, &amp;amp;ps.rcPaint, GetStockObject(BLACK_BRUSH));
+    paint_cb(window, &amp;amp;ps, ps.hdc);
+
+    EndPaint(window, &amp;amp;ps);
+    break;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;paint_cb()&lt;/code&gt; is too complex to reproduce here, but it works by blitting lots of little bitmaps onto the surface (it&#39;s rendering text, and each bitmap is a cached glyph). The bitmaps are created on demand and then cached; they get discarded in WM_SIZE. The bitmaps are created using &lt;code&gt;CreateCompatibleDC()&lt;/code&gt; and &lt;code&gt;CreateCompatibleBitmap()&lt;/code&gt; exactly as above. &lt;/p&gt;
+
+&lt;p&gt;As far as I know the code above is completely vanilla. This means that there must be some sort of assumption I&#39;m making that&#39;s not valid. My reasoning goes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;rendering via the off-screen bitmap is slow, therefore there must be some sort of format conversion going on during the rendering process.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;rendering directly is fast, therefore there isn&#39;t.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;therefore there must be something &lt;code&gt;paint_cb()&lt;/code&gt; is doing differently depending on whether it&#39;s getting a DC to the screen or to the off-screen bitmap.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;except there isn&#39;t. &lt;code&gt;paint_cb()&lt;/code&gt; neither knows nor cares.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;???&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What am I missing here? What should I be looking for? Somehow, something I&#39;m doing in the code above is causing &lt;code&gt;paint_cb()&lt;/code&gt; to slow down by about two orders of magnitude. Any suggestions as to what this might be?&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885271</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Rails 4 Dynamic Subdomains</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="ruby-on-rails"/><category scheme="http://stackoverflow.com/feeds/tags" term="ruby-on-rails-4"/><category scheme="http://stackoverflow.com/feeds/tags" term="subdomains"/>
+        <author>
+            <name>Blake Geist</name>
+            <uri>http://stackoverflow.com/users/1539727</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885271/rails-4-dynamic-subdomains" />
+        <published>2013-11-10T01:33:20Z</published>
+        <updated>2013-11-10T01:35:34Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Hi I am following the tutorial at &lt;a href=&quot;http://railscasts.com/episodes/221-subdomains-in-rails-3&quot; rel=&quot;nofollow&quot;&gt;http://railscasts.com/episodes/221-subdomains-in-rails-3&lt;/a&gt; and trying to make it work for rails 4. The problem I encountered is in the my controller and with the find_by_subdomain! tag, I have read that most of the the find_by methods where taken out of rails 4, and was wondering what the work around was.&lt;/p&gt;
+
+&lt;p&gt;my controller currently looks like &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def set_city
+  @city = City.friendly.find_by_subdomain!(request.subdomain)
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the error I am getting is  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;undefined method `find_by_subdomain!&#39; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Also in case it helps my routes currently look like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  get &#39;/&#39; =&amp;gt; &#39;cities#show&#39;, :constraints =&amp;gt; { :subdomain =&amp;gt; /.+/ }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Any help would by greatly appreciated and I would be happy to clarify if needed. &lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885270</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">sort a list without using .sort()</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="python"/><category scheme="http://stackoverflow.com/feeds/tags" term="sorting"/><category scheme="http://stackoverflow.com/feeds/tags" term="for-loop"/>
+        <author>
+            <name>user2829177</name>
+            <uri>http://stackoverflow.com/users/2829177</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885270/sort-a-list-without-using-sort" />
+        <published>2013-11-10T01:33:11Z</published>
+        <updated>2013-11-10T01:34:28Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I&#39;m trying to find a way to sort a list with looping correctly.&lt;/p&gt;
+
+&lt;p&gt;I have this so far:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def min_sorted(xs):
+    Min= xs[0]
+    minsorted= list()
+    for x in xs:
+        if x &amp;lt; (Min):
+            Min= x
+            minsorted.append(Min)
+            remove_val_once(x,xs)
+    return minsorted
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When i test it using &lt;code&gt;xs=[5,3,4,2,1]&lt;/code&gt; this is what comes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; min_sorted([5,3,4,2,1])
+[3, 2, 1]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;What is happening to the 5 and 4&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885257</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">How to determine if JSON array is set and output it if yes</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="php"/><category scheme="http://stackoverflow.com/feeds/tags" term="arrays"/><category scheme="http://stackoverflow.com/feeds/tags" term="json"/>
+        <author>
+            <name>Metro1337</name>
+            <uri>http://stackoverflow.com/users/2479041</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885257/how-to-determine-if-json-array-is-set-and-output-it-if-yes" />
+        <published>2013-11-10T01:31:15Z</published>
+        <updated>2013-11-10T01:36:32Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;So, I have following JSON I get with var_dump():&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;array(36) {
+[0]=&amp;gt; string(4) &quot;null&quot; 
+[1]=&amp;gt; string(56) &quot;{&quot;article&quot;:&quot;Bread&quot;,&quot;==&quot;:&quot;String&quot;}&quot; 
+[2]=&amp;gt; string(68) &quot;{&quot;article&quot;:&quot;Beef&quot;,&quot;amount&quot;:3,&quot;==&quot;:&quot;String&quot;}&quot; 
+[3]=&amp;gt; string(4) &quot;null&quot; 
+[4]=&amp;gt; string(52) &quot;{&quot;article&quot;:&quot;Water&quot;,&quot;==&quot;:&quot;String&quot;}&quot; 
+[5]=&amp;gt; string(4) &quot;null&quot; 
+[6]=&amp;gt; string(4) &quot;null&quot; 
+[7]=&amp;gt; string(4) &quot;null&quot;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now I would like to check wether 0,1,2... is set or not, then output the &quot;article&quot; and the amount if any is set.&lt;/p&gt;
+
+&lt;p&gt;What would be the most optimized way to do that? Ugly 7 if&#39;s wouldn&#39;t be it, or?&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885242</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">GetGeopositionAsync hanging in windows phone 8 when used in ViewModel</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c#"/><category scheme="http://stackoverflow.com/feeds/tags" term="mvvm"/><category scheme="http://stackoverflow.com/feeds/tags" term="windows-phone-8"/><category scheme="http://stackoverflow.com/feeds/tags" term="geolocation"/>
+        <author>
+            <name>Thierry</name>
+            <uri>http://stackoverflow.com/users/815847</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885242/getgeopositionasync-hanging-in-windows-phone-8-when-used-in-viewmodel" />
+        <published>2013-11-10T01:27:52Z</published>
+        <updated>2013-11-10T01:36:26Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Can someone please put me in the right direction here, as I&#39;m totally confused as to why when I call GetGeopositionAsync from my ViewModel, it hangs but when called from my view it works ok?&lt;/p&gt;
+
+&lt;p&gt;Here is the code that works:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;private async void btnLocate_Click(object sender, RoutedEventArgs e)
+{
+    if (this._geolocator.LocationStatus != PositionStatus.Disabled &amp;amp;&amp;amp; this._geolocator.LocationStatus != PositionStatus.NotAvailable)
+    {
+        try
+        {
+            this._geolocator.DesiredAccuracyInMeters = 5;
+            Geoposition position = await this._geolocator.GetGeopositionAsync();
+            Geocoordinate geocoordinate = position.Coordinate;
+            this.mapWithMyLocation.Center = CoordinateConverter.ConvertGeocoordinate(geocoordinate);
+        }
+        catch (System.UnauthorizedAccessException)
+        {
+            throw;
+        }
+        catch (TaskCanceledException)
+        {
+            throw;
+        }
+        catch (Exception)
+        {
+            throw;
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here is the code that doesn&#39;t work:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public class LocationEntryViewModel : BaseViewModel
+{
+    async public Task&amp;lt;GeoCoordinate&amp;gt; GetMyLocation()
+    {
+        if (this._geolocator.LocationStatus != PositionStatus.Disabled &amp;amp;&amp;amp; this._geolocator.LocationStatus != PositionStatus.NotAvailable)
+        {
+            try
+            {
+                this._geolocator.DesiredAccuracyInMeters = 5;
+                Geoposition position = await this._geolocator.GetGeopositionAsync();                    
+                Geocoordinate geocoordinate = position.Coordinate;
+                return CoordinateConverter.ConvertGeocoordinate(geocoordinate);
+            }
+            catch (System.UnauthorizedAccessException)
+            {
+                throw;
+            }
+            catch (TaskCanceledException)
+            {
+                throw;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+        else
+        {
+            return new GeoCoordinate();
+        }
+    }
+
+    public void SetMyLocation()
+    {
+        this.MyLocation = GetMyLocation().Result;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And then I call this from my View&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    protected override void OnNavigatedTo(NavigationEventArgs e)
+    {
+        base.OnNavigatedTo(e);
+        _locationEntryViewModel.SetMyLocation();
+    }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I&#39;ve read in an article, which I can no longer find, that I should not initialize this from the constructor of my ViewModel, so for testing purpose I put in in OnNavigateTo instead but if there is a way to do this, please let me know as I feel it would make more sense, no??&lt;/p&gt;
+
+&lt;p&gt;Thanks.&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885221</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Convert datetime to string in asp.net mvc</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c#"/><category scheme="http://stackoverflow.com/feeds/tags" term="asp.net"/><category scheme="http://stackoverflow.com/feeds/tags" term="asp.net-mvc"/><category scheme="http://stackoverflow.com/feeds/tags" term="string"/><category scheme="http://stackoverflow.com/feeds/tags" term="datetime"/>
+        <author>
+            <name>Rima Touya</name>
+            <uri>http://stackoverflow.com/users/2288080</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885221/convert-datetime-to-string-in-asp-net-mvc" />
+        <published>2013-11-10T01:24:16Z</published>
+        <updated>2013-11-10T01:36:03Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I am new to asp.net mvc. I want to convert datetime to string in Controller.&lt;/p&gt;
+
+&lt;p&gt;Here&#39;s the code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    string query = DateTime.ToString.Format(@&quot;SELECT rcvd_by_crmc_fr_vendor 
+                                FROM vw_days_duration_proponent_crmc
+                                SET NOCOUNT ON&quot;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Can you help me with this guys? The program throws an error like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;System.DateTime.ToString(string, System.IFormatProvider)&#39; is a &#39;method&#39;, which is not valid in the given context&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you!&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885214</id>
+        <re:rank scheme="http://stackoverflow.com">-2</re:rank>
+        <title type="text">Python - .append not working in if statement</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="python"/><category scheme="http://stackoverflow.com/feeds/tags" term="list"/><category scheme="http://stackoverflow.com/feeds/tags" term="append"/>
+        <author>
+            <name>user2975228</name>
+            <uri>http://stackoverflow.com/users/2975228</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885214/python-append-not-working-in-if-statement" />
+        <published>2013-11-10T01:22:41Z</published>
+        <updated>2013-11-10T01:36:08Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I am making a text based game but I am coming into a problem appending a list.&lt;/p&gt;
+
+&lt;p&gt;The starting commands you can do are in the list.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;room1_commands = [&#39;help&#39;, &#39;look&#39;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If they use the &#39;look&#39; command it starts up this.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if ask == &#39;look&#39;:
+    print (&#39;You see a fireplace.&#39;)
+    room1_commands.append(&#39;fireplace&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To my knowledge that should add fireplace to the list of commands but it doesn&#39;t.&lt;/p&gt;
+
+&lt;p&gt;I have noticed that if I add...&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;print (room1_commands)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;right after the append it shows it appended, but if I don&#39;t indent it so it doesn&#39;t sit inside the if statement it only prints out &#39;help&#39; and &#39;look&#39;&lt;/p&gt;
+
+&lt;p&gt;This is the whole statement (including the help statement which prints out the command list)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def room1():
+    ask = input()
+
+    room1_commands = [&#39;help&#39;, &#39;look&#39;]
+
+    if ask == &#39;help&#39;:
+        print (&#39;Usable Commands&#39;)
+        print (room1_commands)
+        room1()
+
+    elif ask == &#39;look&#39;:
+        print (&#39;You see a fireplace&#39;)
+        room1_commands.append(&#39;fireplace&#39;)
+        room1()
+&lt;/code&gt;&lt;/pre&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885181</id>
+        <re:rank scheme="http://stackoverflow.com">-4</re:rank>
+        <title type="text">is there a difference between &quot;01&quot; and &quot;0&quot;+1</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="java"/>
+        <author>
+            <name>bennyboy</name>
+            <uri>http://stackoverflow.com/users/1796171</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885181/is-there-a-difference-between-01-and-01" />
+        <published>2013-11-10T01:18:22Z</published>
+        <updated>2013-11-10T01:35:50Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I&#39;m working on an Assignment.&lt;/p&gt;
+
+&lt;p&gt;and I have a method that accepts a string Id and adds the Item with the corresponding id to a directory.&lt;/p&gt;
+
+&lt;p&gt;For example is the output of this;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+    String temp = &quot;&quot;;
+    int id = 0;
+    for (int i = 0; i &amp;lt; 10; i++)
+    {
+        temp =temp +&quot;ID&quot;+id++;
+
+    }
+    System.out.println(temp);
+    }
+}
+
+OUTPUT;
+
+ID0ID1ID2ID3ID4ID5ID6ID7ID8ID9
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;the same as &quot;ID1&quot;, &quot;ID2&quot; etc...&lt;/p&gt;
+
+&lt;p&gt;The reason I ask is because my program is responding differently to a string written like &quot;ID1&quot; and &quot;ID&quot;+id++&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885162</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">XML and JSON tags for a Golang struct?</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="xml"/><category scheme="http://stackoverflow.com/feeds/tags" term="json"/><category scheme="http://stackoverflow.com/feeds/tags" term="encoding"/><category scheme="http://stackoverflow.com/feeds/tags" term="go"/>
+        <author>
+            <name>magneticMonster</name>
+            <uri>http://stackoverflow.com/users/73004</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885162/xml-and-json-tags-for-a-golang-struct" />
+        <published>2013-11-10T01:14:44Z</published>
+        <updated>2013-11-10T01:34:26Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I have an application that can output as JSON or XML depending on the HTTP request headers. I can achieve the correct output for either by adding the correct tags to the structs I&#39;m using, but I can&#39;t figure out how to specify the tags for both JSON and XML.&lt;/p&gt;
+
+&lt;p&gt;For example, this serializes to correct XML:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;type Foo struct {
+    Id          int64       `xml:&quot;id,attr&quot;`
+    Version     int16       `xml:&quot;version,attr&quot;`
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;...and this generates correct JSON:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;type Foo struct {
+    Id          int64       `json:&quot;id&quot;`
+    Version     int16       `json:&quot;version&quot;`
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;...but this doesn&#39;t work for either:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;type Foo struct {
+    Id          int64       `xml:&quot;id,attr&quot;,json:&quot;id&quot;`
+    Version     int16       `xml:&quot;version,attr&quot;,json:&quot;version&quot;`
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885154</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Find missing values from a sorted column and insert blank line in these positions</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="java"/><category scheme="http://stackoverflow.com/feeds/tags" term="missing-data"/>
+        <author>
+            <name>Omen</name>
+            <uri>http://stackoverflow.com/users/2549552</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885154/find-missing-values-from-a-sorted-column-and-insert-blank-line-in-these-position" />
+        <published>2013-11-10T01:13:37Z</published>
+        <updated>2013-11-10T01:37:52Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Well, hello. What I am trying to do is this: I have a set of key,value pairs coming from a treemap which I write in a txt file. The output is like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1 4 2 8 2
+3 8 2 5 1
+6 9 1 4 3
+etc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;the keys are in the first column and it is sorted. My goal is to find the position of missing values in the 1st column, insert a blank line for each missing number and write them to the file without the first column. So the list in the file would hopefully be like that:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;4 2 8 2
+         //blank line
+8 2 5 1
+         //blank line
+         //blank line
+9 1 4 3
+etc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I&#39;ve tried to count the difference between every key line and display a line like that, but nothing. Any suggestion would be appreciated.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;...
+int i = 0;
+for (Integer key : rowMap.keySet()) {
+                    String row = key + &quot;&quot;;
+
+                    for (Integer[] rows : rowMap.get(key)) {
+                        for (Integer col : rows) {
+                            row += &quot; &quot; + col;
+                       }                          
+       ------&amp;gt;      }
+             i++;
+             if (key.equals(i)){
+                        writer.println(row);
+                    }
+                   else {
+                      int dif = key-i;
+                        int j;
+                        for (j=1; j&amp;lt;=dif; j++){
+                            writer.println(&quot;&quot;);
+                        }
+                        writer.println(row);
+                    }
+             }
+                writer.close();
+...
+&lt;/code&gt;&lt;/pre&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885149</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Unable to add or access users in mysql</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="php"/><category scheme="http://stackoverflow.com/feeds/tags" term="mysql"/><category scheme="http://stackoverflow.com/feeds/tags" term="apache"/><category scheme="http://stackoverflow.com/feeds/tags" term="mysqli"/><category scheme="http://stackoverflow.com/feeds/tags" term="wamp"/>
+        <author>
+            <name>KodeSeeker</name>
+            <uri>http://stackoverflow.com/users/919858</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885149/unable-to-add-or-access-users-in-mysql" />
+        <published>2013-11-10T01:12:56Z</published>
+        <updated>2013-11-10T01:35:39Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Im trying to set up a MySQL installation my windows 8 laptop, but I&#39;m not being able to access the root user/ add a new user with privileges. I tried reinstalling  it and the installer doesnt let me add new users.&lt;/p&gt;
+
+&lt;p&gt;Here&#39;s a trace of the &lt;code&gt;.err&lt;/code&gt; file. That shows an error that I cannot seem to figure out from google&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;`2013-11-09 16:05:13 11508 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2013-11-09 16:05:13 11508 [Note] InnoDB: Completed initialization of buffer pool
+2013-11-09 16:05:13 11508 [ERROR] InnoDB: .\ibdata1 can&#39;t be opened in read-write mode
+2013-11-09 16:05:13 11508 [ERROR] InnoDB: The system tablespace must be writable!
+**2013-11-09 16:05:13 11508 [ERROR] Plugin &#39;InnoDB&#39; init function returned error.
+2013-11-09 16:05:13 11508 [ERROR] Plugin &#39;InnoDB&#39; registration as a STORAGE ENGINE failed.**
+2013-11-09 16:05:13 11508 [ERROR] Unknown/unsupported storage engine: InnoDB
+2013-11-09 16:05:13 11508 [ERROR] Aborting
+
+2013-11-09 16:05:13 11508 [Note] Binlog end
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;partition&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;PERFORMANCE_SCHEMA&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;INNODB_SYS_DATAFILES&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;INNODB_SYS_TABLESPACES&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;INNODB_SYS_FOREIGN_COLS&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;INNODB_SYS_FOREIGN&#39;
+2013-11-09 16:05:13 11508 [Note] Shutting down plugin &#39;INNODB_SYS_FIELDS&#39;
+`
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Any idea on how I can fix this would be extremely helpful&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885076</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">How to split string and insert values into table in SQL Server</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="sql-server"/><category scheme="http://stackoverflow.com/feeds/tags" term="tsql"/>
+        <author>
+            <name>birdus</name>
+            <uri>http://stackoverflow.com/users/220899</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885076/how-to-split-string-and-insert-values-into-table-in-sql-server" />
+        <published>2013-11-10T01:00:15Z</published>
+        <updated>2013-11-10T01:36:30Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I have a string like this:&lt;/p&gt;
+
+&lt;p&gt;72594206916,2,1/2/08,Tacoma,WA:72594221856,5,5/7/13,San Francisco,CA:72594221871,99,12/30/12,Dallas,TX&lt;/p&gt;
+
+&lt;p&gt;This is basically 5 values in each of 3 rows (from an ASP.NET grid). I need to split this string apart into 5 columns and 3 rows in a SQL Server table. Individual values are separated by commas and rows by colons.&lt;/p&gt;
+
+&lt;p&gt;I found a function to split a string into pieces and I can get the rows out of this string:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;declare @testString varchar(100)
+set @testString = &#39;72594206916,2,1/2/08,Tacoma,WA:72594221856,5,5/7/13,San Francisco,CA:72594221871,99,12/30/12,Dallas,TX&#39;
+
+select *
+from dbo.SplitString(@testString, &#39;:&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;gives me:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;72594206916,2,1/2/08,Tacoma,WA
+72594221856,5,5/7/13,San Francisco,CA
+72594221871,99,12/30/12,Dallas,TX
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This gives me a result set with the three rows (the function outputs a table). Can I call this function again at the same time and insert its output into a table somehow?&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885054</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Python user input and mathematical operation error</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="python"/><category scheme="http://stackoverflow.com/feeds/tags" term="python-3.x"/>
+        <author>
+            <name>user2975215</name>
+            <uri>http://stackoverflow.com/users/2975215</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885054/python-user-input-and-mathematical-operation-error" />
+        <published>2013-11-10T00:57:39Z</published>
+        <updated>2013-11-10T01:36:10Z</updated>
+        <summary type="html">
+            
+
+            &lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; g = input(&quot;Enter a number&quot;)
+Enter a number43
+&amp;gt;&amp;gt;&amp;gt; g + 2
+Traceback (most recent call last):
+  File &quot;&amp;lt;pyshell#7&amp;gt;&quot;, line 1, in &amp;lt;module&amp;gt;
+    g + 2
+TypeError: Can&#39;t convert &#39;int&#39; object to str implicitly
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The program wont let me use the input variable in mathematical operations, like &lt;code&gt;g + 2&lt;/code&gt;&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19885049</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Converting string to double using atof</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c++"/><category scheme="http://stackoverflow.com/feeds/tags" term="atof"/>
+        <author>
+            <name>soochism</name>
+            <uri>http://stackoverflow.com/users/2970170</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19885049/converting-string-to-double-using-atof" />
+        <published>2013-11-10T00:57:09Z</published>
+        <updated>2013-11-10T01:36:28Z</updated>
+        <summary type="html">
+            
+
+            &lt;pre&gt;&lt;code&gt;#include &amp;lt;stdlib.h&amp;gt;
+....
+double returnDistance(string coord1, string coord2, const vector&amp;lt;string&amp;gt; vec) {
+    int arr1[11], arr2[11];
+    istringstream iss1(coord1);
+    int i = 0;
+    while(iss1) {
+        iss1 &amp;gt;&amp;gt; arr1[i];
+        i++;
+    }
+    istringstream iss2(coord2);
+    i = 0;
+    while(iss2) {
+            iss2 &amp;gt;&amp;gt; arr2[i];
+            i++;
+    }
+    //error below when calling atof
+    return calculateDistance(atof(arr1[6]), atof(arr2[6]),
+                             atof(arr1[7]), atof(arr2[7]),
+                             atof(arr1[8]), atof(arr2[8]))
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;arr1[] and arr2[] are both arrays of strings and calculateDistance calculates the 3-D distance given x, y, z coordinates, but for some reason I get the error that &quot;No matching function for call to &#39;atof&#39;&quot;. Help please!&lt;/p&gt;
+
+&lt;p&gt;PS: I get the following error when I try using .c_str(): &quot;Member reference base type &#39;int&#39; is not a structure or union&quot;&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19884927</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">How close alerdialog without buttons</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="android"/>
+        <author>
+            <name>CristianCV</name>
+            <uri>http://stackoverflow.com/users/2186386</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19884927/how-close-alerdialog-without-buttons" />
+        <published>2013-11-10T00:39:32Z</published>
+        <updated>2013-11-10T01:37:18Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I created a query application database to android and I put a progress bar for the user to see the progress of the search, I put in an alert dialog.&lt;/p&gt;
+
+&lt;p&gt;The problem comes next:&lt;/p&gt;
+
+&lt;p&gt;-Everything is perfect, the thread activity changes when I tell you, but then to turn back from the AlertDialog activity with the progress bar on the screen are included.&lt;/p&gt;
+
+&lt;p&gt;I wanted to know how could I say, without buttons, that when the thread arrives at 4 AlertDialog is closed, since it is pretty bad when you want to make another search, the method code attached running the alerdialog.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; private void AlertCargando(){
+
+   final Handler mHandler = new Handler();
+    AlertDialog.Builder alertDialog = new AlertDialog.Builder(Buscar.this);
+
+    //Crea el dialogo
+    alertDialog.setTitle(&quot;Buscando...&quot;);
+
+    final ProgressBar barra = new ProgressBar(this, null, android.R.attr.progressBarStyleHorizontal);
+    barra.setProgress(0);
+    barra.setMax(4);
+    mProgressStatus = 0;
+
+    new Thread(new Runnable() {
+        public void run() {
+            ComprobarDatos();
+
+            while (mProgressStatus &amp;lt; 4) {
+
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                mProgressStatus = SumaUno(mProgressStatus);
+
+                mHandler.post(new Runnable() {
+                    public void run() {
+                        barra.setProgress(mProgressStatus);
+
+                    }
+                });
+            }
+
+//Here i want close the alerDialog
+            if(mProgressStatus == 4){
+        startActivity(i);
+                               }
+
+
+        }
+    }).start();
+
+
+    alertDialog.setView(barra);
+    // Showing Alert Message
+
+    alertDialog.show();
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and here the metod &quot;SumaUno&quot;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;private int SumaUno(int numero){
+
+    numero = numero++;
+
+    return numero;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I remind you that everything works perfectly, I just want to know how close the alerdialog.&lt;/p&gt;
+
+&lt;p&gt;THANK YOU =D&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19884913</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Change ImageButton Size by Dragging</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="android"/><category scheme="http://stackoverflow.com/feeds/tags" term="xml"/><category scheme="http://stackoverflow.com/feeds/tags" term="eclipse"/><category scheme="http://stackoverflow.com/feeds/tags" term="button"/>
+        <author>
+            <name>Evorlor</name>
+            <uri>http://stackoverflow.com/users/1889720</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19884913/change-imagebutton-size-by-dragging" />
+        <published>2013-11-10T00:37:31Z</published>
+        <updated>2013-11-10T01:36:59Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I am making a lot of ImageButtons where the image aspect does not matter.  That is, I do not care if it is stretched.  They are invisible buttons to go on top of a background.&lt;/p&gt;
+
+&lt;p&gt;Is there an easy way to layout and stretch my ImageButtons through the graphical editor?  I do not want to have to test out each possible padding in my xml.  I just want to stretch the sides of the images as though it were an Office Word.&lt;/p&gt;
+
+&lt;p&gt;Ask if clarification is needed, please.&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19884085</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">How to concatenate two tables with matched columns into a single view</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="sql"/><category scheme="http://stackoverflow.com/feeds/tags" term="ms-access"/><category scheme="http://stackoverflow.com/feeds/tags" term="microsoft"/>
+        <author>
+            <name>rahma mohammad</name>
+            <uri>http://stackoverflow.com/users/2914506</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19884085/how-to-concatenate-two-tables-with-matched-columns-into-a-single-view" />
+        <published>2013-11-09T22:48:35Z</published>
+        <updated>2013-11-10T01:37:29Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;&lt;strong&gt;hello&lt;/strong&gt; 
+i have two tabels in microsoft access 2007 database 
+one of them have coloumns &quot;name 1  &amp;amp; name 2 &quot; with 2000 records , &lt;strong&gt;the other tabel have more information&lt;/strong&gt; it have two coloumns named &quot; code1 &amp;amp; code2 &quot; with 3000 records each name has a code means that 
+every name has a code stored in the second tabel in the coloumn code 1 &lt;/p&gt;
+
+&lt;p&gt;i want to make one table or query that show me name 1 &amp;amp; name 2 with their specific code1 &amp;amp; code 2 from the second table 
+![enter image description here][1]
+&lt;strong&gt;and i must have only 2000 record&lt;/strong&gt; 
+any one can &lt;strong&gt;help&lt;/strong&gt; ? please ! &lt;/p&gt;
+
+&lt;p&gt;example :&lt;/p&gt;
+
+&lt;p&gt;example : &lt;/p&gt;
+
+&lt;p&gt;tabel 1 : &lt;/p&gt;
+
+&lt;h2&gt;name-1      name-2&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Abacavir    Digoxin&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Amprenavir  Aspirin&lt;/p&gt;
+
+&lt;p&gt;tabel 2 :&lt;/p&gt;
+
+&lt;h2&gt;code-1   drug1&lt;/h2&gt;
+
+&lt;p&gt;xy1      Abacavir &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;xy2      Digoxin    &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;yxr1     Amprenavir &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;uyv2     Aspirin&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;sample output : &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;name-1     code-1  name-2  code-2&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Abacavir   xy1     Digoxin  xy2 &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;thanx in advance :)&lt;/em&gt;&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19884029</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Find the swapped nodes in binary search tree</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="algorithm"/><category scheme="http://stackoverflow.com/feeds/tags" term="data-structures"/><category scheme="http://stackoverflow.com/feeds/tags" term="binary-search-tree"/>
+        <author>
+            <name>Trying</name>
+            <uri>http://stackoverflow.com/users/2109070</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19884029/find-the-swapped-nodes-in-binary-search-tree" />
+        <published>2013-11-09T22:43:15Z</published>
+        <updated>2013-11-10T01:35:15Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Two of the nodes of a Binary Search Tree are swapped.                                                                                                                                 &lt;/p&gt;
+
+&lt;p&gt;Input Tree:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     10
+    /  \
+   5    8
+  / \
+ 2   20
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In the above tree, nodes 20 and 8 must be swapped to  fix the tree.  &lt;/p&gt;
+
+&lt;p&gt;Output tree:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     10
+    /  \
+   5    20
+  / \
+ 2   8
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I followed the solution given in &lt;a href=&quot;http://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;. But I feel the solution is incorrect because:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;As per the site:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+  &lt;li&gt;&lt;p&gt;The swapped nodes are not adjacent in the inorder traversal of the BST.&lt;/p&gt;
+  
+  &lt;p&gt;For example, Nodes 5 and 25 are swapped in &lt;strong&gt;&lt;code&gt;{3 5 7 8 10 15 20 25}&lt;/code&gt;&lt;/strong&gt;.&lt;br&gt;
+  The inorder traversal of the given tree is &lt;strong&gt;&lt;code&gt;3 25 7 8 10 15 20 5&lt;/code&gt;&lt;/strong&gt;  If we
+  observe carefully, during inorder traversal, we find node 7 is smaller
+  than the previous visited node 25. Here save the context of node 25
+  (previous node). Again, we find that node 5 is smaller than the
+  previous node 20. This time, we save the context of node 5 ( current
+  node ). Finally swap the two node’s values.&lt;/p&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So my point is if it is considering 25 because it is greater than 7 than it should consider 20 as well because it is also greater than 5. So is this correct solution or I am missing something? &lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19883282</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">Makefile pattern rule either ignores phony rule or spontaneously deletes output file</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="makefile"/><category scheme="http://stackoverflow.com/feeds/tags" term="make"/><category scheme="http://stackoverflow.com/feeds/tags" term="wildcard"/><category scheme="http://stackoverflow.com/feeds/tags" term="gnu-make"/>
+        <author>
+            <name>Mechanical snail</name>
+            <uri>http://stackoverflow.com/users/319931</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19883282/makefile-pattern-rule-either-ignores-phony-rule-or-spontaneously-deletes-output" />
+        <published>2013-11-09T21:24:19Z</published>
+        <updated>2013-11-10T01:35:07Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I&#39;m trying to write a makefile to produce several output files for each of several sources, using pattern rules.&lt;/p&gt;
+
+&lt;p&gt;I have the following &lt;code&gt;Makefile&lt;/code&gt; (GNU Make 3.8.1):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;all : foo.all bar.all
+
+%.all : %.pdf %.svg
+    @echo Made $*
+
+%.pdf :
+    touch $@
+
+%.svg :
+    touch $@
+
+.PHONY: foo.all bar.all
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Since &lt;code&gt;*.all&lt;/code&gt; do not represent real output files, I tried marking them as &lt;a href=&quot;http://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile&quot;&gt;&lt;code&gt;.PHONY&lt;/code&gt;&lt;/a&gt;. However, running &lt;code&gt;make&lt;/code&gt; then doesn&#39;t work:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls
+Makefile
+$ make
+make: Nothing to be done for `all&#39;.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;According to &lt;code&gt;make -d&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; No implicit rule found for `all&#39;.
+  Considering target file `foo.all&#39;.
+   File `foo.all&#39; does not exist.
+   Finished prerequisites of target file `foo.all&#39;.
+  Must remake target `foo.all&#39;.
+  Successfully remade target file `foo.all&#39;.
+  Considering target file `bar.all&#39;.
+   File `bar.all&#39; does not exist.
+   Finished prerequisites of target file `bar.all&#39;.
+  Must remake target `bar.all&#39;.
+  Successfully remade target file `bar.all&#39;.
+ Finished prerequisites of target file `all&#39;.
+Must remake target `all&#39;.
+Successfully remade target file `all&#39;.
+make: Nothing to be done for `all&#39;.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;which seems to be pretending to run the &lt;code&gt;%.all&lt;/code&gt; rules, but skipping the bodies.&lt;/p&gt;
+
+&lt;p&gt;But with the &lt;code&gt;.PHONY&lt;/code&gt; line commented out, Make runs the targets, but then spontaneously decides to delete the output files:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ make
+touch foo.pdf
+touch foo.svg
+Made foo
+touch bar.pdf
+touch bar.svg
+Made bar
+rm foo.pdf foo.svg bar.pdf bar.svg
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;According to &lt;code&gt;make -d&lt;/code&gt;, it says:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Removing intermediate files...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1&gt;Minimal example&lt;/h1&gt;
+
+&lt;p&gt;A minimal example giving anomalous behavior:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%.all: %.out
+    @echo Made $*
+
+%.out:
+    touch $@
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I expect running &lt;code&gt;make somefile.all&lt;/code&gt; to cause it to create the file &lt;code&gt;somefile.out&lt;/code&gt;, but it gets deleted:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ make somefile.all
+touch somefile.out
+Made somefile
+rm somefile.out
+&lt;/code&gt;&lt;/pre&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19882652</id>
+        <re:rank scheme="http://stackoverflow.com">-2</re:rank>
+        <title type="text">Batch file for replacing text on a file</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="batch-file"/><category scheme="http://stackoverflow.com/feeds/tags" term="batch-processing"/>
+        <author>
+            <name>JPDayz</name>
+            <uri>http://stackoverflow.com/users/2965492</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19882652/batch-file-for-replacing-text-on-a-file" />
+        <published>2013-11-09T20:25:20Z</published>
+        <updated>2013-11-10T01:34:36Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Hey i need help to change a large file, in this file i have this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Title
+    word1:
+        text
+        text
+        text
+        text
+        text
+        text
+        text
+    word2:
+        text
+        text
+        text
+        text
+        text
+        text
+        text
+    word3:
+        text
+        text
+        text
+        text
+        text
+        text
+        text
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And goes like this more 838 times(till word841), but the problem is that the numbers are not in order, is there a way to replace the number after the word so they stay in order like 1,2,3,4 not 1,3,2,4 ? the word is always the same and the lines between are always 7.
+Using a batch? And in the first line of the file is a title.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;The Banana is Awesome!
+    fruit1:
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        Some other random line
+    fruit22:
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        Some other random line
+    fruit320:
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        What is the name of the fruit?
+        Color of the fruit?
+        Some other random line
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It exists all the numbers till 841 starting at 1 but they are all desorganized, i just want to put them in order. The text that is between needs to exist on the file.&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19881580</id>
+        <re:rank scheme="http://stackoverflow.com">-3</re:rank>
+        <title type="text">When page unload, a confirm box appear I don&#39;t want</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="javascript"/><category scheme="http://stackoverflow.com/feeds/tags" term="jquery"/><category scheme="http://stackoverflow.com/feeds/tags" term="ajax"/><category scheme="http://stackoverflow.com/feeds/tags" term="unload"/>
+        <author>
+            <name>WebEngine</name>
+            <uri>http://stackoverflow.com/users/2128228</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19881580/when-page-unload-a-confirm-box-appear-i-dont-want" />
+        <published>2013-11-09T18:37:30Z</published>
+        <updated>2013-11-10T01:37:07Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;* I don&#39;t know English, so please understand me&lt;/p&gt;
+
+&lt;p&gt;I am making a chat program like this:&lt;a href=&quot;http://www.webengine.co.kr/wechat?l=en&quot; rel=&quot;nofollow&quot;&gt;http://www.webengine.co.kr/wechat?l=en&lt;/a&gt;(korean site) and I have a problem like title.
+(This problem appears sometimes. If you want test this, refresh the page many times.)&lt;/p&gt;
+
+&lt;p&gt;I think this problem was made by my ajax script&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;function wechat(id, chatroom_srl, last_chatline_srl, key, nick_name){
+  this.id = id;
+  this.chatroom_srl = chatroom_srl;
+  this.last_chatline_srl = last_chatline_srl;
+  this.key = key;
+  this.nick_name = nick_name;
+  this.wechat = $(&quot;#&quot;+this.id);
+
+  var oWechat = this.wechat;
+  function exec_json_nomsg(a,b,c){
+    if(&quot;undefined&quot; == typeof b) b = {};
+    a = a.split(&quot;.&quot;);
+    if(2 == a.length){
+      $.extend(b, {module:a[0],act:a[1]});
+      if(&quot;undefined&quot; != typeof xeVid) $.extend(b, {vid:xeVid});
+      $.ajax({
+        type:&quot;POST&quot;,
+        dataType:&quot;json&quot;,
+        url:request_uri,
+        contentType:&quot;application/json&quot;,
+        data:$.param(b),
+          success:function(a){
+          if($.isFunction(c)) c(a);
+        }
+      });
+    }
+  }
+
+  function procChatLines(data){
+    for(i=0;i&amp;lt;data.chatline_list.length;i++){
+      appendLine(data.chatline_list[i].nick_name, data.chatline_list[i].content, data.chatline_list[i].key);
+      wechat.last_chatline_srl = data.chatline_list[i].chatline_srl;
+    }
+    wechat.timer = setTimeout(loadChatContents, 100);
+  }
+  function loadChatContents(){
+    exec_json_nomsg(&quot;chat.loadChatContents&quot;, {chatroom_srl:wechat.chatroom_srl, last_chatline_srl:wechat.last_chatline_srl, key:wechat.key}, procChatLines);
+    clearTimeout(wechat.timer);
+  }
+  function appendLine(nick_name, content, key){
+    var lineObj = $(&quot;&amp;lt;div class=\&quot;chatLine\&quot;&amp;gt;&amp;lt;/div&amp;gt;&quot;);      
+    if(wechat.key == key) lineObj.addClass(&quot;chatMe&quot;);       
+    lineObj.html(&quot;&amp;lt;span class=\&quot;chatNickBold\&quot;&amp;gt;&quot;+nick_name+&quot; : &amp;lt;/span&amp;gt;&quot;+content);
+    oWechat.find(&quot;.chatContentHeight&quot;).append(lineObj);
+    scrollDown();
+  }
+  function scrollDown(){
+    var o = oWechat.find(&quot;.chatContent&quot;);
+    o.stop().animate({scrollTop:o.find(&quot;&amp;gt;.chatContentHeight&quot;).height()-o.height()}, 300, &quot;easeInOutQuart&quot;);
+  }
+  $(window).load(function(){
+    scrollDown();
+  });   
+  oWechat.find(&quot;.wechatInput&quot;).keydown(function(e){
+    if(e.keyCode == 13){
+      if($(this).val().trim() != &quot;&quot;){
+        exec_json_nomsg(&quot;chat.procChatInsertChatLine&quot;,{&quot;chatroom_srl&quot;:wechat.chatroom_srl,&quot;content&quot;:$(this).val()});
+        appendLine(wechat.nick_name, $(this).val(), wechat.key);
+        $(this).val(&quot;&quot;);
+      }
+    }
+  });
+  wechat.timer = setTimeout(loadChatContents, 100);
+}
+  new wechat(&quot;wechat1&quot;, 1, [last_chatline_srl(PHP give this)], &quot;[User Hidden Key(PHP give this)]&quot;, &quot;[User Nick Name]&quot;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;What can I do resolve this problem.&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19872187</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">c++ fstream write doesn&#39;t work with binary file without seekg and seekp</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c++"/><category scheme="http://stackoverflow.com/feeds/tags" term="file"/><category scheme="http://stackoverflow.com/feeds/tags" term="fstream"/>
+        <author>
+            <name>Abd Al-rhman Taher Badary</name>
+            <uri>http://stackoverflow.com/users/2591165</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19872187/c-fstream-write-doesnt-work-with-binary-file-without-seekg-and-seekp" />
+        <published>2013-11-09T03:55:34Z</published>
+        <updated>2013-11-10T01:36:20Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;i need to read and write to the same file in sequential order (without seekg and seekp)
+but for some reason .write doesn&#39;t work !&lt;/p&gt;
+
+&lt;p&gt;here is my class&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;class student
+{
+    int id ; 
+    char name[20]  ;
+    int m1 , m2 , m3 ; 
+public:
+    student()
+    {
+    }
+    student(int idd , char*n , int mm1 , int mm2 , int mm3 )
+    {
+        id = idd ; 
+        strcpy(name , n); 
+        m1 = mm1 ; 
+        m2 = mm2 ; 
+        m3 = mm3 ; 
+    }
+    void show()
+    {
+        cout&amp;lt;&amp;lt;&quot;student id : &quot;&amp;lt;&amp;lt;id&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;&quot;student name : &quot;&amp;lt;&amp;lt;name&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;&quot;mark 1 : &quot;&amp;lt;&amp;lt;m1&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;&quot;mrak 2 : &quot;&amp;lt;&amp;lt;m2&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;&quot;mark 3 : &quot;&amp;lt;&amp;lt;m3&amp;lt;&amp;lt;endl ;
+    }
+    void get()
+    {
+        cout&amp;lt;&amp;lt;&quot;enter student id : &quot; ; 
+        cin&amp;gt;&amp;gt;id ; 
+        cout&amp;lt;&amp;lt;&quot;enter student name : &quot; ; 
+        cin.ignore() ; 
+        cin.get(name , 20) ; 
+        cout&amp;lt;&amp;lt;&quot;enter student&#39;s mark 1 :&quot; ; 
+        cin&amp;gt;&amp;gt;m1 ; 
+        cout&amp;lt;&amp;lt;&quot;enter student&#39;s mark 2 :&quot; ; 
+        cin&amp;gt;&amp;gt;m2 ; 
+        cout&amp;lt;&amp;lt;&quot;enter student&#39;s mark 3 :&quot; ; 
+        cin&amp;gt;&amp;gt;m3 ; 
+
+
+    }
+
+
+};
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and here is my main function : &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   int main()
+{
+       fstream file(&quot;f://records.dat&quot; , ios::out | ios::in  |ios::binary ) ; 
+    if(!file)
+    {
+        cout&amp;lt;&amp;lt;&quot;Error !&quot;;
+        int z ; 
+        cin&amp;gt;&amp;gt;z ;
+        return 4 ; 
+
+    }
+
+
+    modify(file);
+
+    int x ; 
+    cin&amp;gt;&amp;gt;x ; 
+    return 0 ; 
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and here is my function :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;void modify(fstream &amp;amp;file)
+{   
+    int recnum  ;
+    cout&amp;lt;&amp;lt;&quot;enter the number of the record to be modified : &quot; ; 
+    cin&amp;gt;&amp;gt;recnum ;
+    file.seekg(0) ; 
+    file.seekp(0);
+    student s1 ;
+    for(int i = 0 ; i&amp;lt;recnum-1 ; i++) 
+    {
+        file.read((char *) &amp;amp;s1 , sizeof(s1)) ;  
+    }
+int x = file.tellp() ;
+    int y = file.tellg() ; 
+    cout&amp;lt;&amp;lt;x&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;y&amp;lt;&amp;lt;endl ;   
+student s2 ;
+s2.get() ; 
+    file.write((char *) &amp;amp;s2 , sizeof(student))
+    x = file.tellp() ;
+    y = file.tellg() ;
+    cout&amp;lt;&amp;lt;x&amp;lt;&amp;lt;endl&amp;lt;&amp;lt;y&amp;lt;&amp;lt;endl ;   
+
+    file.flush() ; 
+        file.seekg(0 , ios::beg);
+    if(file.eof())
+    {
+        cout&amp;lt;&amp;lt;&quot;error !&quot; ; 
+        int x ; 
+        cin&amp;gt;&amp;gt;x ; 
+    }
+
+        while(file.read((char *) &amp;amp;s1 , sizeof(student)))
+    {
+        s1.show() ; 
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;it seems that the write function int the method modify doesn&#39;t work so please could anybody help me ?????&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19795407</id>
+        <re:rank scheme="http://stackoverflow.com">3</re:rank>
+        <title type="text">Convert a list to a dictionary and sum up values using linq</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c#"/><category scheme="http://stackoverflow.com/feeds/tags" term="linq"/>
+        <author>
+            <name>Thierry</name>
+            <uri>http://stackoverflow.com/users/815847</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19795407/convert-a-list-to-a-dictionary-and-sum-up-values-using-linq" />
+        <published>2013-11-05T17:46:36Z</published>
+        <updated>2013-11-10T01:34:38Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I have list i.e. &lt;code&gt;List&amp;lt;Field&amp;gt;&lt;/code&gt;. This Field class contains a code and a value properties among other fields and I would like to be able to use linq in order to sum up all the values for the same code.&lt;/p&gt;
+
+&lt;p&gt;I know I could loop through my list and add this to a dictionary using the following code, but I&#39;m sure there has to be a cleaner way to do this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if (totals.ContainsKey(code))
+{
+  totals[code] += value;
+}
+else
+{
+  totals.Add(code, value);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Any ideas?&lt;/p&gt;
+
+&lt;p&gt;I found something similar, but this applied to a list&gt; which isn&#39;t what I have:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var result = Sales.SelectMany(d =&amp;gt; d) // Flatten the list of dictionaries
+             .GroupBy(kvp =&amp;gt; kvp.Key, kvp =&amp;gt; kvp.Value) // Group the products
+             .ToDictionary(g =&amp;gt; g.Key, g =&amp;gt; g.Sum());
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;from this article [Sum amount using Linq in &lt;code&gt;&amp;lt;List&amp;lt;Dictionary&amp;lt;string, int&amp;gt;&amp;gt;&lt;/code&gt;]&lt;a href=&quot;http://stackoverflow.com/questions/3987708/sum-amount-using-linq-in-listdictionarystring-int&quot;&gt;Sum amount using Linq in &amp;lt;List&amp;lt;Dictionary&amp;lt;string, int&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Any ideas? I could always change my code to have a &lt;code&gt;Dictionary&amp;lt;string, Field&amp;gt;&lt;/code&gt; but I&#39;m sure there has to be a way to do this with a list and linq.&lt;/p&gt;
+
+&lt;p&gt;Thanks.&lt;/p&gt;
+
+&lt;p&gt;I have list i.e. &lt;code&gt;List&amp;lt;Field&amp;gt;&lt;/code&gt;. This Field class contains a code and a value properties among other fields and I would like to be able to use linq in order to sum up all the values for the same code.&lt;/p&gt;
+
+&lt;p&gt;I know I could loop through my list and add this to a dictionary using the following code, but I&#39;m sure there has to be a cleaner way to do this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if (totals.ContainsKey(code))
+{
+  totals[code] += value;
+}
+else
+{
+  totals.Add(code, value);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Any ideas?&lt;/p&gt;
+
+&lt;p&gt;I found something similar, but this applied to a list&gt; which isn&#39;t what I have:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var result = Sales.SelectMany(d =&amp;gt; d) // Flatten the list of dictionaries
+             .GroupBy(kvp =&amp;gt; kvp.Key, kvp =&amp;gt; kvp.Value) // Group the products
+             .ToDictionary(g =&amp;gt; g.Key, g =&amp;gt; g.Sum());
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;from this article [Sum amount using Linq in &lt;code&gt;&amp;lt;List&amp;lt;Dictionary&amp;lt;string, int&amp;gt;&amp;gt;&lt;/code&gt;]&lt;a href=&quot;http://stackoverflow.com/questions/3987708/sum-amount-using-linq-in-listdictionarystring-int&quot;&gt;Sum amount using Linq in &amp;lt;List&amp;lt;Dictionary&amp;lt;string, int&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Any ideas? I could always change my code to have a &lt;code&gt;Dictionary&amp;lt;string, Field&amp;gt;&lt;/code&gt; but I&#39;m sure there has to be a way to do this with a list and linq.&lt;/p&gt;
+
+&lt;p&gt;Thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPDATE:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sorry, I think I omitted an important section in regards to the above. The list is contained within another list i.e. List&gt; myitemList; which will contain other irrelevant fields which may require further filtering. I&#39;m not sure???&lt;/p&gt;
+
+&lt;p&gt;NOTE: Sorry formatting is messed up once again!&lt;/p&gt;
+
+&lt;p&gt;To give a bit of context to this:&lt;/p&gt;
+
+&lt;p&gt;Item1 (of type List)&lt;/p&gt;
+
+&lt;h1&gt;Item      Name          Value&lt;/h1&gt;
+
+&lt;p&gt;(Item 1) Type          1
+(Item 2) Description   Test
+(Item 3) Code          A
+(Item 4) Net           100.00&lt;/p&gt;
+
+&lt;p&gt;Item2 (of type List)&lt;/p&gt;
+
+&lt;h1&gt;Item      Name          Value&lt;/h1&gt;
+
+&lt;p&gt;(Item 1) Type          2
+(Item 2) Description   Test1
+(Item 3) Code          B
+(Item 4) Net           95.55&lt;/p&gt;
+
+&lt;p&gt;Item3 (of type List)&lt;/p&gt;
+
+&lt;h1&gt;Item      Name          Value&lt;/h1&gt;
+
+&lt;p&gt;(Item 1) Type          2
+(Item 2) Description   Test2
+(Item 3) Code          A
+(Item 4) Net           35.95&lt;/p&gt;
+
+&lt;p&gt;As you can see each list of type List contains 4 Field entries where my Field is defined with Name (String) and Value (Object)&lt;/p&gt;
+
+&lt;p&gt;Each of these list is then added to a main list. So I need to loop through the main list and in turn I want to end up with a dictionary what will contain the &quot;Code&quot; and sum of &quot;Net&quot; for each list. So at the end, I should just end up with&lt;/p&gt;
+
+&lt;p&gt;A, 135.95
+B, 95.55&lt;/p&gt;
+
+&lt;p&gt;I don&#39;t know if the above make sense. I hope it does!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The fact that I&#39;m dealing with a list&gt; actually didn&#39;t make a different as I actually wanted to sum up one list at the time, so provide answer is correct! Thank you!&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/19153056</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">How to set mongodb to start with authentication automatically</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="mongodb"/>
+        <author>
+            <name>ranjith</name>
+            <uri>http://stackoverflow.com/users/1278480</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/19153056/how-to-set-mongodb-to-start-with-authentication-automatically" />
+        <published>2013-10-03T07:16:11Z</published>
+        <updated>2013-11-10T01:37:36Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I have mongo setup at an ubuntu host. It currently has no authentication&lt;/p&gt;
+
+&lt;p&gt;Mongodb was installed through instructions at &lt;a href=&quot;http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/&quot; rel=&quot;nofollow&quot;&gt;http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I need to add authentication to it.&lt;/p&gt;
+
+&lt;p&gt;These links say as to how to do it
+1. &lt;a href=&quot;http://docs.mongodb.org/manual/tutorial/add-user-administrator/&quot; rel=&quot;nofollow&quot;&gt;http://docs.mongodb.org/manual/tutorial/add-user-administrator/&lt;/a&gt;
+2. &lt;a href=&quot;http://docs.mongodb.org/manual/tutorial/enable-authentication/&quot; rel=&quot;nofollow&quot;&gt;http://docs.mongodb.org/manual/tutorial/enable-authentication/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I start mongodb with the command &lt;code&gt;sudo service mongodb start/restart/stop&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;How do we make sure that auth is enabled when we use this method&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/13638005</id>
+        <re:rank scheme="http://stackoverflow.com">0</re:rank>
+        <title type="text">AVL tree rotation in java</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="java"/><category scheme="http://stackoverflow.com/feeds/tags" term="avl-tree"/>
+        <author>
+            <name>user1832681</name>
+            <uri>http://stackoverflow.com/users/1832681</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/13638005/avl-tree-rotation-in-java" />
+        <published>2012-11-30T02:09:47Z</published>
+        <updated>2013-11-10T01:37:14Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I want to implement the Java AVL tree and to rotate the tree left and right. I am not getting this.&lt;/p&gt;
+
+&lt;p&gt;Can anybody by looking at the code below tell me how can I possibly rotate the tree left and right and then use fix up with those two functions to balance the AVL tree?&lt;/p&gt;
+
+&lt;p&gt;I hope someone here can guide me through this.&lt;/p&gt;
+
+&lt;p&gt;Thank you!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import java.util.Random;
+import java.util.SortedSet;
+import java.util.TreeSet;
+
+
+public class AVLTree&amp;lt;T&amp;gt; extends 
+BinarySearchTree&amp;lt;AVLTree.Node&amp;lt;T&amp;gt;, T&amp;gt; implements SSet&amp;lt;T&amp;gt; {
+
+Random rand;
+
+public static class Node&amp;lt;T&amp;gt; extends BSTNode&amp;lt;Node&amp;lt;T&amp;gt;,T&amp;gt; {
+    int h;  // the height of the node
+}
+
+public AVLTree() {
+    sampleNode = new Node&amp;lt;T&amp;gt;();
+    rand = new Random();
+    c = new DefaultComparator&amp;lt;T&amp;gt;();
+}
+
+public int height(Node&amp;lt;T&amp;gt; u) {
+    return (u == null) ? 0 : u.h;
+}
+
+public boolean add(T x) {
+    Node&amp;lt;T&amp;gt; u = new Node&amp;lt;T&amp;gt;();
+    u.x = x;
+    if (super.add(u)) {
+        for (Node&amp;lt;T&amp;gt; w = u; w != nil; w = w.parent) {
+            // walk back up to the root adjusting heights
+            w.h = Math.max(height(w.left), height(w.right)) + 1;
+        }
+        fixup(u);
+        return true;
+    }
+    return false;
+}
+
+public void splice(Node&amp;lt;T&amp;gt; u) {
+    Node&amp;lt;T&amp;gt; w = u.parent;
+    super.splice(u);
+    for (Node&amp;lt;T&amp;gt; z = u; z != nil; z = z.parent)
+    z.h = Math.max(height(z.left), height(z.right)) +   1;          
+    fixup(w);
+}
+
+public void checkHeights(Node&amp;lt;T&amp;gt; u) {
+    if (u == nil) return;
+    checkHeights(u.left);
+    checkHeights(u.right);
+    if (height(u) != 1 + Math.max(height(u.left), height(u.right))) 
+    throw new RuntimeException(&quot;Check heights shows incorrect heights&quot;);
+    int dif = height(u.left) - height(u.right);
+    if (dif &amp;lt; -1 || dif &amp;gt; 1)
+throw new RuntimeException(&quot;Check heights found height difference of &quot; + dif);
+}
+
+/**
+ * TODO: finish writing this method
+ * @param u
+ */
+public void fixup(Node&amp;lt;T&amp;gt; u) {
+    while (u != nil) {
+        int dif = height(u.left) - height(u.right);
+        if (dif &amp;gt; 1) {
+ // TODO: add code here to fix AVL condition 
+ // on the path from u to the root, if  necessary
+        } else if (dif &amp;lt; -1) {
+// TODO: add code here to fix AVL condition
+    // on the path from u to the root, if necessary                 
+        }
+        u = u.parent;
+    }
+}
+
+public Node rotateLeft()
+{
+return rotateLeft(u.parent);
+}
+
+public void rotateLeft(Node&amp;lt;T&amp;gt; u) {
+    // TODO: Recompute height values at u and u.parent
+
+}
+
+public void rotateRight(Node&amp;lt;T&amp;gt; u) {
+    // TODO: Recompute height values at u and u.parent
+}
+
+public static &amp;lt;T&amp;gt; T find(SortedSet&amp;lt;T&amp;gt; ss, T x) {
+    SortedSet&amp;lt;T&amp;gt; ts = ss.tailSet(x);
+    if (!ts.isEmpty()) {
+        return ts.first(); 
+    }
+    return null;
+}
+/**
+ * This just does some very basic correctness testing
+ * @param args
+ */
+public static void main(String[] args) {
+    AVLTree&amp;lt;Integer&amp;gt; t = new AVLTree&amp;lt;Integer&amp;gt;();
+    Random r = new Random(0);
+    System.out.print(&quot;Running AVL tests...&quot;);
+    int n = 1000;
+    for (int i = 0; i &amp;lt; n; i++) {
+        t.add(r.nextInt(2*n));
+        t.checkHeights(t.r);
+    }
+    for (int i = 0; i &amp;lt; n; i++) {
+        t.remove(r.nextInt(2*n));
+        t.checkHeights(t.r);
+    }
+    System.out.println(&quot;done&quot;);
+
+    t.clear();
+    System.out.print(&quot;Running correctness tests...&quot;);
+    n = 100000;
+    SortedSet&amp;lt;Integer&amp;gt; ss = new TreeSet&amp;lt;Integer&amp;gt;();
+    Random rand = new Random();
+    for (int i = 0; i &amp;lt; n; i++) {
+        Integer x = rand.nextInt(2*n);
+        boolean b1 = t.add(x);
+        boolean b2 = ss.add(x);
+        if (b1 != b2) {
+        throw new RuntimeException(&quot;Adding &quot; + x + &quot; gives &quot; + b2                       + &quot; in SortedSet and &quot; + b1 + &quot; in AVL Tree&quot;);
+        }
+    }
+    for (int i = 0; i &amp;lt; n; i++) {
+        Integer x = rand.nextInt(2*n);
+        Integer x1 = t.find(x);
+        Integer x2 = find(ss, x);
+        if (x1 != x2) {
+            throw new RuntimeException(&quot;Searching &quot; + x + &quot; gives &quot; + x2 
+                        + &quot; in SortedSet and &quot; + x1 + &quot; in AVL Tree&quot;);
+        }
+        ss.headSet(x);
+    }
+    for (int i = 0; i &amp;lt; n; i++) {
+        Integer x = rand.nextInt(2*n);
+        boolean b1 = t.remove(x);
+        boolean b2 = ss.remove(x);
+        if (b1 != b2) {
+            throw new RuntimeException(&quot;Error (2): Removing &quot; + x + &quot; gives &quot; + b2 
+                    + &quot; in SortedSet and &quot; + b1 + &quot; in AVL Tree&quot;);
+        }
+    }
+    for (int i = 0; i &amp;lt; n; i++) {
+        Integer x = rand.nextInt(2*n);
+        Integer x1 = t.find(x);
+        Integer x2 = find(ss, x);
+        if (x1 != x2) {
+    throw new RuntimeException(&quot;Error (3): Searching &quot; + x + &quot; gives &quot; + x2 
+                + &quot; in SortedSet and &quot; + x1 + &quot; in AVL Tree&quot;);
+        }
+        ss.headSet(x);
+    }
+    System.out.println(&quot;done&quot;);
+
+}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>http://stackoverflow.com/q/4908906</id>
+        <re:rank scheme="http://stackoverflow.com">10</re:rank>
+        <title type="text">C# Raise an event when a new process starts</title>
+        <category scheme="http://stackoverflow.com/feeds/tags" term="c#"/>
+        <author>
+            <name>user604627</name>
+            <uri>http://stackoverflow.com/users/604627</uri>
+        </author>
+        <link rel="alternate" href="http://stackoverflow.com/questions/4908906/c-sharp-raise-an-event-when-a-new-process-starts" />
+        <published>2011-02-05T18:55:31Z</published>
+        <updated>2013-11-10T01:35:30Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;Hey there, Is there a way to raise event when a new process is started without using the ManagementEventWatcher, and without using the Process.GetProcesses()?
+The problem with ManagementEventWatcher is that the user needs to have high premmisions.
+Thank you!!!&lt;/p&gt;
+
+        </summary>
+    </entry>
+</feed>

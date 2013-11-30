@@ -1,0 +1,29 @@
+<% if @added_feed_urls && @added_feed_urls.length > 0 %>
+<div class="text-success">
+  <p>Added the following feed(s):</p>
+  <div>
+    <ul class="list-unstyled">
+      <% @added_feed_urls.each do |feed_url| %>
+        <li><%= feed_url %>
+      <% end %>
+    </ul>
+  </div>
+</div>
+<% end %>
+
+<% if @failed_feed_urls && @failed_feed_urls.length > 0 %>
+<div class="text-danger">
+  <p>Unable to add the following feed(s):</p>
+  <div>
+    <ul class="list-unstyled">
+      <% @failed_feed_urls.each do |feed_url| %>
+        <li><%= feed_url %>
+      <% end %>
+    </ul>
+  </div>
+</div>
+<% end %>
+
+<div>
+	<p>You can close this window now </p>
+</div>

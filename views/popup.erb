@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OpsTango - devops for cloud computing</title>  
+  <link rel="stylesheet" href="/css/fonts.css" type="text/css" />
+  <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/css/reader_fe.css" type="text/css" media="screen" />
+</head>
+<body>  
+<div class="navbar navbar-default navbar-static-top">  
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">Fringecup</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <h1><%= @page_heading %> </h1>
+  
+  <div class="text-danger">
+  <% @errors.each do |error| %>
+    <p><%= error %></p>
+  <% end %>
+  </div>
+
+  <div class="text-warning">
+  <% @warnings.each do |warning| %>
+    <p><%= warning %></p>
+  <% end %>
+  </div>
+
+  <div class="text-info">
+  <% @infos.each do |info| %>
+    <p><%= info %></p>
+  <% end %>
+  </div>
+
+  <%= yield %>
+</div>
+
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/fringecup.js"></script>
+</body>
+</html>

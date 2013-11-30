@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>TechCrunch</title>
+	
+	<link>http://techcrunch.com</link>
+	<description>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.</description>
+	<lastBuildDate>Sat, 07 Sep 2013 03:14:41 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image><link>http://www.techcrunch.com</link><url>http://www.techcrunch.com/wp-content/themes/techcrunchmu/images/techcrunch_logo.png</url><title>TechCrunch</title></image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+	
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Techcrunch" /><feedburner:info uri="techcrunch" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Techcrunch" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>Personalized E-commerce Startup Wantful Shuts Down</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/ETDFrrqOeHs/</link>
+		<comments>http://techcrunch.com/2013/09/06/personalized-e-commerce-startup-wantful-shuts-down/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 02:44:30 +0000</pubDate>
+		<dc:creator>Sarah Perez</dc:creator>
+				<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[wantful]]></category>
+		<category><![CDATA[DEADPOOL]]></category>
+		<category><![CDATA[shopping]]></category>
+		<category><![CDATA[e-commerce]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873724</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/11/wantful_collection1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wantful_collection" style="float: left; margin: 0 10px 7px 0;" /><a target="_blank" href="http://www.wantful.com/">Wantful</a>, a San Francisco and New York-based gift giving and personalized e-commerce startup founded in 2011 is shutting down after failing to secure follow-on investment as expected. According to founder and CEO <a title="John Poisson" target="_blank" href="http://www.crunchbase.com/person/john-poisson">John Poisson</a>, the company had launched a series of well-received products for web, tablet, print and in-store, but did not achieve the kind of "highly accelerated growth" needed to secure the additional capital.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/11/wantful_collection1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="wantful_collection" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.wantful.com/">Wantful</a>, a San Francisco and New York-based gift giving and personalized e-commerce startup founded in 2011 is shutting down after failing to secure follow-on investment as expected. According to founder and CEO <a title="John Poisson" target="_blank" href="http://www.crunchbase.com/person/john-poisson">John Poisson</a>, the company had launched a series of well-received products for web, tablet, print and in-store, but did not achieve the kind of &#8220;highly accelerated growth&#8221; needed to secure the additional capital.</p>
+<p>That additional investment, <a target="_blank" href="http://allthingsd.com/20130906/gift-giving-service-wantful-shuts-down-suddenly">as it turns out</a>, was from Nordstrom, which had <a target="_blank" href="http://www.wwd.com/retail-news/financial/nordstrom-takes-stake-in-wantful-7013494">taken a stake in the startup</a> earlier this year. A Nordstrom spokesperson claims the retailer was &#8220;just a small minority investor,&#8221; and declined to comment further on Wantful&#8217;s shutdown.</p>
+<p>Wantful had a number of other high-profile investors, including Polaris Venture Partners, Harrison Metal, Greylock, Forerunner, and angels Arjun Sethi, Dave Morin, Matt Mullenweg, and others. In total, it had raised $5.5 million in <a target="_blank" href="http://www.crunchbase.com/company/wantful">Series A funding</a>.</p>
+<p>When the company launched ahead of the holiday shopping season in 2011, it began by offering personalized product recommendations for those you were buying gifts for, after you first provided the site with information about your friend&#8217;s gender, tastes and preferences. <a href="http://techcrunch.com/2012/11/15/wantful-ipad-print-magazine/">Around a year later</a>, the company introduced what it called &#8220;phase two&#8221; of its vision, introducing both an iPad application and print magazine to the lineup.</p>
+<p>At this time, Wantful began moving away from gift-giving and toward more personalized e-commerce. That is, instead of just finding gifts for friends and family, users could find items for themselves as well. But this move also put the startup up against a host of competitors, including other e-commerce services and aggregators like Wanelo, Wish, Fancy, Want, Svpply&#8217;s Want, Polyvore, and more.</p>
+<p>In addition to the iPad app which blended both content and commerce, Wantful also tried a <a href="http://techcrunch.com/2012/11/15/wantful-ipad-print-magazine/">different</a> approach by sending its most active customers their own personalized, print magazine featuring stories about retailers and products.</p>
+<p>Today, the Wantful website informs visitors that the company has suspended operations, but customers can reach out via email for support. (Clicking the &#8220;OK&#8221; button to close the message just feels wrong, though, you know?) Wantful had a number of happy customers, and the service will be missed.</p>
+<p>Still, it seems inevitable there will be some consolidation in the personalized e-commerce space in the months ahead, so stay tuned.</p>
+<p><a href="http://techcrunch.com/2013/09/06/personalized-e-commerce-startup-wantful-shuts-down/wantful/" rel="attachment wp-att-873735"></a></p>
+<p>Below, <a target="_blank" href="http://johnpoisson.com/post/60467938116/some-news-about-wantful">the full blog post</a> from CEO John Poisson, detailing the shutdown:</p>
+<blockquote><p><em>I’m profoundly disappointed to announce that Wantful has suspended operations.</em></p>
+<p><em>We accomplished a great many things in our 18 months in market: an enormously well-received gift offering; widely-lauded experiences for web, tablet, print, and in-store; a network of 600 vendors creating the most exceptional products around, with a robust and streamlined logistics architecture to support them; an assortment and an approach to content that inspired and engaged; and the brilliant and tireless team responsible for it all.</em></p>
+<p><em>What we did not accomplish yet—both by circumstance and execution—is the kind of highly accelerated growth required to secure later-stage venture capital, despite the enduring enthusiasm around what we’ve built.</em></p>
+<p><em>The coming holiday season was shaping up to be pivotal for us, but the loss last week of a planned follow-on investment leaves us little time to secure an alternate source of capital, or to pursue the other opportunities on the table.</em></p>
+<p><em>Our top priority right now is exploring all our options in an orderly fashion—and in taking care of our customers and the team—but if I can be of assistance please reach out to me personally.</em></p>
+<p><em>Whatever the outcome, we’re deeply grateful for the support and encouragement we’ve received from our customers, friends, investors, and partners through these past two years, and honored to have had the opportunity.</em></p></blockquote>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873724/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=ETDFrrqOeHs:oIWu45xbAFk:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=ETDFrrqOeHs:oIWu45xbAFk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=ETDFrrqOeHs:oIWu45xbAFk:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/ETDFrrqOeHs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/personalized-e-commerce-startup-wantful-shuts-down/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2012/11/wantful_collection1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2012/11/wantful_collection1.jpg?w=150" medium="image">
+			<media:title type="html">wantful_collection</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/wantful.png?w=640" medium="image">
+			<media:title type="html">Wantful</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/personalized-e-commerce-startup-wantful-shuts-down/</feedburner:origLink></item>
+		<item>
+		<title>Scholly Helps Students Find Their Ideal Scholarships On Their Smartphones</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/TEKgm2XWOvs/</link>
+		<comments>http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/#comments</comments>
+		<pubDate>Sat, 07 Sep 2013 01:40:03 +0000</pubDate>
+		<dc:creator>Chris Velazco</dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[back to school]]></category>
+		<category><![CDATA[backtoschool13]]></category>
+		<category><![CDATA[bts2013]]></category>
+		<category><![CDATA[scholly]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873687</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-logo1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scholly-logo" style="float: left; margin: 0 10px 7px 0;" />More and more of America's young people are coming to grips with a nasty truth: college can be incredibly, stupidly expensive. Drexel University student (and <a target="_blank" href="http://dormroomfund.com/philly">Philadelphia Dorm Room Fund</a> member) Christopher Gray knows that all too well, so he and partners Bryson Alef and Nick Pirollo developed a mobile app called <a target="_blank" href="http://www.myscholly.com">Scholly</a> to help students easily search for scholarships that apply to them.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-logo1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="scholly-logo" style="float: left; margin: 0 10px 7px 0;" /><p>More and more of America&#8217;s young people are coming to grips with a nasty truth: college can be incredibly, stupidly expensive. Drexel University student (and <a target="_blank" href="http://dormroomfund.com/philly">Philadelphia Dorm Room Fund</a> member) Christopher Gray knows that all too well, so he and partners Bryson Alef and Nick Pirollo developed a mobile app called <a target="_blank" href="http://www.myscholly.com">Scholly</a> to help students easily search for scholarships that apply to them.</p>
+<p>Here&#8217;s how it works: once you&#8217;ve installed the app and fired it up, you&#8217;re prompted to divulge a bit of personal (but not identifiable) information to help find scholarships that you fit the criteria for. It&#8217;s all very basic stuff &#8212; the state you live in, race, GPA, gender, major, and grade are all there, and you&#8217;ve given a choice between need and merit-based scholarships. </p>
+<p>There are also what Gray calls miscellaneous factors to be aware of: if you&#8217;re an athlete, a vegetarian, or Jewish (among other things), there are specific scholarships you should know about. And just in case you need a little help nailing those pesky application essays, Scholly comes with a handful of examples of successful ones to help get the juices flowing. </p>
+<p>Of course, not every scholarship out there is completely on the up-and-up, which is why Gray and his partners manually curate update their database themselves. All of the scholarships in the app were ones that Gray or his acquaintances had themselves received, or culled from school-sanctioned lists and prominent corporate programs (think Google, McDonald&#8217;s, WalMart, and the like). That fastidiousness is a blessing and a curse &#8212; scholarships listed in Scholly are known to be legitimate and worth pursuing, but it does mean that not every single scholarship that fits a student&#8217;s needs is going to appear there.</p>
+
+<a href='http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/scholly-2/' title='scholly-2'></a>
+<a href='http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/scholly-1/' title='scholly-1'></a>
+<a href='http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/scholly-4/' title='scholly-4'></a>
+<a href='http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/scholly-3/' title='scholly-3'></a>
+
+<p>But why focus solely on the smartphone? It seems awfully limiting at first &#8212; after all, there are comprehensive sites likes<a target="_blank" href="http://www.fastweb.com"> Fastweb</a> that are meant solely to help kids find ways to pay for school. According to Gray, it&#8217;s all about accessibility, especially considering many of the students who could use those scholarships the most may not have the means to search for them on anything<em> but</em> a smartphone.</p>
+<p>&#8220;I come from a low-income background,&#8221; Gray said. &#8220;We had smartphones but we didn&#8217;t have a computer.&#8221;</p>
+<p>Gray, who managed to amass a whopping $1.3 million in scholarships to fund his education, isn&#8217;t alone. The Pew Research Center <a target="_blank" href="http://www.pewinternet.org/Reports/2010/Teens-and-Mobile-Phones/Chapter-2/Part-4.aspx">reported in 2010</a> that 21% of teenaged cell phone owners who didn&#8217;t use traditional computers to go online instead used their mobile phones for internet access. Considering how we&#8217;re right in the middle of a golden age of mobile telephony, I wouldn&#8217;t be at all surprised if that number grew over the past few years.</p>
+<p>&#8220;You can email yourself the list if you have to go to the library,&#8221; Gray added. &#8220;You don&#8217;t have to waste time trying to find scholarships &#8212; you can just apply for them.&#8221; That said, the three person team is working on closing the circle and letting would-be scholars apply for those scholarships directly from their phones.</p>
+<p>It&#8217;s hard not to look at Scholly as a labor of love, but Gray is gearing up to turn the app into full-fledged business. The team has worked up a pretty savvy B2B angle here &#8212; iOS and Android users can download the app for $0.99 a pop, but Gray said they&#8217;re talking with banks and organizations to allow them to buy the app in bulk and make it available to students en masse for free. There&#8217;s also talk of potential white-label deals in which partner organizations can throw their own coat of paint over the app for distribution, but Gray wouldn&#8217;t confirm how far along those discussions were. </p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/bts2013"></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873687/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=TEKgm2XWOvs:HJgR83IZtCg:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=TEKgm2XWOvs:HJgR83IZtCg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=TEKgm2XWOvs:HJgR83IZtCg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/TEKgm2XWOvs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-logo1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-logo1.jpg?w=150" medium="image">
+			<media:title type="html">scholly-logo</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ec2ac47d9dad53c2ae4f7882ae9bf6b9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ctvelazco</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-2.jpg?w=87" medium="image">
+			<media:title type="html">scholly-2</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-1.jpg?w=87" medium="image">
+			<media:title type="html">scholly-1</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-4.jpg?w=87" medium="image">
+			<media:title type="html">scholly-4</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/scholly-3.jpg?w=87" medium="image">
+			<media:title type="html">scholly-3</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/backtoschool13c.jpg" medium="image">
+			<media:title type="html">backtoschool13c</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/scholly-helps-students-find-their-ideal-scholarships-on-their-smartphones/</feedburner:origLink></item>
+		<item>
+		<title>With 3X The Active Users From A Year Ago, Skout Launches A Feature For Traveling Vagabonds</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/97XbJbYJX3M/</link>
+		<comments>http://techcrunch.com/2013/09/06/skout/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 22:58:40 +0000</pubDate>
+		<dc:creator>Kim-Mai Cutler</dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Skout]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873156</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/skout-travel-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="skout-travel-2" style="float: left; margin: 0 10px 7px 0;" />Skout, the app for meeting new people that picked up $22 million in a round led by Andreessen Horowitz last year, is adding a feature for travelers who want to scope out people in new cities before they land. The Travel feature is a paid premium feature, where Skout users can spend a little bit of virtual currency to meet users in another city. (Normally, you are only connected to users near you.) It&#8217;s especially useful if you&#8217;re traveling to a place where you don&#8217;t know anyone. It also slides into the company&#8217;s current virtual goods-oriented model, where users pay for points to send wink bombs or feature their profiles. At about 100 Skout points, &#8220;traveling&#8221; to another city should cost around 20 cents or less. The past year has had some major highs and lows for Skout. After a safety scandal tied the app to a few rape cases, the company banned minors from the service until they instituted safeguards that they confidently felt separated adults and children. They set up a Trust and Safety board to regularly review the company&#8217;s policies and haven&#8217;t had a bad incident since then. &#8220;It was a really challenging time for the company,&#8221; said Christian Wiklund, Skout&#8217;s CEO, who has seen the startup through half a decade of existence and many near-death experiences. Because of that initial bad publicity, they&#8217;ve kept their heads low. Even so, the company has grown its number of monthly active users by three-fold (although they don&#8217;t release the raw monthly active user figure). They also facilitated more than 200 million connections between users last year, up fourfold from 54 million connections in 2011. In total, they&#8217;re adding about 1.5 million new users every month and their most active locale is Hong Kong. Initially pegged as something of a dating app, Skout broadened its focus out toward helping people meet one another. But in the meantime, newer apps like IAC-backed Tinder that are specifically focused on dating have gained momentum. Tinder has facilitated more than 100 million matches in less than a year after launch. &#8220;Dating is a subset of what we do, but we think the opportunity is much bigger than dating,&#8221; Wiklund said.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/skout-travel-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="skout-travel-2" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.skout.com/">Skout</a>, the app for meeting new people <a href="http://techcrunch.com/2012/04/03/skout-andreessen-horowitz-22m/">that picked up $22 million in a round led by Andreessen Horowitz</a> last year, is adding a feature for travelers who want to scope out people in new cities before they land. </p>
+<p>The Travel feature is a paid premium feature, where Skout users can spend a little bit of virtual currency to meet users in another city. (Normally, you are only connected to users near you.)</p>
+<p>It&#8217;s especially useful if you&#8217;re traveling to a place where you don&#8217;t know anyone. It also slides into the company&#8217;s current virtual goods-oriented model, where users pay for points to send wink bombs or feature their profiles. At about 100 Skout points, &#8220;traveling&#8221; to another city should cost around 20 cents or less.</p>
+<p>The past year has had some major highs and lows for Skout. </p>
+<p>After a safety scandal <a target="_blank" href="http://bits.blogs.nytimes.com/2012/06/12/after-rapes-involving-children-skout-a-flirting-app-faces-crisis/">tied the app to a few rape cases</a>, the company banned minors from the service until they instituted safeguards that they confidently felt separated adults and children. They set up a Trust and Safety board to regularly review the company&#8217;s policies and haven&#8217;t had a bad incident since then. </p>
+<p>&#8220;It was a really challenging time for the company,&#8221; said Christian Wiklund, Skout&#8217;s CEO, who has seen the startup through half a decade of existence and <a href="http://techcrunch.com/2012/04/03/skout-andreessen-horowitz-22m/">many near-death experiences</a>.</p>
+<p>Because of that initial bad publicity, they&#8217;ve kept their heads low. Even so, the company has grown its number of monthly active users by three-fold (although they don&#8217;t release the raw monthly active user figure). </p>
+<p>They also facilitated more than 200 million connections between users last year, up fourfold from 54 million connections in 2011. In total, they&#8217;re adding about 1.5 million new users every month and their most active locale is Hong Kong.</p>
+<p>Initially pegged as something of a dating app, Skout broadened its focus out toward helping people meet one another. But in the meantime, newer apps like IAC-backed Tinder that are specifically focused on dating have gained momentum. Tinder has facilitated more than 100 million matches in less than a year after launch.</p>
+<p>&#8220;Dating is a subset of what we do, but we think the opportunity is much bigger than dating,&#8221; Wiklund said.</p>
+<p><a href="http://techcrunch.com/2013/09/06/skout/skout-travel-1/" rel="attachment wp-att-873159"></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873156/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=97XbJbYJX3M:noqfZFGswq4:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=97XbJbYJX3M:noqfZFGswq4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=97XbJbYJX3M:noqfZFGswq4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/97XbJbYJX3M" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/skout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/skout-travel-2.jpg?w=84" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/skout-travel-2.jpg?w=84" medium="image">
+			<media:title type="html">skout-travel-2</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c4dad53149dd9c712936e1b27c1c1e9f?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">kimmaicutler</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/skout-travel-1.jpg?w=360" medium="image">
+			<media:title type="html">skout-travel-1</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/skout/</feedburner:origLink></item>
+		<item>
+		<title>A User's Guide To Disrupt SF 2013</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/UQXsR3zDVt0/</link>
+		<comments>http://techcrunch.com/2013/09/06/a-users-guide-to-disrupt-sf-2013/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 22:40:17 +0000</pubDate>
+		<dc:creator>Joey Hinson</dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873158</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/disrupt-cool-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="disrupt cool-1" style="float: left; margin: 0 10px 7px 0;" />Disrupt SF kicks off on Monday, September 9th. TechCrunch has put together an incredible array of offerings from our partners to make your Conference experience even better. As always, Disrupt SF will be a busy and boisterous event so use the following guide to get the most out of the show. 
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/disrupt-cool-1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="disrupt cool-1" style="float: left; margin: 0 10px 7px 0;" /><p>Disrupt SF kicks off on Monday, September 9th. TechCrunch has put together an incredible array of offerings from our partners to make your Conference experience even better. As always, Disrupt SF will be a busy and boisterous event so use the following guide to get the most out of the show. </p>
+<p><strong>Official Email App:</strong> This year, Disrupt Battlefield Alumnus <a target="_blank" href="http://ark.com/">Ark</a> is the Official Email App of the conference. To get in on their inbox experience, you can create an account <a target="_blank" href="http://ark.com/">here</a>.</p>
+<p><strong>Photo Sponsor:</strong> One of the best things post-Disrupt is to thumb through the photos and you can do that thanks for <a target="_blank" href="http://www.domain.com/">DoMEn</a>, our official photo sponsor. A widget with event photos can be found <a href="http://techcrunch.com/events/disrupt-sf-2013/">here</a>.</p>
+<p><strong>Our conference app:</strong> This year we&#8217;re working with <a target="_blank" href="http://www.crowdcompass.com/">Crowd Compass</a> for the event app. This app provides a wide universe of networking capabilities to the Disrupt SF community. Once signed up, you&#8217;ll be able to see who is attending the conference, request to add attendees as contacts, view the agenda, receive updates instantaneously regarding the conference and peruse the list of sponsors. You can <a target="_blank" href="https://crowd.cc/s/WDi">download the app here</a> or if you&#8217;re HTML5-inclined, <a target="_blank" href="https://crowd.cc/disruptsf13">here&#8217;s that version</a>.</p>
+<p><strong>Hardware Alley Sponsor:</strong> A highlight of the conference this year is Hardware Alley, which is sponsored by <a target="_blank" href="http://www.flextronics.com/business_groups/Pages/labix.aspx">Flextronics Lab IX</a>. You can visit their booth adjacent to the Alley.</p>
+<p><strong>Official Browser:</strong> Our friends at <a target="_blank" href="http://www.opera.com/">Opera</a> have developed an iPad browser that they&#8217;ll be showing off at Disrupt. Use it on Monday and Tuesday at the conference to vote for Startup Alley Audience Choice Award, so keep an eye out for volunteers who will be circling to let you vote.</p>
+<p><strong>Conference transportation:</strong> <a target="_blank" href="https://www.uber.com/cities/san-francisco">Uber</a> has offered Disruptors, who are first time users of the app, a $25 off code &#8212; it&#8217;s applied to the first ride. Visit the app or m.uber.com and enter in <strong>SFDisrupt13</strong>.</p>
+<p><strong>Watch Disrupt on the web:</strong> If you&#8217;re an armchair Disruptor, thanks to <a target="_blank" href="http://www.ustream.tv/">Ustream</a> you&#8217;ll be able to view the conference action from the TechCrunch home page or SF Disrupt event page.</p>
+<p><strong>Twitter:</strong> You can follow and comment on the conference in the Twittersphere using the #TCDisrupt hashtag.</p>
+<p><strong>Registration:</strong> <a target="_blank" href="http://www.eventbrite.com">Eventbrite</a> has long been a TechCrunch partner. If you purchased a ticket, you used Eventbrite. We love them and we think you will, too. If you haven&#8217;t purchased a ticket, <a href="http://techcrunch.com/events/disrupt-sf-2013/purchase-tickets/">what are you waiting for</a>?</p>
+<p>Special thanks: We&#8217;d like to extend a special thanks for <a target="_blank" href="www.sequoiacap.com">Sequoia Capital</a> for providing rehearsal space to our Battlefield companies.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873158/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=UQXsR3zDVt0:YJt00q0D5Tc:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=UQXsR3zDVt0:YJt00q0D5Tc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=UQXsR3zDVt0:YJt00q0D5Tc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/UQXsR3zDVt0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/a-users-guide-to-disrupt-sf-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/disrupt-cool-1.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/disrupt-cool-1.jpg?w=150" medium="image">
+			<media:title type="html">disrupt cool-1</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/7c611e7c30be33ee374f8360f1ac0c97?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">joeyhinson</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/a-users-guide-to-disrupt-sf-2013/</feedburner:origLink></item>
+		<item>
+		<title>Co-Ed Supply Whisks Curated Boxes Of ‘College Essentials' To Busy Students</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/eeLCrZrA4gY/</link>
+		<comments>http://techcrunch.com/2013/09/06/co-ed-supply-whisks-curated-boxes-of-college-essentials-to-busy-students/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 21:53:22 +0000</pubDate>
+		<dc:creator>Chris Velazco</dc:creator>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[co-ed supply]]></category>
+		<category><![CDATA[bts13]]></category>
+		<category><![CDATA[bts2013]]></category>
+		<category><![CDATA[back to school]]></category>
+		<category><![CDATA[backtoschool]]></category>
+		<category><![CDATA[backtoschool13]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873569</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/co-ed.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="co-ed" style="float: left; margin: 0 10px 7px 0;" />The days are getting shorter and the air is growing colder, which means that students across the country are trodding back to school once more. For a subscription e-commerce startup called <a target="_blank" href="http://coedsupply.com/">Co-Ed Supply</a>, that means it's time to really get down to business -- their forte is curating and shipping much-needed care packages to the country's college students.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/co-ed.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="co-ed" style="float: left; margin: 0 10px 7px 0;" /><p>The days are getting shorter and the air is growing colder, which means that students across the country are trodding back to school once more. For a subscription e-commerce startup called <a target="_blank" href="http://coedsupply.com/">Co-Ed Supply</a>, that means it&#8217;s time to really get down to business &#8212; their forte is curating and shipping much-needed care packages to the country&#8217;s college students.</p>
+<p>I know, I know, the world now has <em>another</em> subscription service. And it&#8217;s not even the only one out there catering to the needs of our nation&#8217;s in-bound college students &#8212; <a href="http://techcrunch.com/2013/08/09/pijon-sends-college-care-packages-to-keep-students-happy-while-leaving-parents-alone/">Pijon launched in early August</a> and has talked up the strength of its distribution deals with our own Romain Dillet.</p>
+<p>Was the launch of a close competitor worrying to the Co-Ed Supply team? Of course &#8212; especially since Co-Ed actually quietly launched a few weeks earlier. When Co-Ed Supply opened its doors in late July it was more concerned about drumming up interest in person than anything else. The team started with pilot marketing programs at Miami University, Drexel University (go Dragons), and the University of Cincinnati, and planned to line up campus ambassadors at some 15 other schools. Now they&#8217;ve got about 30 ambassadors stationed at schools across the country trying to spread the Co-Ed Supply gospel, and the first batch of boxes were shipped to subscribers yesterday.</p>
+<p>The concept is a basic one &#8212; the student (or their caring parents) can select from either the Classic or Deluxe care packages, which costs roughly $20 and $35 per month respectively. The big difference between the two? You get 7-9 goodies in a Classic box, and between 12-15 in the Deluxe package. Simple enough, right?</p>
+<p>And what&#8217;s inside those boxes? A curated selection of what co-founder and CEO Marissa Hu calls &#8220;college essentials&#8221; &#8212; toiletries, diversions, and of course, food. Contrary to the popular notion that college students subsist on a diet of Doritos and cheap beer, Hu says that healthy snacks top the list of things that students have asked for.</p>
+<p></p>
+<p>Co-Ed Supply&#8217;s big angle is that it shares consumer information with the brands and companies that provide their supplies. Players like Procter &amp; Gamble, Epic Records, and Dollar Shave Club get access to a slew of young consumers they may not have otherwise reached, and more crucially, they net information about how well-liked their products are amongst the members of Gen Y by way of a follow-up survey. From Hu&#8217;s perch, that&#8217;s a valuable stream of data that isn&#8217;t always accounted for when it comes to those sorts of school-time brand interactions.</p>
+<p>&#8220;When school starts, the brands are going around campus and giving out free samples,&#8221; Hu explained. &#8220;That sample sort of walks away with the student, and the brand has no data about that student or how to target them.&#8221;</p>
+<p>If everything goes according to plan (which is always a big if), Co-Ed Supply may be able to turn those consumer insights into cold, hard cash. As you&#8217;d expect, the lion&#8217;s share of Co-Ed Supply&#8217;s revenue comes in the form of those recurring subscription fees, but Hu hopes that the sort of consumer feedback those surveys yield is valuable enough to be worth a chunk of a company&#8217;s market research budget. Hu says that just about half of Co-Ed&#8217;s subscriber base is made up of students ordering boxes for themselves which doesn&#8217;t help either &#8212; it&#8217;s her hope that the people who willingly throw their hat into the ring will also be the ones who are most open about sharing their product perspectives.</p>
+<p>Now that those first shipments are safely out the door, Hu feels even more vindicated that the team is on the right track. Even with a new competitor to worry about, the plan is to stick with what has been working: building out that personal presence on college campuses through move-in day, homecoming, and beyond. The world may not be big enough for two like-minded startups, and I suspect we&#8217;ll soon see which of these companies really has the right stuff.</p>
+<p><a target="_blank" href="http://www.techcrunch.com/tag/bts2013"></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873569/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=eeLCrZrA4gY:TLGRzQTWRps:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=eeLCrZrA4gY:TLGRzQTWRps:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=eeLCrZrA4gY:TLGRzQTWRps:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/eeLCrZrA4gY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/co-ed-supply-whisks-curated-boxes-of-college-essentials-to-busy-students/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/co-ed.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/co-ed.png?w=150" medium="image">
+			<media:title type="html">co-ed</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ec2ac47d9dad53c2ae4f7882ae9bf6b9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ctvelazco</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/coedsupply.png" medium="image">
+			<media:title type="html">coedsupply</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/backtoschool13c.jpg" medium="image">
+			<media:title type="html">backtoschool13c</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/co-ed-supply-whisks-curated-boxes-of-college-essentials-to-busy-students/</feedburner:origLink></item>
+		<item>
+		<title>Ask A VC: Trinity Ventures' Patricia Nakache On The Secret To Zulily's Success And More</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/LKaPeGdSGGk/</link>
+		<comments>http://techcrunch.com/2013/09/06/ask-a-vc-trinity-ventures-patricia-nakache-on-the-secret-to-zulilys-success-and-more/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 21:30:05 +0000</pubDate>
+		<dc:creator>Leena Rao</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873458</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/patricia_nakache_7446-1_small1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="patricia_nakache_7446-1_small" style="float: left; margin: 0 10px 7px 0;" />It's time for another episode of Ask A VC, where we grill VCs in the TCTV studio! This week, Trinity Ventures’ Patricia Nakache joined us to chat about e-commerce, marketplaces and much more.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/patricia_nakache_7446-1_small1.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="patricia_nakache_7446-1_small" style="float: left; margin: 0 10px 7px 0;" /><script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&#038;width=640&#038;height=450&#038;colorPallet=%230A9600&#038;hasCompanion=false&#038;relatedMode=2&#038;videoControlDisplayColor=%23000000&#038;playList=517921476&#038;shuffle=0&#038;videoGroupID=133503&#038;autoStart=false&#038;playerActions=16407"></script>
+<p>It&#8217;s time for another episode of Ask A VC, where we grill VCs in the TCTV studio! This week, Trinity Ventures’ Patricia Nakache joined us to chat about e-commerce, marketplaces and much more.</p>
+<p>Nakache, who via Trinity has backed a number of e-commerce companies such as Beachmint, ThredUp and others, talked about the secret to Zulily&#8217;s (a Trinity-backed company) success. At its last funding round, the flash sales site for moms was valued at <a href="http://techcrunch.com/2012/11/15/flash-sales-site-for-moms-zulily-raises-85m-from-andreessen-horowitz-valued-at-1b/">$1 billion.</a></p>
+<p>We also chatted about the biggest change Nakache has observed in the VC world over the past 14 years. Check out the video above for more.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873458/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LKaPeGdSGGk:1eo3pfwBzII:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LKaPeGdSGGk:1eo3pfwBzII:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LKaPeGdSGGk:1eo3pfwBzII:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/LKaPeGdSGGk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/ask-a-vc-trinity-ventures-patricia-nakache-on-the-secret-to-zulilys-success-and-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/patricia_nakache_7446-1_small1.jpg?w=126" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/patricia_nakache_7446-1_small1.jpg?w=126" medium="image">
+			<media:title type="html">patricia_nakache_7446-1_small</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/bbce6c3c48f821c81c019600a5589ae6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">leena</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/ask-a-vc-trinity-ventures-patricia-nakache-on-the-secret-to-zulilys-success-and-more/</feedburner:origLink></item>
+		<item>
+		<title>Ideal Media Takes A More Hands-On Approach To Combining Recommended Content With Ads</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/MVF-gpKPL6E/</link>
+		<comments>http://techcrunch.com/2013/09/06/ideal-media-takes-a-more-hands-on-approach-to-combining-recommended-content-with-ads/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 21:23:32 +0000</pubDate>
+		<dc:creator>Anthony Ha</dc:creator>
+				<category><![CDATA[Advertising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[content recommendation]]></category>
+		<category><![CDATA[Ideal Media]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873603</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/ideal-media-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ideal media logo" style="float: left; margin: 0 10px 7px 0;" />Here's another startup trying to turn content recommendation into a business: <a target="_blank" href="http://www.idealmedia.com">Ideal Media</a>.
+
+Similar in concept to <a target="_blank" href="http://www.outbrain.com">Outbrain</a> and <a target="_blank" href="http://www.taboola.com">Taboola</a>, Ideal Media works with publishers to add a recommended content unit to their pages. Then it makes money by including sponsored content in the mix. You can see an example in <a target="_blank" href="http://onebigphoto.com/light-trails-of-speed-tokyo/">the recommended content under this photo</a> on the OneBigPhoto site (there's a screenshot below). Director of Sales Matthew Mosk told me via email that Ideal Media is building customized, native integrations, so the look will change from site to site.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/ideal-media-logo.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ideal media logo" style="float: left; margin: 0 10px 7px 0;" /><p>Here&#8217;s another startup trying to turn content recommendation into a business: <a target="_blank" href="http://www.idealmedia.com">Ideal Media</a>.</p>
+<p>Similar in concept to <a target="_blank" href="http://www.outbrain.com">Outbrain</a> and <a target="_blank" href="http://www.taboola.com">Taboola</a>, Ideal Media works with publishers to add a recommended content unit to their pages. Then it makes money by including sponsored content in the mix. You can see an example in <a target="_blank" href="http://onebigphoto.com/light-trails-of-speed-tokyo/">the recommended content under this photo</a> on the OneBigPhoto site (there&#8217;s a screenshot below). Director of Sales Matthew Mosk told me via email that Ideal Media is building customized, native integrations, so the look will change from site to site.</p>
+<p>Mosk added that Ideal Media&#8217;s units won&#8217;t just work on the web but also on mobile, social media, and tablets, and that it has &#8220;a highly targeted channel strategy (automobiles, sports, tech, health, women’s, etc). &#8220;But the real differentiator, or at least the one he emphasized, is the fact that the company isn&#8217;t just promoting content but helping customers create it, too — the Ideal Media team will offer free content marketing services to its advertisers.</p>
+<p><a href="http://techcrunch.com/2013/09/06/ideal-media-takes-a-more-hands-on-approach-to-combining-recommended-content-with-ads/ideal-media-screenshot/" rel="attachment wp-att-873621"></a></p>
+<p>Why is that important? Well, Mosk said his company will be able to create content that&#8217;s actually interesting and relevant, rather than just being a straightforward ad:</p>
+<blockquote><p>Many brands are just realizing that web users are ignoring display ads and becoming aware of the value of a more subtle and nuanced approach, Content Marketing. Also, web users are becoming so savvy that they become super frustrated when they click on a link that they think is a story, but ultimately leads them to a blatant ad (which happens on some Content Discovery Networks). Ideal Media is bridging that gap.</p></blockquote>
+<p>(Unfortunately, Mosk wasn&#8217;t able to provide me with a sample of Ideal Media&#8217;s content-creation skills, so I can&#8217;t firsthand whether the content in question is actually better than most ads.)</p>
+<p>And yes, Mosk said Ideal Media plans to continue offering content creation for free, though it may start charging for more premium content marketing services.</p>
+<p>Just to compare, I also asked Outbrain if it provides any content marketing services of its own. A spokesperson told me that the company doesn&#8217;t write any content, but it did <a target="_blank" href="http://www.outbrain.com/blog/2012/12/outbrain-acquires-scribit.html">acquire Scribit</a>, which allows customers to search for content from publications like the Huffington Post.</p>
+<p>Getting back to Ideal Media, the company was founded by Eder Holguin, whose past roles include serving as the chief revenue officer at the Virtual Fan Network. It&#8217;s funded by Holguin, along with friends and family.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873603/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MVF-gpKPL6E:H6PPZzVRHkI:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MVF-gpKPL6E:H6PPZzVRHkI:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MVF-gpKPL6E:H6PPZzVRHkI:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/MVF-gpKPL6E" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/ideal-media-takes-a-more-hands-on-approach-to-combining-recommended-content-with-ads/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/ideal-media-logo.jpg?w=86" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/ideal-media-logo.jpg?w=86" medium="image">
+			<media:title type="html">ideal media logo</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/72b358648f4587cc2a11895c32b8e979?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">anthha</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/ideal-media-screenshot.jpg" medium="image">
+			<media:title type="html">ideal media screenshot</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/ideal-media-takes-a-more-hands-on-approach-to-combining-recommended-content-with-ads/</feedburner:origLink></item>
+		<item>
+		<title>Keaton Row, An E-Commerce Site That Pairs Busy Ladies With Personal Shoppers, Raises $1.6 Million In Seed Funding</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/G83tXxWHen4/</link>
+		<comments>http://techcrunch.com/2013/09/06/keaton-row-an-e-commerce-site-that-pairs-busy-ladies-with-personal-shoppers-raises-1-6-million-in-seed-funding/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 20:56:48 +0000</pubDate>
+		<dc:creator>Eliza Brooke</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[personalization]]></category>
+		<category><![CDATA[keaton row]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[Fashion]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=872993</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/nicole.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nicole" style="float: left; margin: 0 10px 7px 0;" />The personal shopping site Keaton Row has raised $1.6 million in a second round of seed funding led by Menlo Ventures, an early investor in Fab and Warby Parker, with participation from Rho Ventures and Grape Arbor Ventures. The site, which launched in 2012, previously raised a seed round of $1 million led by Rho Ventures. Keaton Row is an e-commerce site that puts the &#8220;person&#8221; in personalization. After a quick style quiz to understand taste, needs, and body type, the site matches customers with a personal shopper, who draws from it&#8217;s partner retail sites to make suggestions and create lookbooks for their clients. The stylists, who are paid by Keaton Row on commission, apply to the site at an acceptance rate of about 60-70%. On the consumer side, the site appeals to women who have money but don&#8217;t want to shop for themselves, or don&#8217;t know how to navigate the massive world of online retail. The personal shoppers, meanwhile, are fashion-savvy people who want to use their taste make a bit of cash. And although diametrically opposed sartorially, both groups are easily scalable. &#8220;The Keaton Row customer is a professionally oriented woman. She has money to spend, but doesn&#8217;t have time. She isn&#8217;t an active reader of Vogue or The Coveteur, so she wants it to be curated and convenient. There&#8217;s a higher level of personalization, and authentic personalization,&#8221; co-founder and co-CEO Cheryl Han said. Keaton Row is partnered with online retailers like ShopBop and Les Nouvelles, meaning shoppers have access to over 10,000 products. With this latest round of funding, Keaton Row plans to build out its user platforms for stylists and customers, grow its retail partnerships, and expand its national presence, which for stylists is currently focused on metropolitan areas like New York and LA. While other e-commerce sites rely on algorithm-based style quizzes and click-throughs for personalization, Keaton Row is one of a few retail sites leveraging an abundance of human fashionistas who can provide the same advice with better customer service. On the men&#8217;s side, Brandid has developed a similar model. Han and Elenor Mak, her co-founder and CEO, said that many of their customers see their stylists as friends and turn to them for advice on other areas of their life, like shopping for their home, child, or boyfriend. That kind of trusting, personal relationship can be a powerful motivation to keep customers coming back.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/nicole.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="nicole" style="float: left; margin: 0 10px 7px 0;" /><p>The personal shopping site <a target="_blank" href="https://www.keatonrow.com/">Keaton Row</a> has raised $1.6 million in a second round of seed funding led by <a target="_blank" href="http://www.crunchbase.com/financial-organization/menlo-ventures">Menlo Ventures</a>, an early investor in Fab and Warby Parker, with participation from <a target="_blank" href="http://www.crunchbase.com/financial-organization/rho-capital-ventures">Rho Ventures</a> and <a target="_blank" href="http://www.crunchbase.com/financial-organization/grape-arbor-vcc">Grape Arbor Ventures</a>. The site, which launched in 2012, previously raised a seed round of $1 million led by Rho Ventures.</p>
+<p>Keaton Row is an e-commerce site that puts the &#8220;person&#8221; in personalization. After a quick style quiz to understand taste, needs, and body type, the site matches customers with a personal shopper, who draws from it&#8217;s partner retail sites to make suggestions and create lookbooks for their clients. The stylists, who are paid by Keaton Row on commission, apply to the site at an acceptance rate of about 60-70%.</p>
+<p>On the consumer side, the site appeals to women who have money but don&#8217;t want to shop for themselves, or don&#8217;t know how to navigate the massive world of online retail. The personal shoppers, meanwhile, are fashion-savvy people who want to use their taste make a bit of cash. And although diametrically opposed sartorially, both groups are easily scalable.</p>
+<p>&#8220;The Keaton Row customer is a professionally oriented woman. She has money to spend, but doesn&#8217;t have time. She isn&#8217;t an active reader of Vogue or The Coveteur, so she wants it to be curated and convenient. There&#8217;s a higher level of personalization, and authentic personalization,&#8221; co-founder and co-CEO Cheryl Han said.</p>
+<p>Keaton Row is partnered with online retailers like <a target="_blank" href="http://www.shopbop.com/">ShopBop</a> and <a target="_blank" href="http://www.shoplesnouvelles.com/">Les Nouvelles</a>, meaning shoppers have access to over 10,000 products.</p>
+<p>With this latest round of funding, Keaton Row plans to build out its user platforms for stylists and customers, grow its retail partnerships, and expand its national presence, which for stylists is currently focused on metropolitan areas like New York and LA.</p>
+<p>While other e-commerce sites rely on algorithm-based style quizzes and click-throughs for personalization, Keaton Row is one of a few retail sites leveraging an abundance of human fashionistas who can provide the same advice with better customer service. On the men&#8217;s side, <a target="_blank" href="https://www.getbrandid.com">Brandid</a> has developed a similar model. Han and Elenor Mak, her co-founder and CEO, said that many of their customers see their stylists as friends and turn to them for advice on other areas of their life, like shopping for their home, child, or boyfriend.</p>
+<p></p>
+<p>That kind of trusting, personal relationship can be a powerful motivation to keep customers coming back. The shoppers are often most useful when the customer is on a deadline to find a specific item for an event, Han and Mak added.</p>
+<p>The site&#8217;s network of personal shoppers is also an important route to bringing in new customers, as she has an incentive to grow her own client roster.</p>
+<p>The idea is that the personal shoppers can turn Keaton Row into a part-time business and potentially more, depending on how aggressive they are. The site works with them on analytics to understand their customers better and set goals. They are essentially like digital age Avon saleswomen, so it&#8217;s no coincidence that Mak worked at Avon for a few years managing 10,000 of its New York sales reps.</p>
+<p>Han and Mak said Keaton Row stylists listing that role on their LinkedIn page could be a real launching pad for a career as a stylist, which is a nebulous path. To that end, Keaton Row is building out customer reviews and portfolios to allow shoppers to build a name for themselves.</p>
+<p>&#8220;[The shopper] may be in editorial, working at a magazine, so it&#8217;s a way to make a side income. For people who would love to get into fashion, this is a way to establish credibility.&#8221;</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/872993/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=G83tXxWHen4:1qcMwpKYYgk:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=G83tXxWHen4:1qcMwpKYYgk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=G83tXxWHen4:1qcMwpKYYgk:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/G83tXxWHen4" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/keaton-row-an-e-commerce-site-that-pairs-busy-ladies-with-personal-shoppers-raises-1-6-million-in-seed-funding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/nicole.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/nicole.png?w=150" medium="image">
+			<media:title type="html">nicole</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/b4b585040cb59fd07c5d7488ae8e2c6a?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">elizabrooke</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/customeronboarding3-copy-3.png?w=640" medium="image">
+			<media:title type="html">customeronboarding3 copy 3</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/keaton-row-an-e-commerce-site-that-pairs-busy-ladies-with-personal-shoppers-raises-1-6-million-in-seed-funding/</feedburner:origLink></item>
+		<item>
+		<title>CrunchBase Has A New Mobile Site, Is Bigger Than Ever</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/Q1xcgbsBDC0/</link>
+		<comments>http://techcrunch.com/2013/09/06/crunchbase-has-a-new-mobile-site-is-bigger-than-ever/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 20:19:25 +0000</pubDate>
+		<dc:creator>Eric Eldon</dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873541</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_01a_homepage_1136.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="CBase_01a_HomePage_1136" style="float: left; margin: 0 10px 7px 0;" />We have some updates today from the other side of the TechCrunch office. The growing team at CrunchBase, our free database of tech companies, has a new mobile site available for your browsing pleasure. The site basically didn&#8217;t work in mobile before, but the new one is great. Check it out at m.crunchbase.com. The homepage is mainly a search box for that one hot startup you&#8217;re trying to look at, with links for trending companies, news and funding below. The top nav bar reveals a few more options like &#8220;newly funded.&#8221; When you click on a company, you&#8217;ll see a chronological list of all the main info you&#8217;d want &#8212; general info, people, acquisitions, investments, funding and competitors. If there&#8217;s a lot of info in any segment, like a long list of executives, just swipe to scroll through. Here&#8217;s the kicker. This mobile site is temporary. Our growing team of engineers, designers, community managers and analysts (which we need to hire more of &#8212;  info here if you&#8217;re interested) has a big overhaul coming next year, and it&#8217;ll include a fully responsive site for any mobile device. Stay tuned for that. Since this is iterative news, I also asked the CrunchBase team for some non-vanity stats about how they&#8217;re doing so far. Turns out August was its biggest traffic month ever, according to president Matt Kaufman, with 1.7 million monthly uniques, 2.5 million visits, and 6.6 million pageviews. Traffic has been growing well ever since the team got going at the beginning of the year, and with it hitting records this summer, we think it&#8217;ll be huge down the road.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_01a_homepage_1136.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="CBase_01a_HomePage_1136" style="float: left; margin: 0 10px 7px 0;" /><p>We have some updates today from the other side of the TechCrunch office. The growing team at <a target="_blank" href="http://www.crunchbase.com/">CrunchBase</a>, our free database of tech companies, has a new mobile site available for your browsing pleasure. The site basically didn&#8217;t work in mobile before, but the new one is great. Check it out at <a target="_blank" href="http://m.crunchbase.com/">m.crunchbase.com</a>.</p>
+<p>The homepage is mainly a search box for that one hot startup you&#8217;re trying to look at, with links for trending companies, news and funding below. The top nav bar reveals a few more options like &#8220;newly funded.&#8221; When you click on a company, you&#8217;ll see a chronological list of all the main info you&#8217;d want &#8212; general info, people, acquisitions, investments, funding and competitors. If there&#8217;s a lot of info in any segment, like a long list of executives, just swipe to scroll through.</p>
+<p>Here&#8217;s the kicker. This mobile site is temporary. Our growing team of engineers, designers, community managers and analysts (which we need to hire more of &#8212;  <a target="_blank" href="http://info.crunchbase.com/jobs/">info here</a> if you&#8217;re interested) has a big overhaul coming next year, and it&#8217;ll include a fully responsive site for any mobile device. Stay tuned for that.</p>
+<p>Since this is iterative news, I also asked the CrunchBase team for some non-vanity stats about how they&#8217;re doing so far. Turns out August was its biggest traffic month ever, according to president Matt Kaufman, with 1.7 million monthly uniques, 2.5 million visits, and 6.6 million pageviews. Traffic has been growing well ever since the team got going at the beginning of the year, and with it hitting records this summer, we think it&#8217;ll be huge down the road.</p>
+<p style="text-align:center;"></p>
+<p style="text-align:center;"></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873541/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Q1xcgbsBDC0:dHt6rCH10sE:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=Q1xcgbsBDC0:dHt6rCH10sE:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=Q1xcgbsBDC0:dHt6rCH10sE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/Q1xcgbsBDC0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/crunchbase-has-a-new-mobile-site-is-bigger-than-ever/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_01a_homepage_1136.jpg?w=84" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_01a_homepage_1136.jpg?w=84" medium="image">
+			<media:title type="html">CBase_01a_HomePage_1136</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/cba9774f944490f50a6ca7115cd043f9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ericeldon</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_03a_profile_1136.jpg?w=360" medium="image">
+			<media:title type="html">CBase_03a_Profile_1136</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/cbase_03c_profile_1136.jpg?w=360" medium="image">
+			<media:title type="html">CBase_03c_Profile_1136</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/crunchbase-has-a-new-mobile-site-is-bigger-than-ever/</feedburner:origLink></item>
+		<item>
+		<title>Gillmor Gang Live   09.06.13 (TCTV)</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/6bWySenDD3k/</link>
+		<comments>http://techcrunch.com/2013/09/06/gillmor-gang-live-09-06-13-tctv/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 20:06:45 +0000</pubDate>
+		<dc:creator>Steve Gillmor</dc:creator>
+				<category><![CDATA[Remove From TC River]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873579</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" /><strong>Gillmor Gang</strong> - Robert Scoble, Keith Teare, John Taschek, Dan Farber, and Steve Gillmor.  <strong>Live recording session today has concluded. </strong>]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Gillmor Gang test pattern" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Gillmor Gang</strong> &#8211; Robert Scoble, Keith Teare, John Taschek, Dan Farber, and Steve Gillmor.  <strong>Live recording session today has concluded. </strong></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873579/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=6bWySenDD3k:aGYZWfjt6MQ:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=6bWySenDD3k:aGYZWfjt6MQ:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6bWySenDD3k:aGYZWfjt6MQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/6bWySenDD3k" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/gillmor-gang-live-09-06-13-tctv/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2011/08/gillmore-gang-test-pattern.jpg?w=150" medium="image">
+			<media:title type="html">Gillmor Gang test pattern</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/gillmor-gang-live-09-06-13-tctv/</feedburner:origLink></item>
+		<item>
+		<title>Dots Implements Its First-Ever, In-Game, $ponsor$hip</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/MsSZIrwm6gY/</link>
+		<comments>http://techcrunch.com/2013/09/06/dots-implements-its-first-ever-in-game-ponsorhip/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 19:23:04 +0000</pubDate>
+		<dc:creator>Jordan Crook</dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[dots]]></category>
+		<category><![CDATA[BetaWorks]]></category>
+		<category><![CDATA[Paul Murphy]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873218</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/v1-9-5-gravity-falling.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="v1.9 - 5 - gravity falling" style="float: left; margin: 0 10px 7px 0;" />betaworks-backed <a href="http://techcrunch.com/tag/dots/">Dots</a> has today announced its very first sponsorship/native advertising deal with GE. The terms of the deal were not disclosed. 
+
+As part of the sponsorship, Dots is releasing a special update with a new version of gameplay called Gravity Mode. ]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/v1-9-5-gravity-falling.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="v1.9 - 5 - gravity falling" style="float: left; margin: 0 10px 7px 0;" /><p>betaworks-backed <a href="http://techcrunch.com/tag/dots/">Dots</a> has today announced its very first sponsorship/native advertising deal with GE. The terms of the deal were not disclosed.</p>
+<p>As part of the sponsorship, Dots is releasing a special update with a new version of gameplay called Gravity Mode.</p>
+<p>As it turns out, GE has created an entire week&#8217;s worth of science-related &#8220;holidays&#8221; (kind of like <a target="_blank" href="http://dizzyfeetfoundation.org/national-dance-day">National Dance Day</a>, or any other branded holiday). They&#8217;re calling it Brilliant Week, and the Dots sponsorship is meant to help promote Gravity Day, on September 8. (FYI, they chose 9/8 because 9.8m/s is the force of gravitational acceleration.)</p>
+<p>According to co-founder Paul Murphy, Dots has passed up about half a dozen sponsorship opportunities before this one.</p>
+<p>&#8220;We&#8217;ve politely (and graciously) filtered those out to narrow it down to brands like GE that enabled us to build functionality that&#8217;s accretive to Dots for players, said Murphy. &#8220;The player experience is and will always remain our focus.&#8221;</p>
+<p>Murphy claims that there are between 25 million and 30 million Dots games played each day. The game is also available across multiple platforms including Android, iPhone, and iPad.</p>
+<p>&#8220;We think that&#8217;s a pretty special opportunity for the right brand, assuming it aligns with Dots,&#8221; said Murphy. &#8220;For us, as long as we can create something with brands like GE that adds to the experience for our players, we think it&#8217;s important to experiment and learn as we grow.&#8221;</p>
+<p>But is it too early? Dots was only launched in May, a few months ago, and has yet to add any sort of native advertising to the platform. The game continues to iterate over time, with things like Zen mode and multiplayer, but this is the first time that a brand is behind it. Will this scare off power users with an aversion to advertising or will they even notice?</p>
+<p>More importantly, how does Gravity Mode Shuffler work?</p>
+<p>Well, it&#8217;s a bit like Zen Mode in that there&#8217;s no time limits; you&#8217;re simply trying to connect as many dots into squares as possible.</p>
+<p>However, if you get stuck, you have the option to press the Gravity Mode Shuffler button, which automatically shuffles and removes certain dots based on gravity <em>and</em> the angle of the phone. Clever, right?</p>
+<p>As you progress, you level up which unlocks level cards. Each of these level cards wins you Dots which are stored permanently in your Dots bank, even after Gravity Mode is long gone. Gravity Mode Shuffler will be available all week.</p>
+<p>This is hardly the first time we&#8217;ve seen mobile games partner with brands to deliver sponsored products. Remember Angry Birds Rio, Rovio&#8217;s first foray into animated content? The game matched up with a movie from 20th Century Fox, which inevitably opened up Rovio to a huge Angry Birds franchise, including animated shorts and merchandise.</p>
+<p>Hasbro also took <a href="http://techcrunch.com/2013/07/08/hasbro-backflip/">a majority stake in BackFlip studios</a> to create Hasbro branded games, and Kabam has a strategic partnership with Warner Bros to create games around various films, like Lord of the Rings and Fast and the Furious.</p>
+<p>However, unlike Rovio and Kabam, Dots isn&#8217;t necessarily pumping GE-branded content into the game. Instead, GE funded the development of a new form of gameplay with nary a mention of the brand itself within the game. It&#8217;s an interesting take on gaming sponsorships, but it&#8217;s still questionable how effective this is for the brand itself.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873218/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MsSZIrwm6gY:8I9K_xDOpQU:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MsSZIrwm6gY:8I9K_xDOpQU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MsSZIrwm6gY:8I9K_xDOpQU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/MsSZIrwm6gY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/dots-implements-its-first-ever-in-game-ponsorhip/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/v1-9-5-gravity-falling.png?w=84" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/v1-9-5-gravity-falling.png?w=84" medium="image">
+			<media:title type="html">v1.9 - 5 - gravity falling</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/123a4c264172746af556b0c74c72b308?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">biggsismyboss</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/dots-implements-its-first-ever-in-game-ponsorhip/</feedburner:origLink></item>
+		<item>
+		<title>This Week On The TC Gadgets Podcast: Disrupt &lt;3′s Hardware, Nokia Goes To The Mall, And Galaxy Gear</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/slK26NQI7Mg/</link>
+		<comments>http://techcrunch.com/2013/09/06/this-week-on-the-tc-gadgets-podcast-disrupt-3s-hardware-nokia-goes-to-the-mall-and-galaxy-gear/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 19:00:55 +0000</pubDate>
+		<dc:creator>Darrell Etherington</dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[gadgets podcast]]></category>
+		<category><![CDATA[galaxy gear]]></category>
+		<category><![CDATA[galaxy note]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Nokia]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873548</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/gadgets130906.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gadgets130906" style="float: left; margin: 0 10px 7px 0;" />TechCrunch Disrupt starts on Monday, so that's on all our minds for this week's TC Gadgets Podcast. Hardware Alley showcases gadget startups on September 11, and if you're still looking for hardware fixes there have been plenty this week, including Microsoft acquiring Nokia's devices wing, and Samsung's new Galaxy Gear smartwatch.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/gadgets130906.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gadgets130906" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/events/disrupt-sf-2013/">TechCrunch Disrupt</a> starts on Monday, so that&#8217;s on all our minds for this week&#8217;s TC Gadgets Podcast. Hardware Alley showcases gadget startups on September 11, and if you&#8217;re still looking for hardware fixes there have been plenty this week, including <a title="Why Microsoft Had No Choice But To Purchase Nokia’s Handset Business" href="http://techcrunch.com/2013/09/03/why-microsoft-had-no-choice-but-to-purchase-nokias-handset-business/">Microsoft acquiring Nokia&#8217;s devices wing</a>, and<a title="Samsung’s Galaxy Gear Is Here And Better Than Expected" href="http://techcrunch.com/2013/09/04/hands-on-the-galaxy-gear-is-here-and-better-than-expected-but-is-that-enough/"> Samsung&#8217;s new Galaxy Gear smartwatch</a>.</p>
+<p>We talk about all these things, as well as the Galaxy Note 3 smartphone from Samsung and everyone&#8217;s suitably impressed with California, including <a target="_blank" href="https://twitter.com/mjburnsy">Matt Burns</a>, <a target="_blank" href="https://twitter.com/jordanrcrook">Jordan Crook</a>, <a target="_blank" href="http://twitter.com/chrisvelazco">Chris Velazco</a>, <a target="_blank" href="http://twitter.com/romaindillet">Romain Dillet</a> and myself, <a target="_blank" href="http://twitter.com/drizzled">Darrell Etherington</a>.</p>
+<iframe style="border: none;" src="http://html5-player.libsyn.com/embed/episode/id/2462085/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" allowfullscreen="" scrolling="no"></iframe>
+<p>We invite you to enjoy our <a href="http://techcrunch.com/tag/gadgets-podcast/">weekly podcasts</a> every Friday at 3pm Eastern and noon Pacific. And feel free to check out the TechCrunch Gadgets Flipboard magazine right <a target="_blank" href="https://flipboard.com/section/techcrunch-gadgets-weekly-b37wAK">here</a>, as well as the <a href="http://techcrunch.com/tag/android-podcast/">TechCrunch Droidcast</a>.</p>
+<p><a target="_blank" href="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3">Click here to download an MP3 of this show.</a><br />
+You can subscribe to the <a target="_blank" href="http://feeds.feedburner.com/TCGadgetsPodcast">show via RSS</a>.<br />
+<a target="_blank" href="https://itunes.apple.com/us/podcast/techcrunch-gadgets-podcast/id626546350?mt=2">Subscribe in iTunes</a></p>
+<p>Intro Music by <a target="_blank" href="http://www.reverbnation.com/rickbarr">Rick Barr</a>.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873548/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=slK26NQI7Mg:SoLtm3JnJYU:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=slK26NQI7Mg:SoLtm3JnJYU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=slK26NQI7Mg:SoLtm3JnJYU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/slK26NQI7Mg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/this-week-on-the-tc-gadgets-podcast-disrupt-3s-hardware-nokia-goes-to-the-mall-and-galaxy-gear/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/techcrunchgadgets/gadgets-podcast.mp3" length="37560864" type="audio/mpeg" />
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/gadgets130906.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/gadgets130906.jpg?w=150" medium="image">
+			<media:title type="html">gadgets130906</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">etherin</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/this-week-on-the-tc-gadgets-podcast-disrupt-3s-hardware-nokia-goes-to-the-mall-and-galaxy-gear/</feedburner:origLink></item>
+		<item>
+		<title>Cory Booker Is Stepping Down From Waywire's Board As The Company Seeks A New CEO</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/9f2XzDLTQZA/</link>
+		<comments>http://techcrunch.com/2013/09/06/cory-booker-leaves-waywire/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 18:55:43 +0000</pubDate>
+		<dc:creator>Ryan Lawler</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[waywire]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873533</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/03/cory_booker_twitter.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Cory_Booker_Twitter" style="float: left; margin: 0 10px 7px 0;" />Newark mayor and Senate candidate Cory Booker is announcing today that he will be stepping down from the board of the company that he founded last year, according to a source familiar with the campaign's plans. The departure leaves just one of Waywire's three co-founders at the company, which is still in private beta and in search of a new CEO.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/03/cory_booker_twitter.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Cory_Booker_Twitter" style="float: left; margin: 0 10px 7px 0;" /><p>Newark mayor and Senate candidate Cory Booker is announcing today that he will be stepping down from the board of the company that he founded last year, according to a source familiar with the campaign&#8217;s plans. The departure leaves just one of Waywire&#8217;s three co-founders at the company, which is still in private beta and in search of a new CEO.</p>
+<p>The decision to step down from the Waywire board was widely expected, as some political opponents <a target="_blank" href="http://tpmmuckraker.talkingpointsmemo.com/2013/08/cory_booker_waywire.php">questioned Booker&#8217;s continued involvement in the startup</a>. Booker had previously said he would step down from Waywire&#8217;s board if elected, but this accelerates those plans as he moves ahead with his political campaign. Along with his departure from the board, Booker will be donating his shares in the company to charity.</p>
+<p>Booker&#8217;s decision comes at a difficult time for Waywire, which has yet to publicly launch its product. The announcement comes on the heels of Waywire co-founder and CEO <a href="http://techcrunch.com/2013/08/16/waywire-ceo-leaves/">Nathan Richardson leaving the company</a> last month. Richardson, who had previously held executive positions at Content Next Media and Gilt Groupe, joined TechCrunch parent company AOL, where he will be <a href="http://techcrunch.com/2013/08/30/nate-richardson-aol-live/">leading the soon-to-be-launched AOL Live video channel.</a></p>
+<p>According to a Waywire spokesperson, the company is very close to bringing on a new CEO who will likely be announced in the coming weeks. That&#8217;s good news, especially as the company is in the midst of a pivot from content creation to a platform for video curation. In the meantime, co-founder Sarah Ross has been running day-to-day operations.</p>
+<p>Other good news for Waywire: the company has secured an extension of its seed round from four new investors, although it&#8217;s not yet ready to announce how much was raised or who participated. (Those details will probably come out at the same time that it announces the new CEO.) The company had originally raised $1.75 million from First Round Capital, Eric Schmidt’s Innovation Endeavors, Lady Gaga&#8217;s manager Troy Carter, and other angels.</p>
+<p>All that said, Waywire has its work cut out for it, as it&#8217;s still in private beta 18 months after Booker, Richardson, and Ross founded the company together. That&#8217;s partly the result of a change in strategy at Waywire. Originally, the company had hoped to <a href="http://techcrunch.com/2012/06/30/waywire/">challenge traditional media outlets</a> by creating and distributing its own videos and those of its users. But it&#8217;s pivoted to become more of a platform for <a href="http://techcrunch.com/2012/08/13/waywire-video/">collecting and curating videos</a> from multiple sources.</p>
+<p>We&#8217;ll see how Waywire fares when it&#8217;s ready to launch its product. With a new CEO and new funding, and without the questions about Booker&#8217;s involvement, that should happen in the coming months.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873533/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9f2XzDLTQZA:rZmujUoiCYM:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9f2XzDLTQZA:rZmujUoiCYM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9f2XzDLTQZA:rZmujUoiCYM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/9f2XzDLTQZA" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/cory-booker-leaves-waywire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/03/cory_booker_twitter.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/03/cory_booker_twitter.jpg?w=150" medium="image">
+			<media:title type="html">Cory_Booker_Twitter</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ryanlawler</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/cory-booker-leaves-waywire/</feedburner:origLink></item>
+		<item>
+		<title>Energy Excelerator, The Accelerator For Clean Energy Startups, Receives $30M From The Navy</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/3FOj4MqKw-U/</link>
+		<comments>http://techcrunch.com/2013/09/06/energy-excelerator-the-accelerator-for-clean-energy-startups-receives-30m-from-the-navy/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 18:01:57 +0000</pubDate>
+		<dc:creator>Eliza Brooke</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Energy Excelerator]]></category>
+		<category><![CDATA[clean energy]]></category>
+		<category><![CDATA[cleantech]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=869838</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/08/energy-excelerator-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Energy Excelerator logo" style="float: left; margin: 0 10px 7px 0;" />Energy Excelerator, a Hawaii-based accelerator program for cleantech start-ups, has received an investment of $30 million from the Navy&#8217;s Office of Naval Research under the Asia Pacific Technology Education Program. It&#8217;s a significant investment in a sector that has struggled to raise money from venture capitalists because of its large capital requirements and low, slow returns for investors. This latest commitment from the Navy triples the funding that Energy Excelerator has operated on in the three years since its founding. The program&#8217;s seed funding came from the Department of Energy, said Dawn Lippert, Energy Excelerator&#8217;s Senior Manager. Energy Excelerator works with seed- and growth-stage companies building energy solutions that can be applied in Hawaii. Seventeen startups have graduated from the program thus far, half of which were founded in-state. Their products, which span hardware and software, include electronic bicycles, an inverter to charge electronic vehicles using DC solar power, and a system to grow algae for biofuel. Hawaii is in many ways the perfect environment for energy start-ups, said Lippert. Electricity costs three to four times more than it does in the continental US, meaning young energy companies can compete economically, and the government is motivated to become less oil dependent. Sun, tides, and three growing seasons provide the resources for alternative energy, while the state&#8217;s military bases provide locations to test their systems. &#8220;The Department of Defense saw the model and liked it and decided to back it [through the Navy]. The DoD really sees the value of Hawaii as a place to roll out early innovation companies, and they&#8217;re hungry for technology that solves energy problems, specifically in Hawaii and Asia Pacific. We actually have been working with the DoD as a strategic customer. All of the different bases provide a good place to demonstrate the technology, so they&#8217;ve decided to get on board.&#8221; Although some venture capitalists are in the cleantech game, Lippert said that it is particularly difficult for these startups to find funding. In April, the San Jose Mercury News reported that global clean technology venture investment had dropped 33% from 2011 to 2012, from $9.61 billion to $6.46 billion, and that first quarter figures from this year were down 30% from the fourth quarter of 2012. Those figures come from the research firm Cleantech Group. On the announcement of its second class last year, the San Francisco-based cleantech accelerator Greenstart told TechCrunch that it]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/08/energy-excelerator-logo.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Energy Excelerator logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.hawaiirenewable.com/program/">Energy Excelerator</a>, a Hawaii-based accelerator program for cleantech start-ups, has received an investment of $30 million from the Navy&#8217;s Office of Naval Research under the Asia Pacific Technology Education Program. It&#8217;s a significant investment in a sector that has struggled to raise money from venture capitalists because of its large capital requirements and low, slow returns for investors.</p>
+<p>This latest commitment from the Navy triples the funding that Energy Excelerator has operated on in the three years since its founding. The program&#8217;s seed funding came from the Department of Energy, said Dawn Lippert, Energy Excelerator&#8217;s Senior Manager.</p>
+<p>Energy Excelerator works with seed- and growth-stage companies building energy solutions that can be applied in Hawaii. Seventeen startups have graduated from the program thus far, half of which were founded in-state. Their products, which span hardware and software, include <a target="_blank" href="http://www.consciouscommuter.com/">electronic bicycles</a>, an inverter to charge electronic vehicles using DC solar power, and a system to <a target="_blank" href="http://www.hawaiirenewable.com/kuehnle-agrosystems/">grow algae for biofuel</a>.</p>
+<p>Hawaii is in many ways the perfect environment for energy start-ups, said Lippert. Electricity costs three to four times more than it does in the continental US, meaning young energy companies can compete economically, and the government is motivated to become less oil dependent. Sun, tides, and three growing seasons provide the resources for alternative energy, while the state&#8217;s military bases provide locations to test their systems.</p>
+<p>&#8220;The Department of Defense saw the model and liked it and decided to back it [through the Navy]. The DoD really sees the value of Hawaii as a place to roll out early innovation companies, and they&#8217;re hungry for technology that solves energy problems, specifically in Hawaii and Asia Pacific. We actually have been working with the DoD as a strategic customer. All of the different bases provide a good place to demonstrate the technology, so they&#8217;ve decided to get on board.&#8221;</p>
+<p>Although some venture capitalists are in the cleantech game, Lippert said that it is particularly difficult for these startups to find funding.</p>
+<p>In April, the San Jose Mercury News <a target="_blank" href="http://www.mercurynews.com/ci_23320612/cleantech-vc-interest-shrinks-corporate-investors-swoop">reported</a> that global clean technology venture investment had dropped 33% from 2011 to 2012, from $9.61 billion to $6.46 billion, and that first quarter figures from this year were down 30% from the fourth quarter of 2012. Those figures come from the research firm <a target="_blank" href="http://research.cleantech.com/">Cleantech Group</a>.</p>
+<p>On the announcement of its second class last year, the San Francisco-based cleantech accelerator Greenstart <a href="http://techcrunch.com/2012/02/15/greenstart-tightens-focus-goes-after-sexy-cleantech-startups/">told TechCrunch</a> that it was aiming to &#8220;make cleantech a little sexier in the investment community.&#8221;</p>
+<p>But as the Mercury News pointed out, the best option for cleantech companies is often to find corporate investors who understand the scope of the space.</p>
+<p>By operating outside Silicon Valley and instead in an environment with a vested interest in finding energy solutions, Energy Excelerator could be making steps toward helping cleantech start-ups get traction. Thus far, their 17 graduates have gone on to raise over $38 million and find customers in large companies like Toshiba.</p>
+<p>&#8220;Cleantech is struggling in the venture world. A lot of energy companies in clean tech are hungry for this program,&#8221; Lippert said. &#8220;They&#8217;re coming to Hawaii to get into a market, and that&#8217;s what we do. Working in this market with a lot of players, and we help them find early customers. In the general world of clean tech and energy, this is a really bright spot.&#8221;</p>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='360' src='http://www.youtube.com/embed/5Np5WkJRpC0?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/869838/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=3FOj4MqKw-U:lqZQK5y4xO4:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=3FOj4MqKw-U:lqZQK5y4xO4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=3FOj4MqKw-U:lqZQK5y4xO4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/3FOj4MqKw-U" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/energy-excelerator-the-accelerator-for-clean-energy-startups-receives-30m-from-the-navy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/08/energy-excelerator-logo.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/08/energy-excelerator-logo.png?w=150" medium="image">
+			<media:title type="html">Energy Excelerator logo</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/b4b585040cb59fd07c5d7488ae8e2c6a?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">elizabrooke</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/energy-excelerator-the-accelerator-for-clean-energy-startups-receives-30m-from-the-navy/</feedburner:origLink></item>
+		<item>
+		<title>Microsoft Untethers OneNote For iPad From The PC, Now Lets Users Create New Notebooks On The Go</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/NDwZi77eO0w/</link>
+		<comments>http://techcrunch.com/2013/09/06/microsoft-untethers-onenote-for-ipad-from-the-pc-now-lets-users-create-new-notebooks-on-the-go/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 17:45:23 +0000</pubDate>
+		<dc:creator>Frederic Lardinois</dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[onenote]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[SkyDrive]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873493</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/mzl-tsbzhedg-350x350-75.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mzl.tsbzhedg.350x350-75" style="float: left; margin: 0 10px 7px 0;" />Microsoft's <a target="_blank" href="http://office.microsoft.com/en-us/onenote/">OneNote</a> note-taking app for <a target="_blank" href="https://itunes.apple.com/us/app/microsoft-onenote-for-ipad/id478105721?mt=8">iPad</a> and <a target="_blank" href="https://itunes.apple.com/us/app/microsoft-onenote/id410395246?mt=8">iPhone</a> got a <a target="_blank" href="http://blogs.office.com/b/microsoft-onenote/archive/2013/09/06/onenote-for-iphone-and-ipad-update-new-notebooks-and-sections-on-ipad-and-additional-improvements-on-iphone.aspx">small but important update today</a> that finally makes the iPad version a completely stand-alone experience. Until now, you couldn't create new notebooks from the iPad, so you were always forced to go back to the desktop or web version sooner or later. With today's update, Microsoft is adding this feature, as well as the ability to finally add, rename and delete sections in existing notebooks on the iPad.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/mzl-tsbzhedg-350x350-75.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="mzl.tsbzhedg.350x350-75" style="float: left; margin: 0 10px 7px 0;" /><p>Microsoft&#8217;s <a target="_blank" href="http://office.microsoft.com/en-us/onenote/">OneNote</a> note-taking app for <a target="_blank" href="https://itunes.apple.com/us/app/microsoft-onenote-for-ipad/id478105721?mt=8">iPad</a> and <a target="_blank" href="https://itunes.apple.com/us/app/microsoft-onenote/id410395246?mt=8">iPhone</a> got a <a target="_blank" href="http://blogs.office.com/b/microsoft-onenote/archive/2013/09/06/onenote-for-iphone-and-ipad-update-new-notebooks-and-sections-on-ipad-and-additional-improvements-on-iphone.aspx">small but important update today</a> that finally makes the iPad version a completely stand-alone experience. Until now, you couldn&#8217;t create new notebooks from the iPad, so you were always forced to go back to the desktop or web version sooner or later. With today&#8217;s update, Microsoft is adding this feature, as well as the ability to finally add, rename and delete sections in existing notebooks on the iPad.</p>
+<p>As always, notes and new notebooks are saved on SkyDrive and automatically synced between different installs.</p>
+<p>iPhone users are still tethered to OneNote for the desktop or web, as the phone version of the app did not get any of these new features (though you can, of course, use the app to add new notes or edit existing ones). The new iPhone version, however, Microsoft says, weighs in at half the download size of the previous app. Microsoft always <a target="_blank" href="http://answers.microsoft.com/en-us/office/forum/office_mobile-onenote/onenote-for-ipad-iphone-v2-faq/335562d7-a0d6-4b18-88ff-90fc24c86ddf">argued</a> that the main reason for the app&#8217;s large size was that the app shipped with support for 29 languages and retina art, but it looks like the company managed to compress the size down to something more manageable than the 250 MB the previous version required (which indeed sounds like quite a lot of a note-taking app)</p>
+<p></p>
+<p>In addition, both version now feature typing improvements for Japanese. In the previous version, it seems, customers reported that typing was very slow for them.</p>
+<p>Both the iPad and iPhone version of the app now also feature automatic list detection, which is a bit of a godsend if you are like many of us who always tend to write their notes as lists.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873493/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=NDwZi77eO0w:levCpD2ETdU:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=NDwZi77eO0w:levCpD2ETdU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=NDwZi77eO0w:levCpD2ETdU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/NDwZi77eO0w" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/microsoft-untethers-onenote-for-ipad-from-the-pc-now-lets-users-create-new-notebooks-on-the-go/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/mzl-tsbzhedg-350x350-75.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/mzl-tsbzhedg-350x350-75.jpg?w=150" medium="image">
+			<media:title type="html">mzl.tsbzhedg.350x350-75</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/55542aa717199728948f628edc1170b1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">fredericlardinois</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/1348-oni4-550x0.png" medium="image">
+			<media:title type="html">1348.ONI4.png-550x0</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/microsoft-untethers-onenote-for-ipad-from-the-pc-now-lets-users-create-new-notebooks-on-the-go/</feedburner:origLink></item>
+		<item>
+		<title>Now UK Nationwide, The £100M Angel CoFund Is Able To Super-Charge Angel Syndicates</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/MFk75Un_u9o/</link>
+		<comments>http://techcrunch.com/2013/09/06/now-uk-nationwide-the-100m-angel-cofund-is-able-to-super-charge-angel-syndicates/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 17:23:42 +0000</pubDate>
+		<dc:creator>Mike Butcher</dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873513</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/11/5857331527_2b68c7fbca_o.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Money Laundering" style="float: left; margin: 0 10px 7px 0;" />UK startups raising financing have a new route to funds in the shape of a government-backed fund which can supercharge an Angel round with extra funds. The <a target="_blank" href="http://www.angelcofund.co.uk">Angel CoFund</a> is a UK government-backed £100m fund able to make initial investments of between £100,000 to £1 million into businesses, alongside syndicates of business angels. Launched in November 2011, it was an early backer of Yplan, the events app which this year raised $12 million,  PlayJam (a games maker for smart TVs). The fund started out investing in just some parts of the UK, but now it works nationwide. And It's now had its first exit in its short, two year history.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/11/5857331527_2b68c7fbca_o.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Money Laundering" style="float: left; margin: 0 10px 7px 0;" /><p>UK startups raising financing have a new route to funds in the shape of a government-backed fund which can super-charge an Angel round with extra cash. The <a target="_blank" href="http://www.angelcofund.co.uk">Angel CoFund</a> is a UK government-backed £100m fund able to make initial investments of between £100,000 to £1 million into businesses, alongside syndicates of business angels. Launched in November 2011, it was an early backer of Yplan, the events app which this year raised $12 million and PlayJam (a games maker for smart TVs). The fund started out investing in just some parts of the UK, but now it works nationwide. And it&#8217;s now had its first exit in its short, two year history.</p>
+<p>Nonlinear Dynamics, a Newcastle firm that develops specialist software for analysing proteins, has been acquired by Waters Inc, one of largest companies in the analytical instruments industry, listed on the New York Stock Exchange and with a market cap of $8.85bn. The Angel CoFund released information to the effect that it had acquired approximately 5% of the company, whilst also investing in a convertible loan. It had originally invested £383,000, but the exit means its return was £1.086 million, or a 2.84x for the fund and its co-invested Angels.</p>
+<p>The Angel CoFund usually offers about one third again in funding to the startup which can really super-charge an investment. To date the fund has supported 32 companies, providing £12 million in direct investment alongside £50 million from business angels.</p>
+<p>The committee that makes the decisions about the investments includes Alan MacKay, CEO of Hermes GPE and a BVCA member and Alistair Arkley Advisory Board member of Seraphim Capital and Hotspur Capital. Other members of the committee are active Angels so we are not talking about inexperienced government officials here.</p>
+<p>The fund typically works quite quickly with Angel networks around the country, so it is worth startup entrepreneurs making their angel investors aware of the the Angel CoFund if they are not already. Clearly they have the capability to raise the levels of investment in a startup to a more workable level than a smaller Angel round might allow.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873513/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MFk75Un_u9o:DGO3oAYevAI:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=MFk75Un_u9o:DGO3oAYevAI:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=MFk75Un_u9o:DGO3oAYevAI:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/MFk75Un_u9o" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/now-uk-nationwide-the-100m-angel-cofund-is-able-to-super-charge-angel-syndicates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2012/11/5857331527_2b68c7fbca_o.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2012/11/5857331527_2b68c7fbca_o.jpg?w=150" medium="image">
+			<media:title type="html">Money Laundering</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ef4a4ab87c72738ed187e21de55b2fc6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">mike-butcher</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/now-uk-nationwide-the-100m-angel-cofund-is-able-to-super-charge-angel-syndicates/</feedburner:origLink></item>
+		<item>
+		<title>OS X Mavericks Most Likely Arriving In October, Reports Claim, Perhaps Alongside Haswell MacBook Pros</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/i9Pe36CaEPs/</link>
+		<comments>http://techcrunch.com/2013/09/06/os-x-mavericks-most-likely-arriving-in-october-reports-claim-perhaps-alongside-haswell-macbook-pros/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 17:22:23 +0000</pubDate>
+		<dc:creator>Darrell Etherington</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[os x]]></category>
+		<category><![CDATA[mavericks]]></category>
+		<category><![CDATA[10.9]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873488</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/os-x-mavericks.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="os-x-mavericks" style="float: left; margin: 0 10px 7px 0;" />Apple's next-generation operating system for desktops, OS X Mavericks, is already in the hands of developers, but we likely won't see version 10.9 make its way to consumer devices ahead of October. Some rumors had suggested Apple might ship the OS at its iPhone even next week, or another time during September, but both 9to5Mac and AllThingsD are now reporting late October for Mavericks' arrival.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/os-x-mavericks.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="os-x-mavericks" style="float: left; margin: 0 10px 7px 0;" /><p>Apple&#8217;s next-generation operating system for desktops, OS X Mavericks, is already in the hands of developers, but we likely won&#8217;t see version 10.9 make its way to consumer devices ahead of October. Some rumors had suggested Apple might ship the OS at its iPhone even next week, or another time during September, but both <a target="_blank" href="http://9to5mac.com/2013/09/06/apples-os-x-mavericks-release-planned-for-end-of-october/">9to5Mac</a> and <a target="_blank" href="http://allthingsd.com/20130906/apple-likely-to-ship-os-x-mavericks-in-october/?mod=tw_appl">AllThingsD</a> are now reporting late October for Mavericks&#8217; arrival.</p>
+<p>Sources speaking to both publications maintain that Apple had dedicated most of its resources to shipping iOS 7 in time for the launch of its new iPhone hardware next week, and therefore planned the arrival of Mavericks for late October. It&#8217;s worth noting that Apple previously said only that <a href="http://techcrunch.com/2013/06/10/apple-rolls-out-os-x-maverick-with-tabbed-finder-tags-and-improved-multiple-monitor-support/">Mavericks would arrive this fall</a>, and October still fits the bill, so this looks like it&#8217;s in keeping with the original timeframe.</p>
+<p>Mavericks brings an enhanced Finder, better multimonitor support, a standalone iBooks application, and improved power management to OS X-powered Macs. Developers using the preview claim that the <a target="_blank" href="https://twitter.com/mygeekdaddy/status/375613192359378945">latest builds feel very stable</a>, though some suggest the <a target="_blank" href="https://twitter.com/Rogerpn/status/375787215005052928">latest version is a slight step backwards</a> over the previous release. Either way, some had interpreted its stability as a sign of impending release, but these latest reports suggest users will be waiting a bit longer.</p>
+<p>A big possibility with Mavericks is that it will release alongside new Mac hardware, of which Apple is thought to have plenty forthcoming. There&#8217;s the Mac Pro, which is assembled in the U.S. and features a radical new design that uses external I/O for most of its expandability. Also in the works are new MacBook Pro devices, which will ship with Intel Haswell processors that, combined with Mavericks&#8217; power-saving tricks, could make for machines with very impressive battery life. It stands to reason that Apple would introduce OS X Mavericks alongside new hardware to showcase it, though if you&#8217;ve picked up one of the latest <a title="Apple’s 2013 13-Inch MacBook Air Sweetens The Deal For One Of The Best Available Computers" href="http://techcrunch.com/2013/06/17/2013-macbook-air-review/">Haswell-powered MacBook Airs</a>, expect those to get a juice boost from 10.9 as well.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873488/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=i9Pe36CaEPs:Ulsz02OZS4k:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=i9Pe36CaEPs:Ulsz02OZS4k:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=i9Pe36CaEPs:Ulsz02OZS4k:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/i9Pe36CaEPs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/os-x-mavericks-most-likely-arriving-in-october-reports-claim-perhaps-alongside-haswell-macbook-pros/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/os-x-mavericks.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/os-x-mavericks.jpg?w=150" medium="image">
+			<media:title type="html">os-x-mavericks</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/188039e12983eb749171a75cfd01378d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">etherin</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/os-x-mavericks-most-likely-arriving-in-october-reports-claim-perhaps-alongside-haswell-macbook-pros/</feedburner:origLink></item>
+		<item>
+		<title>That Was Fast: Nokia Draws Down The $2B In Convertible Bonds Offered By Microsoft Earlier This Week</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/7kwatnd3O2E/</link>
+		<comments>http://techcrunch.com/2013/09/06/that-was-fast-nokia-draws-down-the-2b-in-convertible-bonds-offered-by-microsoft-earlier-this-week/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 17:01:44 +0000</pubDate>
+		<dc:creator>Ingrid Lunden</dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[Microsoft]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873472</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/06/ms-nokia.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ms-nokia" style="float: left; margin: 0 10px 7px 0;" />If we needed some more confirmation of how urgent the financial situation was over at Nokia, we got a glimpse of it today. The company announced that it would be <a target="_blank" href="http://press.nokia.com/2013/09/06/nokia-to-issue-convertible-bonds-of-eur-1-5-billion-to-microsoft/">drawing down</a> the €1.5 billion ($2 billion) in convertible bonds offered to it by Microsoft earlier this week at the same time as the announcement of its $7.2 billion acquisition of Nokia's mobile phone business. Nokia says it will be using the proceeds towards its acquisition of outstanding NSN shares, "and for general corporate purposes." They will be issued on September 23.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/06/ms-nokia.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="ms-nokia" style="float: left; margin: 0 10px 7px 0;" /><p>If we needed some more confirmation of how urgent the financial situation was over at Nokia, we got a glimpse of it today. The company announced that it would be <a target="_blank" href="http://press.nokia.com/2013/09/06/nokia-to-issue-convertible-bonds-of-eur-1-5-billion-to-microsoft/">drawing down</a> the €1.5 billion ($2 billion) in convertible bonds offered to it by Microsoft earlier this week at the same time as the announcement of its $7.2 billion acquisition of Nokia&#8217;s mobile phone business. Nokia says it will be using the proceeds towards its acquisition of outstanding NSN shares, &#8220;and for general corporate purposes.&#8221; They will be issued on September 23.</p>
+<p>The €1.5 billion, as detailed in the <a target="_blank" href="http://press.nokia.com/2013/09/03/nokia-to-sell-devices-services-business-to-microsoft-in-eur-5-44-billion-all-cash-transaction/">original announcement</a> of the deal, was being made available in three tranches of €500 million. Nokia is going all in on these, with the three tranches respectively maturing in five, six and seven years.</p>
+<p>There has been a lot of speculation about what finally pushed Nokia into making the deal to sell its handset business, and these bonds play into that bigger story. </p>
+<p>Elop <a href="http://techcrunch.com/2013/09/03/a-trojan-horse-once-again-stephen-elop-now-evp-of-devices-at-microsoft-confirmed-as-an-internal-candidate-for-ceo-slot-as-he-lays-out-plans-in-his-own-words/">characterized</a> it as a realization that it simply didn&#8217;t have the financial resources to meet the challenge of clawing back to the top of the smartphone market against companies like Apple, Google and Samsung with much deeper pockets &#8212; lined because they not only overtook Nokia in smartphones, but because they did so with appealing devices that tapped into a key moment just when consumers were starting to buy them in earnest.</p>
+<p>That certainly is true, but there may have been other forces in play &#8212; such as the fact that Nokia simply didn&#8217;t have that much money for anything, even to sustain a middling phone business. &#8220;I theorize that Nokia was either going to switch to Android or was on the verge of going bankrupt,&#8221; <a target="_blank" href="http://stratechery.com/2013/the-deal-that-makes-no-sense/">wrote</a> mobile pundit Ben Thompson, who went on to note that the €1.5 billion in financing was one indication of the latter.</p>
+<p>The fact that it will be used to help finance Nokia&#8217;s NSN business &#8212; Nokia announced it would buy out partner Siemens <a target="_blank" href="http://press.nokia.com/2013/07/01/nokia-to-fully-acquire-siemens-stake-in-nokia-siemens-networks/">in July for €1.7 billion</a> &#8212; is really just a shift of where the resources are going. Regardless of how it&#8217;s cut, Nokia needs the money bandage in one place or another.</p>
+<p>Nokia notes that if it manages to complete the sale of its Devices &amp; Services business, the bonds &#8220;will be redeemed and the principal amount and accrued interest netted against the Sale of the D&amp;S Business proceeds.&#8221; If the deal falls through, they &#8220;will be redeemed at par on their respective maturity dates, unless otherwise redeemed, purchased, converted or cancelled in accordance with their terms.&#8221;</p>
+<p>Nokia notes that Microsoft will not sell any of the bonds or convert them to Nokia shares before the sale closes, and if the sale does not complete, it will be able to sell the first tranche immediately but wait one and two years for the next two tranches. </p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873472/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7kwatnd3O2E:zEg1z6SynFc:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=7kwatnd3O2E:zEg1z6SynFc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=7kwatnd3O2E:zEg1z6SynFc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/7kwatnd3O2E" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/that-was-fast-nokia-draws-down-the-2b-in-convertible-bonds-offered-by-microsoft-earlier-this-week/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/06/ms-nokia.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/06/ms-nokia.png?w=150" medium="image">
+			<media:title type="html">ms-nokia</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6648ec93043f0f368091adece63c6d52?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ingridlunden</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/that-was-fast-nokia-draws-down-the-2b-in-convertible-bonds-offered-by-microsoft-earlier-this-week/</feedburner:origLink></item>
+		<item>
+		<title>Pinterest And Path To Battle Over Letter “P” Logo Trademark</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/LaW02JZmHDw/</link>
+		<comments>http://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 16:53:41 +0000</pubDate>
+		<dc:creator>Sarah Perez</dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[path]]></category>
+		<category><![CDATA[Pinterest]]></category>
+		<category><![CDATA[Trademark]]></category>
+		<category><![CDATA[Logo]]></category>
+		<category><![CDATA[design]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=873436</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/path-pinterest.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="path-pinterest" style="float: left; margin: 0 10px 7px 0;" />Are the <a target="_blank" href="http://www.path.com">Path</a> and <a target="_blank" href="http://www.pinterest.com">Pinterest</a> logos too similar? Path apparently thinks so. The mobile messaging startup is currently working to prevent Pinterest from acquiring the trademark to the letter "P" as a stylized design (<a target="_blank" href="https://www.docketalarm.com/trademarks/85685180/P/">like the one shown here</a>, and below). The U.S. trademark office allowed Pinterest's trademark registration on this proposed design mark, but recently Path asked for an extension in order to file an opposition.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/path-pinterest.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="path-pinterest" style="float: left; margin: 0 10px 7px 0;" /><p>Are the <a target="_blank" href="http://www.path.com">Path</a> and <a target="_blank" href="http://www.pinterest.com">Pinterest</a> logos too similar? Path apparently thinks so. The mobile messaging startup is currently working to prevent Pinterest from acquiring the trademark to the letter &#8220;P&#8221; as a stylized design (<a target="_blank" href="https://www.docketalarm.com/trademarks/85685180/P/">like the one shown here</a>, and below). The U.S. trademark office allowed Pinterest&#8217;s trademark registration on this proposed design mark, but recently Path asked for an extension in order to file an opposition.</p>
+<p>It&#8217;s a bit too early in the process to see where this fight goes, but if Pinterest was granted the trademark to the &#8220;P,&#8221; it could then potentially prevent Path, and other apps, from using similar designs, explains <a target="_blank" href="http://www.startupsip.com/">patent attorney</a> <a target="_blank" href="http://www.linkedin.com/in/lkravets">Lenny Kravets</a>, who serves as Patent Counsel at InterDigital Communications.</p>
+<p><a href="http://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/p-85685180-trademark-via-docket-alarm/" rel="attachment wp-att-873474"></a>This is the kind of battle that happens all the time in the trademark world, as companies struggle to come up with logos that are unique and differentiated from their competitors and industry peers. However, this particular case is interesting because of the increasing similarities between the design styles of both the Pinterest and Path applications, which could contribute to so-called &#8220;consumer confusion&#8221; and make the trademark issue more significant.</p>
+<p>As you may recall, in July, <a href="http://techcrunch.com/2013/07/31/pinterests-mobile-app-gets-path-like-animations-readies-personalization-options/">Pinterest&#8217;s mobile application received a significant update to its design</a>, which introduced a new interface and animations. The animations are very similar to those Path popularized &#8211; little, round circle icons that pop up when a user taps the screen directing the user to other actions that can then be taken.</p>
+<p>In Path, users tap the plus &#8220;+&#8221; button at the bottom of the screen to pop up a series of post types they can make, like &#8220;photo,&#8221; &#8220;music,&#8221; &#8220;location,&#8221; and more. But in Pinterest, the animations only appear when a user presses and holds on a shared pin. Then, you would have to slide your finger over to the action you want to take, like &#8220;favorite,&#8221; email, or re-pin, for example.  (Pinterest, we should note, isn&#8217;t the only one to adopt this design style in recent months &#8211;  Tumblr too introduced a similarly inspired interface <a href="http://techcrunch.com/2013/05/20/tumblr-updates-ios-app-with-new-path-like-interface/">earlier this year</a>.)</p>
+<p>But the fact that Pinterest adopted a design style that Path had already introduced can help to make the case against Pinterest gaining rights to this trademark. Before the Trademark Office registers a mark, they first examine the mark against prior registrations, and check for a number of factors, including whether the mark could confuse the public, or is deceptive, among many other things.</p>
+<p>Explains Matthew Mitchell, patent attorney at <a target="_blank" href="http://www.mipatents.com/">Mitchell Law PLLC</a>, the trademark office publishes the registration, allowing the public &#8211; individuals or companies &#8211; to file an opposition. Objectors can also request an extension up to 30 days &#8211; which is what the document (see below) references. Path is asking for an extension, which typically allows an attorney the time to draft the objection, laying out the merits of why a mark should or should not be registered.</p>
+<p><a href="http://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/path-pinterest-2/" rel="attachment wp-att-873473"></a></p>
+<p>If Path is able to successfully make its case, that wouldn&#8217;t mean it could stop Pinterest from continuing to use its logo, however. &#8220;If Path wanted to stop Pinterest from using the logo, they&#8217;d have to basically make the case that Path has a trademark to the &#8220;P,&#8221; and that Pinterest is infringing on it,&#8221; says Kravets.</p>
+<p>Instead, Path is looking here to only stop Pinterest from gaining the design trademark, which it could then use against Path and others if it chose.</p>
+<p>We reached out to representatives at Path and Pinterest, and will update if they choose to comment.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/873436/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LaW02JZmHDw:LiuUlnzh2Qs:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LaW02JZmHDw:LiuUlnzh2Qs:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LaW02JZmHDw:LiuUlnzh2Qs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/LaW02JZmHDw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/path-pinterest.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/path-pinterest.png?w=150" medium="image">
+			<media:title type="html">path-pinterest</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5225bb627e112543aa03bf3b2958be3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">sarahintampa</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/p-85685180-trademark-via-docket-alarm.png?w=249" medium="image">
+			<media:title type="html">P, 85685180 (Trademark) via Docket Alarm</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/path-pinterest-2.png?w=640" medium="image">
+			<media:title type="html">path-pinterest 2</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/</feedburner:origLink></item>
+		<item>
+		<title>Nokia's First Phablet, The Lumia 1520, Crops Up In Leaked Image - Won't Be Windows Phone's Savior</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/cJXXIN_oy1Q/</link>
+		<comments>http://techcrunch.com/2013/09/06/lumia-1520-leak/#comments</comments>
+		<pubDate>Fri, 06 Sep 2013 15:53:11 +0000</pubDate>
+		<dc:creator>Natasha Lomas</dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[nokia lumia 1520]]></category>
+		<category><![CDATA[phablet]]></category>
+		<category><![CDATA[windows phone]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=872949</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/lumia-1520.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lumia-1520" style="float: left; margin: 0 10px 7px 0;" />Nokia has been rumoured to be preparing a Windows Phone-powered phablet for months, with the aim of expanding the upper echelons of its smartphone portfolio and taking on Samsung's Galaxy Note line. Images purporting to depict a palm-stretching handset carrying Nokia branding have cropped up online before now, but today prolific leaker @evleaks has posted a press image in Nokia's typical style.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/09/lumia-1520.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="lumia-1520" style="float: left; margin: 0 10px 7px 0;" /><p>Nokia has been <a href="http://techcrunch.com/2013/04/18/lumia-phablet-rumour/">rumoured</a> to be preparing a Windows Phone-powered phablet for many months, to expand the upper echelons of its smartphone portfolio and battle Samsung&#8217;s Galaxy Note line (the latest of which, the <a href="http://techcrunch.com/2013/09/04/samsungn-reveals-the-galaxy-note-3-the-slimmer-and-lighter-evolution-of-the-phablet/">Note 3</a>, was unboxed only this week). Images purporting to depict a palm-stretching handset carrying Nokia&#8217;s branding have also cropped up online before now, but today prolific leaker <a target="_blank" href="https://twitter.com/evleaks/status/375964692004360193/photo/1">@evleaks</a> has posted a press image in Nokia&#8217;s typical style.</p>
+<p>The image shows what&#8217;s evidently a larger than usual Windows Phone, with enough screen real estate to display 11 x 6 rows of icons (vs the 7 x 4 icons that the 4.5 inch <a href="http://techcrunch.com/2013/05/14/lumia-925-confirmed/">Lumia 925</a> accommodates). The other notable feature is the gently protruding rear camera which looks to be the same as the 925&#8242;s PureView-branded 8.7MP lens &#8212; so not, in other words, the <a href="http://techcrunch.com/2013/07/11/nokia-lumia-1020-official/">41MP &#8216;true PureView&#8217; Lumia 1020</a>.</p>
+<p>Nokia hasn&#8217;t officially confirmed its phablet launch plans, but the pattern of an increasing flow of leaks is consistent with other leaky Lumia launch trajectories (such as the <a href="http://techcrunch.com/2013/07/11/nokia-lumia-1020-official/">Lumia 1020</a>). It&#8217;s certainly no secret that Nokia has been weighing up getting into the phablet space on Windows Phone &#8212; and doing so for a long time. Back in <a href="http://techcrunch.com/2012/02/28/tc-interview-nokia-ceo-elop-on-phablets-41-megapixels-and-competition/">February 2012</a> the company told TechCrunch that it was &#8220;looking closely [at the mid-size tablet market] and looking to see whether it will catch on&#8221;.</p>
+<p>In the event, Samsung has <a href="http://techcrunch.com/2012/11/26/samsung-galaxy-note-ii-phablet-passes-five-million-channel-sales-in-two-months/">continued building momentum</a> in the category, while smartphone screens generally have inflated in size to try to keep up with the trend for bigger phones.  Meanwhile Nokia has faced an uphill battle trying to sell its smartphones in a market dominated by Android and iOS. Indeed, it&#8217;s been such a struggle for the company that, at the start of this week, it confirmed it would be throwing in the towel by selling its Devices &amp; Services unit <a href="http://techcrunch.com/2013/09/02/microsoft-enters-into-7-1b-deal-to-buy-nokias-devices-and-services-business-and-license-key-patents/">to Microsoft for $7.2 billion</a> and licensing its brand name for use by Redmond on mobiles and smartphones.</p>
+<p>That transaction is not due to close til the first quarter of 2014, though, so Nokia has a few more months of pushing phones ahead of it. The Windows Phone phablet is named in @evleaks&#8217; tweet as the Nokia Lumia 1520 and includes this year&#8217;s date &#8212; indicating a 2013 launch, which suggests Nokia will be launching the device, rather than letting Microsoft do the honours.</p>
+<p>Getting into the phablet making-game &#8212; even at this late stage &#8212; is one way for Nokia to try to make its devices stand out against the iPhone, which has remained sub-phablet sized, despite Apple increasing the screen size of its <a href="http://techcrunch.com/2012/09/18/iphone-5-review/">current flagship iPhone 5</a> to 4 inches (up from 3.5 inches). But it&#8217;s not going to help Lumia stand out against Android, as many Android OEMs have been ploughing the big phone furrow for some time. As well as the Galaxy Note line (and Samsung&#8217;s other phablet brand, <a href="http://techcrunch.com/2013/04/11/samsung-launches-new-phablet-brand-galaxy-mega-confirms-two-devices-6-3-hd-1-7ghz-dual-core-5-8-qhd-1-4ghz-dual-core/">Mega</a>), a Nokia phablet would compete with phablets from the likes of <a href="http://techcrunch.com/2013/06/25/sony-xperia-z-ultra/">Sony</a>, <a href="http://techcrunch.com/2013/08/21/lg-exec-talks-tablet-smartwatch-phablet-firefox-os-and-windows-phone-plans-for-this-year-and-next/">LG</a> and <a href="http://techcrunch.com/2013/01/07/huawei-officially-reveals-the-6-1-inch-ascend-mate-and-the-5-inch-ascend-d2-we-go-hands-on/">Huawei</a>.</p>
+<p>Add to that, Apple continues to be <a href="http://techcrunch.com/2013/07/22/apple-reportedly-testing-bigger-iphone-and-ipad-screens-starting-production-on-new-9-7-ipad/">rumoured to be testing bigger screen iPhones</a> &#8211; albeit, testing different form factors is simply due diligence in such a competitive market as smartphones. It remains to be seen whether a phablet-sized iPhone will end up going into production &#8212; a <a href="http://techcrunch.com/2013/06/13/apple-reportedly-trying-4-7-and-5-7-inch-screens-on-iphones-next-year-cheaper-model-coming-in-fall/">Reuters</a> report has previously suggested Apple is considering a 2014 timeframe for that. Meanwhile Cupertino of course has its iPad mini and full fat iPad to cover off the larger form factor tablet space in its portfolio (Nokia is rumoured to be lining up a Windows RT tablet too &#8212; doubtless on its soon-to-be-phone-owner Microsoft&#8217;s instructions).</p>
+<p>Returning to the Lumia phablet, at the end of the day, a larger screen is not what Windows Phone needs to lure consumers away from Android and iOS. It needs more developers to make better apps &#8212; but with Android dominating market share and iOS still leading on app monetisation there&#8217;s precious little reason for developers to prioritise Microsoft&#8217;s OS.</p>
+<p>And, from the consumer perspective, Windows Phone remains a solution looking for a problem. Android and iOS continue to be successful because of their apps focus and app-centric UIs. Just offering something different is not in itself enough of a reason for choice-spoilt consumers to care at this point &#8212; as the failure of Facebook&#8217;s Android launcher/app replacer, <a href="http://techcrunch.com/2013/08/01/facebook-brings-homes-lockscreen-replacement-to-their-main-android-app-a-bad-sign-for-home/">Home</a>, also underlines.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/872949/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cJXXIN_oy1Q:-B43ZQI72cw:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cJXXIN_oy1Q:-B43ZQI72cw:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cJXXIN_oy1Q:-B43ZQI72cw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/cJXXIN_oy1Q" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/09/06/lumia-1520-leak/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/09/lumia-1520.png?w=148" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/09/lumia-1520.png?w=148" medium="image">
+			<media:title type="html">lumia-1520</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/09/06/lumia-1520-leak/</feedburner:origLink></item>
+	</channel>
+</rss>
